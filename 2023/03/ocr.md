@@ -42,19 +42,7 @@ FIRST VICE-PRESIDENT Charles Ehrlich (UNITED STATES)
 
 SECOND VICE-PRESIDENT Bobjoseph Mathew (SWITZERLAND)
 
-MEMBERS
-
-Mairead Buckley (IRELAND)
-
-Renée Hansson (SWEDEN)
-
-Robert Lambregts (Netherlands)
-
-Bill Loizides (AUSTRALIA)
-
-Yizhi Qin (P.R. CHINA)
-
-Toshiyuki Takatsuji (JAPAN)
+MEMBERS Mairead Buckley (IRELAND) Renée Hansson (SWEDEN) Robert Lambregts (Netherlands) Bill Loizides (AUSTRALIA) Yizhi Qin (P.R. CHINA) Toshiyuki Takatsuji (JAPAN)
 
 SECRETARY Anthony Donnellan (DIRECTOR OF BIML)
 
@@ -90,7 +78,7 @@ Patricia Saint-Germain: Administrator, Members (patricia.saint-germain@oiml.org)
 
 ## OIML MEMBER STATES
 
-<table border="1"><tr><td>ALBANIA</td><td>KENYA</td></tr><tr><td>ALGERIA</td><td>REP. OF KOREA</td></tr><tr><td>AUSTRALIA</td><td>MONACO</td></tr><tr><td>AUSTRIA</td><td>MOROCCO</td></tr><tr><td>BELARUS</td><td>NETHERLANDS</td></tr><tr><td>BELGIUM</td><td>NEW ZEALAND</td></tr><tr><td>BRAZIL</td><td>NORTH MACEDONIA，REPUBLIC OF</td></tr><tr><td>BULGARIA</td><td>NORWAY</td></tr><tr><td>CAMBODIA</td><td>PAKISTAN</td></tr><tr><td>CANADA</td><td>POLAND</td></tr><tr><td>P.R. CHINA</td><td>PORTUGAL</td></tr><tr><td>COLOMBIA</td><td>ROMANIA</td></tr><tr><td>CROATIA</td><td>RUSSIAN FEDERATION</td></tr><tr><td>CUBA</td><td>SAUDI ARABIA</td></tr><tr><td>CYPRUS</td><td>SERBIA</td></tr><tr><td>CZECH REPUBLIC</td><td>SLOVAKIA</td></tr><tr><td>DENMARK</td><td>SLOVENIA</td></tr><tr><td>EGYPT</td><td>SOUTH AFRICA</td></tr><tr><td>ETHIOPA</td><td>SPAIN</td></tr><tr><td>FINLAND</td><td>SRI LANKA</td></tr><tr><td>FRANCE</td><td>SWEDEN</td></tr><tr><td>GERMANY</td><td>SWITZERLAND</td></tr><tr><td>GREECE</td><td>TANZANIA</td></tr><tr><td>HUNGARY</td><td>THAILAND</td></tr><tr><td>INDIA</td><td>TUNISIA</td></tr><tr><td>INDONESIA</td><td>TURKEY</td></tr><tr><td>ISLAMIC REPUBLIC OF IRAN</td><td>UKRAINE</td></tr><tr><td>IRELAND</td><td>UNITED KINGDOM</td></tr><tr><td>ISRAEL</td><td>UNITED STATES OF AMERICA</td></tr><tr><td>ITALY</td><td>VIETNAM</td></tr><tr><td>JAPAN</td><td>ZAMBIA</td></tr><tr><td>KAZAKHSTAN</td><td></td></tr></table>
+<table border="1"><tr><td>ALBANIA</td><td>KENYA</td></tr><tr><td>ALGERIA</td><td>REP. OF KOREA</td></tr><tr><td>AUSTRALIA</td><td>MONACO</td></tr><tr><td>AUSTRIA</td><td>MOROCCO</td></tr><tr><td>BELARUS</td><td>NETHERLANDS</td></tr><tr><td>BELGIUM</td><td>NEW ZEALAND</td></tr><tr><td>BRAZIL</td><td>NORTH MACEDONIA, REPUBLIC OF</td></tr><tr><td>BULGARIA</td><td>NORWAY</td></tr><tr><td>CAMBODIA</td><td>PAKISTAN</td></tr><tr><td>CANADA</td><td>POLAND</td></tr><tr><td>P.R. CHINA</td><td>PORTUGAL</td></tr><tr><td>COLOMBIA</td><td>ROMANIA</td></tr><tr><td>CROATIA</td><td>RUSSIAN FEDERATION</td></tr><tr><td>CUBA</td><td>SAUDI ARABIA</td></tr><tr><td>CYPRUS</td><td>SERBIA</td></tr><tr><td>CZECH REPUBLIC</td><td>SLOVAKIA</td></tr><tr><td>DENMARK</td><td>SLOVENIA</td></tr><tr><td>EGYPT</td><td>SOUTH AFRICA</td></tr><tr><td>ETHIOPA</td><td>SPAIN</td></tr><tr><td>FINLAND</td><td>SRI LANKA</td></tr><tr><td>FRANCE</td><td>SWEDEN</td></tr><tr><td>GERMANY</td><td>SWITZERLAND</td></tr><tr><td>GREECE</td><td>TANZANIA</td></tr><tr><td>HUNGARY</td><td>THAILAND</td></tr><tr><td>INDIA</td><td>TUNISIA</td></tr><tr><td>INDONESIA</td><td>TURKEY</td></tr><tr><td>ISLAMIC REPUBLIC OF IRAN</td><td>UKRAINE</td></tr><tr><td>IRELAND</td><td>UNITED KINGDOM</td></tr><tr><td>ISRAEL</td><td>UNITED STATES OF AMERICA</td></tr><tr><td>ITALY</td><td>VIETNAM</td></tr><tr><td>JAPAN</td><td>ZAMBIA</td></tr><tr><td>KAZAKHSTAN</td><td></td></tr></table>
 
 ## OIML CORRESPONDING MEMBERS
 
@@ -120,19 +108,17 @@ ECUADOR OMAN
 
 ESTONIA PANAMA
 
-FIJI PAPUA NEW GUINEA
+FIJI GABON PAPUA NEW GUINEA
 
-GABON PARAGUAY
+GEORGIA PARAGUAY
 
-GEORGIA PERU
+GHANA PERU
 
-GHANA PHILIPPINES
+GUATEMALA PHILIPPINES
 
-GUATEMALA QATAR
+GUINEA QATAR
 
-GUINEA RWANDA
-
-GUYANA
+GUYANA RWANDA
 
 HONG KONG, CHINA SAINT LUCIA
 
@@ -656,7 +642,7 @@ Over the upcoming years, standards will play a bigger role in developing the sol
 
 [33] E. Ozkalay, J. Lopez-Garcia, L. Pinero-Prieto, A. Gracia-Amillo and R. P. Kenny, 'Evaluation of the Non-Uniformity of Rear-Side Irradiance in Outdoor Mounted Bifacial Silicon PV Modules', AIP Conference proceedings, Vol. 2147, 2019, 020011, 10.1063/1.5123816.
 
-[34] JCGM 200, ed. 3, 'International vocabulary of metrology-Basic and general concepts and associated terms (VIM)', 2012.
+[34] JCGM 200, ed. 3, 'International vocabulary of metrology - Basic and general concepts and associated terms (VIM)', 2012.
 
 [35] Guide to Meteorological Instruments and Methods of Observation', WMO-No. 8, 2008.
 
@@ -744,7 +730,7 @@ Throughout this optical characterization, the actual quantity of light that will
 
 Thermal measurements help to understand the accumulation of heat over a prolonged time. The positioning frame creates a gap between the soiled coupon and the solar cell modules. The importance of the gap is to avoid contact where undisturbed soil might be affected and to create the conductive heat transfer effect through the blocked air. Figure 2 shows the thermal characterisation for one solar cell using two thermocouples. One was on the back of the solar cell and the other for the ambient temperature, where a. is for the clean glass coupon, b. for the soiled coupon A, c. for the soiled coupon B, and d. for the soiled coupon C. It is clear from the figure that the temperature measured at the beginning of the experiment for all cases was around $ 2 5 \mathrm {^} \mathrm {C} $ . The solar cell started to absorb the sunlight and generate current and it can be noticed that the solar cell
 
-![](page=10,bbox=[264, 262, 1695, 1031])
+![](page=10,bbox=[263, 262, 1695, 1031])
 
 <div align="center">
 
@@ -908,7 +894,7 @@ thus, the relative expanded uncertainty of $ E_{\mathrm{CO2}} $ $ \left(U_{\math
 
 The uncertainty of $ E_{\mathrm{CO2}} $ in method 2 was evaluated using the mathematical model based on Eq. 2. The $ u_{\mathrm{r}} $ of $ m,c_{\mathrm{C}} $ and the sampling were 0.06 %, 0.60 %, and 1.12 %, respectively (Table 5). The relative expanded uncertainty of $ E_{\mathrm{CO2}} $ $ (U_{\mathrm{r}}(E_{\mathrm{CO2}}), k=2) $ was determined as 2.6 % (Table 5). The main source of uncertainty is attributed to the sampling and specimen preparation, which can be reduced by increasing the number of samples and increments.
 
-The accuracy of $ E_{\mathrm{CO2}} $ in method 2 is obviously better than that in method 1. Therefore, method 2 is recommended for use by organizations and companies for the determination of $ \mathrm{CO}_{2} $ emissions in SCSs.
+The accuracy of $ E_{\mathrm{CO2}} $ in method 2 is obviously better than that in method 1. Therefore, method 2 is recommended for use by organizations and companies for the determination of $ \mathrm{CO_{2}} $ emissions in SCSs.
 
 ## 4 Fuel analysis approach for determining the $ \mathrm{C O_{2}} $ emission of fuel oil
 
@@ -966,7 +952,7 @@ In the fuel analysis approach, method 2 based on the carbon content of fuel has 
 
 The emissions of $ \mathrm{C H_{4}} $ and $ \mathrm{N_{2}O} $ cannot be determined using method 2. In contrast, method 1 is suitable for determining the emissions of $ \mathrm{C H_{4}} $ and $ \mathrm{N_{2}O} $ from SCSs [1]. The EF of both $ \mathrm{C H_{4}} $ and $ \mathrm{N_{2}O} $ is specified by the IPCC 2006 guidelines [1].
 
-The GHG emission described above is contributed from the combustion of fossil fuels. In the furnace of a power plant, limestone is usually added to reduce the $ \mathrm{S O}_{2} $ emissions. The extra $ \mathrm{C O}_{2} $ emissions due to the decomposition of the limestone should be considered in the accounting of GHG emissions of power plant companies.
+The GHG emission described above is contributed from the combustion of fossil fuels. In the furnace of a power plant, limestone is usually added to reduce the $ \mathrm{S O_{2}} $ emissions. The extra $ \mathrm{C O_{2}} $ emissions due to the decomposition of the limestone should be considered in the accounting of GHG emissions of power plant companies.
 
 As described above, in the fuel analysis approach, the instruments require calibration and verification using CRMs, while the analytical methods require validation using the CRMs of coal or fuel oil. The uncertainty arising from the sampling and preparation of specimens needs to be investigated. A new OIML Recommendation providing guidance on the verification of an EA for coal and fuel oil is urgently needed.
 
@@ -1206,7 +1192,7 @@ the power PV products generate, and the PV energy we buy. Through the establishm
 
 [1] Haifeng Meng et. Al., Accurate Measurement of New Type Non-silicon Solar Cells' Photoelectric Conversion Efficiency, 2018 J. Phys.: Conf. Ser., 972, 012017.
 
-[2] Long Ye, et. al., Toward Reliable and Accurate Evaluation of Polymer Solar Cells Based on Low Band Gap Polymers J.Mater. Chem.C 2015,3,564.
+[2] Long Ye, et. al., Toward Reliable and Accurate Evaluation of Polymer Solar Cells Based on Low Band Gap Polymers J. Mater. Chem. C 2015, 3, 564.
 
 [3] IEC 60904-1 Photovoltaic devices - Part 1: Measurement of photovoltaic current-voltage characteristics.
 
@@ -1260,7 +1246,7 @@ At present, China has built the world's largest electricity consumption informat
 
 ## 2.1 Basic model
 
-For low-voltage substation areas, a substation area is an area powered by a transformer, usually corresponding to a substation area master meter and multiple user meters. The metering point at $ \mathrm{M}_{0} $ in the substation area master meter provides energy input for the metering points at $ \mathrm{M}_{1},\mathrm{M}_{2},\dots \mathrm{M}_{n} $ for the next level of user meters. Currently, most research on measurement point anomalies is based on this topology [7-9], as shown in Figure 1.
+For low-voltage substation areas, a substation area is an area powered by a transformer, usually corresponding to a substation area master meter and multiple user meters. The metering point at $ \mathrm{M}_{0} $ in the substation area master meter provides energy input for the metering points at $ \mathrm{M}_{1},\mathrm{M}_{2},\dots\mathrm{M}_{n} $ for the next level of user meters. Currently, most research on measurement point anomalies is based on this topology [7-9], as shown in Figure 1.
 
 Based on the subordinate relationship of household transformers in the substation area and the law of energy conservation [10-11], the total and partial electricity consumption relationship can be obtained which is "the total meter power supply in the substation area = the sum of actual electricity consumption in each sub meter + line loss + fixed loss in the substation area". The mathematical relationship is expressed as follows:
 
@@ -1672,7 +1658,7 @@ The State Grid Corporation of China will propose the Standardization for Laborat
 
 [5] Heeren W, Müller B, Miele G, et al. SmartCom— Key Findings for digitalisation in Metrology[C]//2021 IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4. 0&IoT). IEEE, 2021: 364-369.
 
-[6] Mustapaa T, Nikander P, Hutzschenreuter D, et al. Metrological challenges in collaborative sensing: Applicability of digital calibration certificates[J]. Sensors, 2020, 20(17): 4730.
+[6] Mustapää T, Nikander P, Hutzschenreuter D, et al. Metrological challenges in collaborative sensing: Applicability of digital calibration certificates[J]. Sensors, 2020, 20(17): 4730.
 
 [7] Perkel J M. The Internet of Things comes to the lab[J]. Nature, 2017, 542(7639): 125-126.
 
@@ -2060,7 +2046,7 @@ ASS. PROF. KHALED M. AHMED (PHD) SASO, Saudi Arabia
 
 One country that has year-round access to solar energy is the Kingdom of Saudi Arabia. This offers the perfect opportunity to create a national solar power hub to meet the Kingdom's rapidly growing electric power needs, particularly in large-scale projects and future sustainable smart cities of the fourth generation (such as NEOM).
 
-The demand for electricity in Saudi Arabia is rising as a result of the country's construction boom and expanding population. The continuous high loads necessitate the generation of appropriate and sufficient power. However, it is well acknowledged that traditional energy production using fossil fuels is a major contributor to environmental pollution and has an adverse effect on human health due to the emissions of dangerous gases such as nitrogen oxides (NO, $ NO_{2} $ & $ N_{2} O $ ), sulfur oxides $ (SO_{2} $ & $ SO_{3} $ ), and carbon oxides (CO & $ CO_{2} $ ). Therefore, it is crucial to develop a different approach that both protects the environment and public health, and that also supports Saudi Arabia's present conventional power generation. Saudi Arabia is strategically positioned due to its location in the so-called "sun belt", extensive desert terrain, and year-round clear skies, which have helped it rise to the top of the list of solar PV energy producers. It is worth attempting to generate clean energy in Saudi Arabia using direct sunlight through PV cells because the average amount of solar energy that strikes the country is 2200 thermal kWh/m $ ^{2} $ [Alawaji, 2001].
+The demand for electricity in Saudi Arabia is rising as a result of the country's construction boom and expanding population. The continuous high loads necessitate the generation of appropriate and sufficient power. However, it is well acknowledged that traditional energy production using fossil fuels is a major contributor to environmental pollution and has an adverse effect on human health due to the emissions of dangerous gases such as nitrogen oxides (NO, $ NO_{2} $ & $ N_{2} O $ ), sulfur oxides $ (SO_{2} $ & $ SO_{3} $ ), and carbon oxides (CO & $ CO_{2} $ ). Therefore, it is crucial to develop a different approach that both protects the environment and public health, and that also supports Saudi Arabia's present conventional power generation. Saudi Arabia is strategically positioned due to its location in the so-called "sun belt", extensive desert terrain, and year-round clear skies, which have helped it rise to the top of the list of solar PV energy producers. It is worth attempting to generate clean energy in Saudi Arabia using direct sunlight through PV cells because the average amount of solar energy that strikes the country is 2200 thermal $ kWh/m^{2} $ [Alawaji, 2001].
 
 The use of solar energy in Saudi Arabia has been increasing since 1960. The King Abdulaziz City for Science and Technology (KACST) began a systematic large research and development effort for the development of solar energy technology in 1977. The KACST Energy Research Institute and the US National Renewable Energy Laboratory started working together on the Saudi Solar Radiation Atlas project in 1994 [Said et al., 2008].
 
@@ -2218,7 +2204,7 @@ Figure 6: Annual solar insulation in Saudi Arabia [Plaz, 1978]
 
 </div>
 
-junction where electrons and holes are pumped from the junction layers to the cell surface before being collected in collectors. The cell's increasing temperature causes atoms to vibrate more often (phonons), which hinders the flow of charge carriers and reduces cell efficiency. This results in a 2%-26.4% reduction in output power depending on mounting and weather conditions [T. Nordmann and L. Clavadetscher, 2003; A. Virtuani, D. Pavnello and G. Friesen, 2010].
+junction where electrons and holes are pumped from the junction layers to the cell surface before being collected in collectors. The cell's increasing temperature causes atoms to vibrate more often (phonons), which hinders the flow of charge carriers and reduces cell efficiency. This results in a 2% -26.4% reduction in output power depending on mounting and weather conditions [T. Nordmann and L. Clavadetscher, 2003; A. Virtuani, D. Pavnello and G. Friesen, 2010].
 
 <div align="center">
 
@@ -2260,7 +2246,7 @@ The RnSE's renewable energy resources, including wind, solar, geothermal, hydro,
 
 Additionally, it has been determined that it is necessary to examine the potential of offshore wind, biomass, and thermal energy. This review has aimed to offer a thorough understanding of the potential uses of RnSE technologies for formulating a sound energy strategy that will increase cost efficiency and energy security, guaranteeing the effectiveness of RnSE applications for the KSA's long-term prosperity and energy security. The conclusion of this study includes numerous suggestions for the application of these RnSE resources.
 
-This article has covered two of Saudi Arabia's many solar energy-related difficulties and chances. In the hypothetical PV facility in Riyadh, the energy reduction due to temperature effect alone was predicted to be 16.5% . However, it would be energy-efficient to add a cooling system to this PV facility. The study also demonstrated the financial viability of using solar thermal energy in two distinct seawater desalination processes as opposed to traditional fossil fuel-powered desalination plants, which will help the Kingdom of Saudi Arabia conserve its natural resources.
+This article has covered two of Saudi Arabia's many solar energy-related difficulties and chances. In the hypothetical PV facility in Riyadh, the energy reduction due to temperature effect alone was predicted to be 16.5%. However, it would be energy-efficient to add a cooling system to this PV facility. The study also demonstrated the financial viability of using solar thermal energy in two distinct seawater desalination processes as opposed to traditional fossil fuel-powered desalination plants, which will help the Kingdom of Saudi Arabia conserve its natural resources.
 
 ## 10 References
 
@@ -3260,7 +3246,7 @@ The list of Utilizer and Associate scopes is published in each issue of the OIML
 
 The list of Utilizer and Associate scopes is published in each issue of the OIML Bulletin and can be downloaded at www.oiml.org/oiml-cs/utilizers-and-associates
 
-<table border="1"><tr><td colspan="2">1=SchemeAonly5=SchemeBonly</td><td colspan="16"></td></tr><tr><td colspan="2">2=SchemeAandMAA</td><td colspan="16"></td></tr><tr><td colspan="2">3=SchemeAandB</td><td colspan="16"></td></tr><tr><td colspan="2">4=SchemeA,BandMAA</td><td colspan="16"></td></tr><tr><td></td><td></td><td>R106:2011</td><td>R107:2007</td><td>R110:1994</td><td>R117:1995</td><td>R117:2007</td><td>R117:2019</td><td>R122:1996</td><td>R126:1998</td><td>R126:2021</td><td>R128:2000</td><td>R129:2000</td><td>R129:2020</td><td>R133:2002</td><td>R134:2006</td><td>R136:2004</td><td>R137:2012</td><td>R139:2014</td><td>R139:2018</td><td>R143:2009</td><td>R144:2013</td><td>R145:2015</td><td>R146:2016</td><td>R148:2020</td><td>R149:2020</td><td>R150:2020</td></tr><tr><td>AE</td><td>Ministry of Industry and Advanced Technology(MolAT)</td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td>1</td><td></td><td>1</td><td></td><td></td><td>1</td><td>1</td><td></td><td></td><td>1</td><td>1</td><td>1</td></tr><tr><td>AU</td><td>National Measurement Institute,Australia(NMIA)</td><td></td><td>
+<table border="1"><tr><td colspan="2">1=SchemeAonly5=SchemeBonly</td><td colspan="16"></td></tr><tr><td colspan="2">2=SchemeAandMAA</td><td colspan="16"></td></tr><tr><td colspan="2">3=SchemeAandB</td><td colspan="16"></td></tr><tr><td colspan="2">4=SchemeA,BandMAA</td><td colspan="16"></td></tr><tr><td>AE</td><td>Ministry of Industry and Advanced Technology(MolAT)</td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td></td><td></td><td></td><td></td><td>1</td><td>1</td><td></td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>1</td><td>1</td><td>1</td></tr><tr><td>AU</td><td>National Measurement Institute,Australia(NMIA)</td><td></td><td>
 
 <div align="center">
 
@@ -3316,13 +3302,13 @@ For more details, please contact: Ian Dunmill BIML Assistant Director ian.dunmil
 
 2022 - Guyana Bureau of Standards (GNBS)
 
-<table border="1"><tr><td>2022</td><td>Guyana Bureau of Standards(GNBS)</td></tr><tr><td>2021</td><td>Mr Sophors Em,Cambodia</td></tr><tr><td>2020</td><td>Mr Agus Suparmanto,Minister of Trade of the Republic of Indonesia
-Mr Veri Anggriono Sutiarto,S.E.,M.Si.,Director General of Consumer Protection and Trade Compliance,Ministry of Trade,Republic of Indonesia
-Dr Rusmin Amin,S.Si,MT,Director of Metrology,Republic of Indonesia</td></tr><tr><td>2019</td><td>No Award was made in 2019</td></tr><tr><td>2018</td><td>Prof. Carlos Augusto de Azevedo of the Ministerio Da Industria,Comercio Exterior e Serviços,Instituto Nacional De Metrologia,Qualidade E Tecnologia-INMETRO,Brazil</td></tr><tr><td>2017</td><td>Superintendencia de Industria y Comercio,Colombia
-Dr Osman Bin Zakaria,Senior Director,National Metrology Institute of Malaysia(NMIM)
-Mr Dato&#x27;Roslan Bin Mahayudin,Director of Enforcement Division,Ministry of Domestic Trade,Co-operatives and Consumerism
-Mr Haji Ibrahim Bin Hamzah,Chairman Executive,Metrology Corp.Malaysia Sdn.Bhd.(MCM)</td></tr><tr><td>2016</td><td>Institute of Trade Standards Administration,Kenya</td></tr><tr><td>2015</td><td>Mr Nam Hyuk Lim,Director of Korea Testing Certification
-The Metrology Department,Saint Lucia Bureau of Standards</td></tr><tr><td>2014</td><td>Serbian National Metrology Institute(DMGM)</td></tr><tr><td>2013</td><td>Weights and Measures Agency,Tanzania</td></tr><tr><td>2012</td><td>Mr Loukoumanou Osséni,Benin</td></tr><tr><td>2011</td><td>Mr José Antonio Dajes,Peru and Mr Juan Carlos Castillo,Bolivia</td></tr><tr><td>2010</td><td>Thai Legal Metrology Service</td></tr><tr><td>2009</td><td>Mr Osama Melhem,Jordan</td></tr></table>
+<table border="1"><tr><td>2022</td><td>Guyana Bureau of Standards (GNBS)</td></tr><tr><td>2021</td><td>Mr Sophors Em, Cambodia</td></tr><tr><td>2020</td><td>Mr Agus Suparmanto, Minister of Trade of the Republic of Indonesia
+Mr Veri Anggriono Sutiarto, S.E., M.Si., Director General of Consumer Protection and Trade Compliance, Ministry of Trade, Republic of Indonesia
+Dr Rusmin Amin, S.Si, MT, Director of Metrology, Republic of Indonesia</td></tr><tr><td>2019</td><td>No Award was made in 2019</td></tr><tr><td>2018</td><td>Prof. Carlos Augusto de Azevedo of the Ministerio Da Industria, Comercio Exterior e Serviços, Instituto Nacional De Metrologia, Qualidade E Tecnologia - INMETRO, Brazil</td></tr><tr><td>2017</td><td>Superintendencia de Industria y Comercio, Colombia
+Dr Osman Bin Zakaria, Senior Director, National Metrology Institute of Malaysia (NMIM)
+Mr Dato&#x27; Roslan Bin Mahayudin, Director of Enforcement Division, Ministry of Domestic Trade, Co-operatives and Consumerism
+Mr Haji Ibrahim Bin Hamzah, Chairman Executive, Metrology Corp. Malaysia Sdn. Bhd. (MCM)</td></tr><tr><td>2016</td><td>Institute of Trade Standards Administration, Kenya</td></tr><tr><td>2015</td><td>Mr Nam Hyuk Lim, Director of Korea Testing Certification
+The Metrology Department, Saint Lucia Bureau of Standards</td></tr><tr><td>2014</td><td>Serbian National Metrology Institute (DMGM)</td></tr><tr><td>2013</td><td>Weights and Measures Agency, Tanzania</td></tr><tr><td>2012</td><td>Mr Loukoumanou Osséni, Benin</td></tr><tr><td>2011</td><td>Mr José Antonio Dajes, Peru and Mr Juan Carlos Castillo, Bolivia</td></tr><tr><td>2010</td><td>Thai Legal Metrology Service</td></tr><tr><td>2009</td><td>Mr Osama Melhem, Jordan</td></tr></table>
 
 <div align="center">
 
@@ -3354,7 +3340,7 @@ CIML Members and Corresponding Member Representatives who would like to be a "Me
 
 ![](page=7,bbox=[1504, 2079, 1779, 2459])
 
-<table border="1"><tr><td>Edition</td><td>General key topic</td><td>Mentor</td><td>Proposed article submissions</td></tr><tr><td>July 2023</td><td>Renewable energy/energy efficiency</td><td>Mr Yizhi QinCIML MemberP.R. China</td><td>Hydrogen measurement, smart meters, electric vehicle supply equipment(EVSE), solar power, etc.</td></tr><tr><td>October 2023</td><td>Legal metrology compliance and enforcement</td><td>Mr Bill LoizidesCIML MemberAustralia</td><td>Ways in which legal metrology legislation is enforced in various OIML Member economies,sanctions and other informationNon-compliance in the prepackages field-how to enforce?</td></tr><tr><td>Future editions</td><td>International, National and Regional Metrology Systems</td><td>?</td><td>Report on the OTE(July 2023)in Bad Reichenhall(DE)MID,fit for purpose?European, American and Asia-Pacific approaches to metrology systemsOIML D1and its relevance to national legal metrology legislation;OIML-BIPM joint D1project</td></tr><tr><td></td><td>Intellectual property</td><td>?</td><td>Role of patents in legal metrology</td></tr><tr><td></td><td>Weighing</td><td>?</td><td>Evolution of OIML R76and R111.Contributions from CECIP?IWC Hamburg?Specific problems encountered by CEEMS?</td></tr><tr><td></td><td>Seminar in Thailand</td><td>?</td><td>Seminar:The future of the OIML in the digital era</td></tr></table>
+<table border="1"><tr><td>Edition</td><td>General key topic</td><td>Mentor</td><td>Proposed article submissions</td></tr><tr><td>July 2023</td><td>Renewable energy/energy efficiency</td><td>Mr Yizhi QinCIML MemberP.R. China</td><td>Hydrogen measurement, smart meters, electric vehicle supply equipment(EVSE), solar power, etc.</td></tr><tr><td>October 2023</td><td>Legal metrology compliance and enforcement</td><td>Mr Bill LoizidesCIML MemberAustralia</td><td>Ways in which legal metrology legislation is enforced in various OIML Member economies,sanctions and other informationNon-compliance in the prepackages field-how to enforce?</td></tr><tr><td>Future editions</td><td>International, National and Regional Metrology Systems</td><td>?</td><td>Report on the OTE(July 2023)in Bad Reichenhall(DE)MID,fit for purpose?European, American and Asia-Pacific approaches to metrology systemsOIML D1and its relevance to national legal metrology legislation;OIML-BIPM joint D1 project</td></tr><tr><td></td><td>Intellectual property</td><td>?</td><td>Role of patents in legal metrology</td></tr><tr><td></td><td>Weighing</td><td>?</td><td>Evolution of OIML R76 and R111.Contributions from CECIP?IWC Hamburg?Specific problems encountered by CEEMS?</td></tr><tr><td></td><td>Seminar in Thailand</td><td>?</td><td>Seminar:The future of the OIML in the digital era</td></tr></table>
 
 <div align="center">
 
