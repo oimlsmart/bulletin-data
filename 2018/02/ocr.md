@@ -222,7 +222,7 @@ Max 6000 g;
 
 d=0.01 g;
 
-- temperature range: $ + 1 5 \mathrm {^ {\circ} C} / + 3 0 \mathrm {^ {\circ} C} $;
+- temperature range: $ + 1 5 \mathrm {^ \circ C} / + 3 0 \mathrm {^ \circ C} $;
 
 - digital indication;
 
@@ -470,7 +470,7 @@ From the analysis of the results obtained in the evaluation, the following resul
 
 all the laboratories obtained correct results for the eccentricity and repeatability tests, so acceptable performance (for which $ | z | \leq 2 $);
 
-- for the accuracy test, two laboratories obtained results with questionable performance, which generated a warning signal (for which 2 $ < | < z | < 3 ) $ , as follows:
+- for the accuracy test, two laboratories obtained results with questionable performance, which generated a warning signal (for which 2 $ | < | z | < 3 ) $ , as follows:
 
 laboratory No. 5 at 0.5 g. 500 g, 1 kg and 2 kg loads;
 
@@ -1109,7 +1109,7 @@ u ^ {2} \left(M _ {t}\right) = F _ {M} \cdot K _ {\rho H} \cdot F _ {M} ^ {T} =
 $$
 
 $$
-\left| \begin{array}{l l l} f _ {t 1} & f _ {t 2} & f _ {t 3} \end{array} \right| \cdot \left| \begin{array}{c c c} u _ {A} ^ {2} \left(\rho_ {t}\right) & K _ {1 2} & 0 \\ K _ {2 1} & u _ {A} ^ {2} \left(H _ {G _ {t}}\right) & 0 \\ 0 & 0 & u _ {A} ^ {2} \left(S _ {t}\right) \end{array} \right| \cdot \left| \begin{array}{c} f _ {t 1} \\ f _ {t 2} \\ f _ {t 3} \end{array} \right|;
+\left| f _ {t 1} \quad f _ {t 2} \quad f _ {t 3} \right| \cdot \left| \begin{array}{c c c} u _ {A} ^ {2} \left(\rho_ {t}\right) & K _ {1 2} & 0 \\ K _ {2 1} & u _ {A} ^ {2} \left(H _ {G _ {t}}\right) & 0 \\ 0 & 0 & u _ {A} ^ {2} \left(S _ {t}\right) \end{array} \right| \cdot \left| \begin{array}{c} f _ {t 1} \\ f _ {t 2} \\ f _ {t 3} \end{array} \right|;
 $$
 
 $$
@@ -1178,15 +1178,11 @@ it can be seen that this equation is an approximation as it does not consider th
 
 To contact the Author:
 
-[10] ДСТУ 7473:2016 Метрология. Резербуари стачаionарни вимировалны вертикалыни.
-
-Методика повирки (калібрування)
-
-геометричным методом з застосуванням геодезичних приладів (ГОСТ 8.656-2016)
+[10] ДСТУ 7473:2016 Метрология. Резербуари стачаionарни вимировалны вертикалыни. Методика повирки (калібрування) геометричным методом з застосуванням геодезичних приладів (ГОСТ 8.656-2016)
 
 Oleksandr Samoylenko
 
-State Enterprise All-Ukrainian State Research and Production Center for Standardization, Metrology, Certification and Consumers' Rights Protection (SE "Ukrmetrteststandard")
+State Enterprise All-Ukrainian State Research and Production Center for Standardization, Metrology Certification and Consumers' Rights Protection (SE "Ukrmetrteststandard")
 
 Metrologichna str.4,
 
@@ -1762,7 +1758,7 @@ CATÉGORIE D'INSTRUMENT
 
 Réglementation métrologique des cellules de pesée (applicable aux cellules de pesée à affichage analogique et/ou numérique)
 
-R 60 (2000)
+R60(2000)
 
 Issuing Authority / Autorité de délivrance Dansk Elektronik, Lys & Akustik (DELTA), Denmark
 
@@ -1902,7 +1898,7 @@ The Netherlands
 
 ## R076/2006-A-NL1-2018.01
 
-Non-automatic weighing instrument - Type: KS-JPOS Dibal S.A., Astintze Kalea 24, Pol. Ind. Neinver, ES-48160 Derio - Vizcaya, Spain
+Non-automatic weighing instrument - Type: KS-JPOS Dibal S.A., Astintze Kalea 24, Pol. Ind. Neinver ES-48160 Derio - Vizcaya, Spain
 
 ## R076/2006-A-NL1-2018.02
 
@@ -1926,7 +1922,7 @@ Non-automatic weighing instrument - Type: SM-6000 Digi Singapore PTE LTD., 4 Len
 
 Non-automatic weighing instrument-
 
-Type: RM-5801. . RM-5900. .
+Type: RM-5801. RM-5900.
 
 Shanghai Teraoka Electronic Co. Ltd., Ting Lin Industry Development Zone, Jin Shan District, 201505 Shanghai, P.R. China
 
@@ -2036,7 +2032,11 @@ Jaugeurs automatiques pour les réservoirs
 
 de stockage fixes
 
-Issuing Authority / Autorité de délivrance NMi Certin B.V. The Netherlands
+Issuing Authority / Autorité de délivrance
+
+NMi Certin B.V.
+
+The Netherlands
 
 ## R085/2008-NL1-2017.01
 
