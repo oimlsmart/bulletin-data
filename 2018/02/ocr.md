@@ -130,7 +130,7 @@ Patricia Saint-Germain: Administrator, Members
 
 ## technique
 
-5 Investigation into the performance of laboratories that carry out verifications in legal mass metrology Adriana V'alcu, Fanel Iacobescu, Roberta Todor and Sterica Baicu
+5 Investigation into the performance of laboratories that carry out verifications in legal mass metrology Adriana V'alcu, Fanel Iacobescu, Roberta Todor and Sterică Baicu
 
 12 Implementation of a mobile laboratory for 200 kg and 500 kg mass standards Aline de Souza Pinto, Mauricio Evangelista da Silva and Bruno Amado Rodrigues Filho
 
@@ -870,7 +870,7 @@ $ C_{H_{L}} $ is the multiplicative bias of the reference height of the referenc
 
 $ H_{p} $ is the reference height of the sensor of the pressure transmitter;
 
-$ C_{H_{p}} $ is the multiplicative bias of the reference height of the pressure transmitter sensor;
+$ C_{H_{P}} $ is the multiplicative bias of the reference height of the pressure transmitter sensor;
 
 i=1...n is the number of the liquid level where the measurements were fulfilled;
 
@@ -942,7 +942,7 @@ where
 
 $ H_{i}=H_{L}^{0}-H_{P}^{0}-L_{i} $ are the approximate values of the liquid level above the sensor of the pressure transmitter;
 
-$ \nu_{\widetilde{\rho}_{i}} $ $ \nu_{\widetilde{H}_{i}} $ $ \nu_{P_{i}} $ $ \nu_{L_{i}} $ are the corrections to the measured values of density, level of liquid, pressure and distance to the surface of the liquid.
+$ \nu_{\widetilde{\rho}_{i}}^{\prime} \nu_{\widetilde{H}_{i}}^{\prime} \nu_{P_{i}}^{\prime} \nu_{L_{i}} $ are the corrections to the measured values of density, level of liquid, pressure and distance to the surface of the liquid.
 
 Then equation (6) can be written as $ U=B\delta \tau+l. $ Parts of the equations for the defined parameters of the System for each liquid level at which the measurements are taken can be recorded as:
 
@@ -1174,15 +1174,11 @@ it can be seen that this equation is an approximation as it does not consider th
 
 [8] ISO 11223-1:1995 Petroleum and liquid petroleum products - Direct static measurements - Contents of vertical storage tanks - Part 1: Mass measurement by hydrostatic tank gauging
 
-[9] ДСТУ 7094:2009 Маса нафи mu ma нафиptonродуктив. Загальи вимоги до методик виконания вимированы (ГОСТ 8.587-2006, MOD)
+[9] ДСТУ 7094:2009 Маса нафи mu ma нафимопродуктив. Загальи вимоги до методик виконания вимированы (ГОСТ 8.587-2006, MOD)
 
 To contact the Author:
 
-[10] ДСТУ 7473:2016 Метрология. Резербуари стачаionарни вимировалны вертикалыни.
-
-Методика повирки (калібрування)
-
-геометричным методом з застосуванням геодезичних приладів (ГОСТ 8.656-2016)
+[10] ДСТУ 7473:2016 Метрология. Резербуари стачаionарни вимировалны вертикалыни. Методика повирки (калібрування) геометричным методом з застосуванням геодезичних приладів (ГОСТ 8.656-2016)
 
 Oleksandr Samoylenko
 
@@ -1392,7 +1388,7 @@ The winner of the First Competition was Mark Bieler, a representative from the P
 
 ## Second COOMET Competition
 
-The II Competition was held in 2007 again in Kharkov, Ukraine. 24 papers from 9 countries (Belarus, Bulgaria Georgia, Germany, Moldova, Russia, Slovakia Uzbekistan and Ukraine) were presented. The winners were:
+The II Competition was held in 2007 again in Kharkov, Ukraine. 24 papers from 9 countries (Belarus, Bulgaria Georgia, Germany, Moldova, Russia, Slovakia, Uzbekistan and Ukraine) were presented. The winners were:
 
 - Torsten Dziomba (PTB, Germany) - 1st place with the paper "Turning scanning probe microscopy into a more quantitative method";
 
@@ -1414,7 +1410,7 @@ The winner was Nataliya Chervjakovskaja (BelGIM, Belarus) with the paper "Use of
 
 <div align="center">
 
-Fig. 1 - Participants at the II International Competition of COOMET "The Best Young Metrologist 2007"
+Fig.1- Participants at the II International Competition of COOMET "The Best Young Metrologist 2007"
 
 </div>
 
@@ -1572,7 +1568,7 @@ Mrs. Yuliya Bunyayeva, National COOMET Secretariat in Ukraine, Secretary of TC 4
 
 The list of OIML Issuing Authorities is published in each issue of the OIML Bulletin and can be downloaded at www.oiml.org/oiml-cs/oiml-issuing-authorities
 
-<table border="1"><tr><td colspan="2">Updated:2018-04-05</td><td>R21:2007</td><td>R46:2012</td><td>R49:2006</td><td>R49:2013</td><td>R50:2014</td><td>R51:2006</td><td>R60:2000</td><td>R61:2004</td><td>R75:2002</td><td>R76:1992</td><td>R76:2006</td><td>R85:2008</td><td>R99:2008</td><td>R106:2011</td><td>R107:2007</td><td>R117:1995</td><td>R117:2007</td><td>R126:1998</td><td>R129:2000</td><td>R134:2006</td><td>R137:2012</td><td>R139:2014</td></tr><tr><td>CH1</td><td>Federal Institute of Metrology(METAS)</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CN2</td><td>National Institute of Metrology,China(NIM)</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td></tr><tr><td>DE1</td><td>Physikalisch-Technische Bundesanstalt(PTB)</td><td></td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DK2</td><td>FORCE CertificationA/S</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td>■</td><td></td></tr><tr><td>FR2</td><td>Laboratoire National deMétrologieetd&#x27;Essais(LNE)</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td></tr><tr><td>GB1</td><td>NMO</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td></tr><tr><td>JP1</td><td>NMIJ/AIST</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NL1</td><td>NMiCertinB.V.</td><td>■
+<table border="1"><tr><td colspan="2">Updated:2018-04-05</td><td>R21:2007</td><td>R46:2012</td><td>R49:2006</td><td>R49:2013</td><td>R50:2014</td><td>R51:2006</td><td>R60:2000</td><td>R61:2004</td><td>R75:2002</td><td>R76:1992</td><td>R76:2006</td><td>R85:2008</td><td>R99:2008</td><td>R106:2011</td><td>R107:2007</td><td>R117:1995</td><td>R117:2007</td><td>R126:1998</td><td>R129:2000</td><td>R134:2006</td><td>R137:2012</td><td>R139:2014</td></tr><tr><td>CH1</td><td>Federal Institute of Metrology(METAS)</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CN2</td><td>National Institute of Metrology,China(NIM)</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td></tr><tr><td>DE1</td><td>Physikalisch-Technische Bundesanstalt(PTB)</td><td></td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td>■</td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DK2</td><td>FORCE CertificationA/S</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td>■</td><td></td></tr><tr><td>FR2</td><td>Laboratoire National deMétrologieetd&#x27;Essais(LNE)</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td></tr><tr><td>GB1</td><td>NMO</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td></tr><tr><td>JP1</td><td>NMIJ/AIST</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NL1</td><td>NMiCertinB.V.</td><td>■
 
 <div align="center">
 
@@ -1906,7 +1902,7 @@ Non-automatic weighing instrument - Type: KS-JPOS Dibal S.A., Astintze Kalea 24,
 
 ## R076/2006-A-NL1-2018.02
 
-Analog data processing device (ADPD) - Type: ADC-200 Ipesa Balancas e Basculas Electronicas SA, Parque Industrial de Celeiros, Av. Jose Rolo, 46/48, 4705-414 Celeiros Braga, Portugal
+Analog data processing device (ADPD)-Type: ADC-200 Ipesa Balancas e Basculas Electronicas SA, Parque Industrial de Celeiros, Av. Jose Rolo, 46/48, 4705-414 Celeiros Braga, Portugal
 
 ## R076/2006-A-NL1-2018.03
 
@@ -2102,7 +2098,7 @@ The Netherlands
 
 ## R117/2007-NL1-2017.04 Rev.1
 
-Measurement transducer - Type: Promass Q 300 DNxxx; Promass Q 500 DNxxx Endress + Hauser Flowtec AG, Kagenstrasse 7, CH-4153 Reinach BL 1, Switzerland
+Measurement transducer - Type: Promass Q 300 DNxxx Promass Q 500 DNxxx Endress + Hauser Flowtec AG, Kagenstrasse 7, CH-4153 Reinach BL 1, Switzerland
 
 Issuing Authority / Autorité de délivrance NMRO Certification Services (NMRO), United Kingdom
 
