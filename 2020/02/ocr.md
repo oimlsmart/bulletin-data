@@ -748,6 +748,508 @@ Table 3 Linear approaches for each product
 
 <table border="1"><tr><td>产品</td><td>线 approach</td></tr><tr><td>Corn</td><td>y=15534x-0.095</td></tr><tr><td>Soybean</td><td>y=56587x-0.8684</td></tr><tr><td>Coffee</td><td>y=8451x-0.0041</td></tr><tr><td>Gasoline</td><td>y=60678x-0.113</td></tr><tr><td>Diesel-biodiesel</td><td>y=83943x-2.3546</td></tr><tr><td>Ethanol and other biofuels</td><td>y=42007x-1.1617</td></tr><tr><td>Electricity, gas and utilities</td><td>y=169957x-165.98</td></tr><tr><td>Water, sewerage and waste management</td><td>y=30419x-0.9392</td></tr></table>
 
+![](page=0,bbox=[167, 280, 1774, 1171])
+
+<div align="center">
+
+Figure 2 Linear curve representing the ED as a function of the deviations for each product
+
+</div>
+
+system is in place to control and monitor the measurement deviations in view of the impact on the economy of a single product. A linear dependence was also observed between the economic distortion and the measurement error, where the I-O simulations allow the angular inclination of the curve to be obtained, permitting the determination of which distortion on measurements of products have more impact on the economy. The model may also support national regulations in order to set maximum permissible errors according to economic distortion, or even distinct MPEs for different segments of the production sector and the final demand, in order to minimize losses to the economy.
+
+The main disadvantage of the model remains the fact that not all products are represented in the I-O matrices, for example in the utility sector product simulated, where electricity, water, gas and sewerage are computed as a single product for the Brazilian case.
+
+## References
+
+[2] Sanders R. Why do we regulate measuring instruments used for trade. OIML Bulletin 2011; LII: 13-15.
+
+[3] Swann P. The economics of metrology and measurement United Kingdom: National Measurement Office.
+
+[4] OIML. International Vocabulary of Metrology: Basic and General Concepts and Associated Terms (VIM). BIPM, Bureau International des Poids et Mesures, 2012.
+
+[5] Birch J. Economic and social benefits of legal metrology. OIML Bulletin 2004; XLV: 10-13.
+
+[6] Babbage C. On the Economy of Machinery and Manufactures. London: Charles Knight Pall Mall East, 1832.
+
+[7] Kelly S, Tyler P, Crawford-Brown D. Exploring Vulnerability and Interdependency of UK Infrastructure Using Key-Linkages Analysis. Netw Spat Econ 2016; 16: 865-892.
+
+[8] Stiefel SW. Management assistance for weights and measures progress, measuring inaccuracy's economic distortion. In: Report of the ... National Conference on Weights and Measures. The Bureau, 1973.
+
+[9] Bowns S, Bradley I, Knee P, et al. Measuring the economic benefits from R&D: improvements in the MMI model of the United Kingdom National Measurement System. Res Policy 2003; 32: 991-1002.
+
+[10] Arrow K. The Limits of Organization. New York: W. W. Nortorn, 1974.
+
+[11] Akerlof GA. The Market for 'Lemons': Quality Uncertainty and the Market Mechanism. Q J Econ 1970; 84:488-500.
+
+[12] Spence M. Job Market Signaling. Q J Econ 1973; 87: 355-374.
+
+[13] Rothschild M, Stiglitz J. Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information. Q J Econ 1976; 90: 629-649.
+
+[14] Stiglitz JE. Globalization and Its Discontents. W. W. Norton, 2003.
+
+[15] Birch J. Benefit of Legal Metrology for the Economy and Society. Expert Report, Paris, France: OIML, 2003.
+
+[16] Usuda T, Henson A. Economic Impact of Equivalence of Measure Standards. NCSL Int Meas 2012; 7: 62-70.
+
+[17] Rodrigues Filho BA, Goncalves RF. Legal metrology, the economy and society: A systematic literature review. Measurement 2015; 69: 155-163.
+
+[18] Leontief W. Structure of the world economy: Outline of a simple input-output formulation. Proc IEEE 1975; 63: 345-351.
+
+[19] Kerschner C, Hubacek K. Assessing the suitability of input-output analysis for enhancing our understanding of potential economic effects of Peak Oil. Energy 2009; 34:284-290.
+
+[20] Arbex M, Perobelli FS. Solow meets Leontief: Economic growth and energy consumption. Energy Econ 2010; 32: 43-53.
+
+[21] Velázquez E. An input-output model of water consumption: Analysing intersectoral water relationships in Andalusia. Ecol Econ 2006; 56: 226-240.
+
+[22] Su B, Huang HC, Ang BW, et al. Input-output analysis of CO2 emissions embodied in trade: The effects of sector aggregation. Energy Econ 2010; 32: 166-175.
+
+[23] Rodrigues Filho. Measuring the benefits of legal metrology to place it in the National Quality Infrastructure. OIML Bulletin 2017; LVIII: 19-21.
+
+[24] Institute of Applied Economic Research - IPEA http://www.ipeadata.gov.br/ExibeSerie.aspx?serid=31924 &module=M&chart=ChartsImage40417902344583176 (accessed 3 June 2020).
+
+[25] Guilhoto J. Input-Output Analysis: Theory and Foundations (Análise de Insumo-Produto: Teoria e Fundamentos). SSRN Scholarly Paper ID 1900073, Rochester, NY: Social Science Research Network, https://papers.ssrn.com/abstract=1900073 (1 August 2011, accessed 5 May 2017).
+
+[26] Davar E. LeontiefF and Walras: Input-Output and Reality. Macerata, Italy, p. 12 p.
+
+[27] Handbook of Input-output Table Compilation and Analysis. UN, 1999.
+
+[28] IBGE. IBGE | Biblioteca | Detalhes | Matriz de insumoproduto: Brasil: 2010. Rio de Janeiro: IBGE, http://biblioteca.ibge.gov.br/biblioteca-catalogo?view=detalhes&id=298180 (2016, accessed 5 May 2017).
+
+Author contact details:
+
+Bruno Amado Rodrigues Filho (+55) 11 3581-2322
+
+National Institute of Metrology,
+
+Quality and Technology
+
+Legal Metrology Directorate
+
+Nossa Senhora das Graças Av.
+
+50 Xerém - Duque de Caxias
+
+RJ 25250-020
+
+Brazil
+
+bafilho@inmetro.gov.br
+
+<div align="center">
+
+# Bratislava 2019
+
+</div>
+
+The 54th CIML Meeting and associated events were held at the Hotel Doubletree by Hilton in Bratislava, Slovak Republic, during the week of 21-25 October 2019.
+
+The Guest Speaker was Dr Vojtech Ferencz First State Secretary of the Ministry of Economy of the Slovak Republic. His welcome speech is reproduced in full.
+
+CIML President Dr Roman Schwartz also gave an opening address and delivered a full report to the CIML.
+
+The Resolutions of the 54th CIML Meeting are available on the OIML website under the "Structure" section.
+
+![](page=2,bbox=[1095, 516, 1725, 1423])
+
+Hotel Doubletree by Hilton
+
+![](page=2,bbox=[296, 1685, 1596, 2470])
+
+Bratislava Castle
+
+BRATISLAVA 2019
+
+<div align="center">
+
+# 54th CIML Meeting
+
+</div>
+
+<div align="center">
+
+# 22-25 October 2019 Bratislava, Slovak Republic
+
+</div>
+
+## Opening address by Dr Roman Schwartz, CIML President
+
+Ladies and Gentlemen, dear Colleagues and Friends distinguished guests,
+
+It is my great pleasure to welcome you to the Fifty-fourth Meeting of the International Committee of Legal Metrology. Welcome to Slovakia - welcome to Bratislava!
+
+Thank you to our hosts and thank you all for coming!
+
+Again we have an excellent participation with about 150 attendees, with more than 50 Member States present or represented, with 15 Corresponding Members, with several organisations in liaison and manufacturer's associations.
+
+We will again have a very busy Committee meeting with a number of important items and decisions on the agenda, for instance, the election of the CIML Second Vice-President.
+
+It is now my pleasure to extend a special welcome to a distinguished guest, namely Dr Vojtech Ferencz, First
+
+State Secretary of the Ministry of Economy of the Slovak Republic, who has kindly agreed to give us an opening address today.
+
+Beforehand let me briefly introduce Dr Ferencz:
+
+He studied economics at the respective universities in Prague, Bratislava and Košice, received a Master degree in 1995, and a PhD in Business Economics in 2010;
+
+His political career started in 2007, when he became Director General of the Strategy Section of the Ministry of Economy of the Slovak Republic;
+
+In 2010 he became Deputy Director for Economy of the Slovak Water Management Enterprise in Košice; and
+
+In 2012 State Secretary of the Ministry of the Environment;
+
+Since 2016 he is the First State Secretary of the Ministry of Economy of the Slovak Republic.
+
+Dr Ferencz, we feel very honoured having you with us today. May I now invite you to the stage, please, to address our meeting.
+
+## Opening address by Dr Vojtech Ferencz, First State Secretary of the Ministry of Economy of the Slovak Republic
+
+Mr President, Mr Director, Ladies and Gentlemen,
+
+As the State Secretary of the Ministry of Economy, of the Slovak Republic, I am very pleased to be taking part in the opening of the Fifty-fourth meeting of the International Committee of Legal Metrology, which is
+
+![](page=3,bbox=[314, 1829, 947, 2468])
+
+Dr Schwartz gives his opening address
+
+![](page=3,bbox=[1126, 1829, 1759, 2468])
+
+Dr Ferencz gives his opening address
+
+being held this year in my beautiful country.
+
+On behalf of the Slovak Government I would like to welcome all members of the CIML, with their delegations, together with the representatives of major cooperating organisations, and associations.
+
+The government of the Slovak Republic is aware of the importance of metrology and all its pillars (scientific, legal, and industrial metrology) for all areas of the national economy. The goal of metrology, as well as of the Slovak Republic, is to ensure protection within trade relations, health, and environmental protection, transportation safety, and protection in other areas of human activities, for the benefit of citizens, the environment, state and business entities.
+
+Slovakia is an export orientated country focused on industrial production, where the automobile industry represents an especially important sector. Therefore, Slovakia needs to have internationally accepted
+
+metrology, both in the field of calibration of measuring instruments, and in the field of metrological verification of measuring instruments.
+
+To secure the functioning of metrology, the Slovak Republic has established a separate office, the Slovak Office of Standards, Metrology, and Testing, that is directly sub-ordinated to the government of the Slovak Republic. The office submits draft legislative regulations to the government of the Slovak Republic, and issues binding technical regulations and decrees in the field of metrology.
+
+Ladies and gentlemen, I wish you a very beneficial event, fruitful discussions, either here at the meeting, or during personal meetings, many new interesting findings in the field of metrology, and of course I wish you a pleasant stay in the capital city of the Slovak Republic here in Bratislava, and in the whole of Slovakia which certainly has a lot to offer. Thank you very much.
+
+![](page=4,bbox=[295, 1309, 1596, 2019])
+
+Delegates attending the 54th CIML Meeting
+
+BRATISLAVA 2019
+
+<div align="center">
+
+# 54th CIML Meeting
+
+</div>
+
+22-25 October 2019 Bratislava, Slovak Republic
+
+Summary report
+
+Fifty-fourth Meeting of the International Committee of Legal Metrology (CIML)
+
+Bratislava, Slovak Republic 22-25 October 2019
+
+The 54th CIML Meeting was held from 22-25 October 2019 in Bratislava, Slovak Republic and was hosted by the Slovak Office of Standards, Metrology and Testing (UNMS). 52 Member States were present or represented together with 11 Corresponding Members, and representatives from organisations in liaison.
+
+The CIML President Dr Schwartz reported on OIML activities during the last year and presented his vision for the future of the Organisation.
+
+A key event during the meeting was the election of Dr Mathew (Switzerland) as CIML Second Vice-President for a six-year term.
+
+BIML Director Mr Donnellan reported on the activities and achievements of the Bureau and its staff, particularly the efforts to improve the effectiveness of OIML technical work and activities in favour of Countries and Economies with Emerging Metrology Systems (CEEMS), the OIML Certification System (OIML-CS), World Metrology Day, and work with liaison organisations. Mr Donnellan also emphasised the cost-saving measures the Bureau has achieved.
+
+The OIML currently has 61 Member States and 61 Corresponding Members and efforts are ongoing to encourage new economies to join the Organisation.
+
+The accounts for 2018 were approved and Mr Donnellan reported that the Organisation continues to be in a strong financial position.
+
+<div align="center">
+
+# Rapport succinct
+
+</div>
+
+<div align="center">
+
+# Cinquante-quatrième Réunion du Comité International de Métrologie Légale (CIML)
+
+</div>
+
+Bratislava, République slovaque 22-25 octobre 2019
+
+La 54ème Réunion du CIML s'est tenue du 22 au 25 octobre 2019 à Bratislava (République slovaque), accueillie par l'Office slovaque des normes, de la métrologie et des essais (UNMS). 52 Etats Membres étaient présents ou représentés, ainsi que 11 Membres Correspondants et des représentants des organisations en liaison.
+
+Le Dr Schwartz, Président du CIML, a rendu compte des activités de l'OIML au cours de l'année écoulée et a présenté sa vision de l'avenir de l'Organisation.
+
+L'un des évènements marquants de cette réunion a été l'élection du Dr Mathew (Suisse) en tant que Second Vice-Président du CIML pour un mandat de six ans.
+
+Le Directeur du BIML, M. Donnellan, a rendu compte des activités et des réalisations du Bureau et de son personnel, notamment des efforts visant à améliorer l'efficacité des travaux techniques de l'OIML et des activités en faveur des Pays et Economies dotés de Systèmes de Métrologie Emergents (CEEMS), du Système de Certification de l'OIML (OIML-CS), de la Journée Mondiale de la Métrologie, et de la collaboration avec les organisations en liaison. M. Donnellan a également souligné les mesures d'économie réalisées par le Bureau.
+
+L'OIML compte actuellement 61 Etats Membres et 61 Membres Correspondants et des efforts sont en cours pour encourager de nouvelles économies à rejoindre l'Organisation.
+
+Les comptes de l'année 2018 ont été approuvés et M. Donnellan a indiqué que la situation financière de l'Organisation restait solide.
+
+Le BIML a rendu compte de ses activités avec les organisations en liaison. En outre, le Dr Miki a présenté un résumé des discussions tenues lors de la Table Ronde des Organisations Régionales de Métrologie Légale (RLMO) qui s'est tenue le matin du 22 octobre. Le Dr Milton, Directeur du BIPM, a présenté un rapport détaillé sur les activités du BIPM au cours de l'année écoulée, en mettant l'accent sur la révision très réussie du SI et sur la collaboration du
+
+The BIML reported on its activities with organisations in liaison. In addition, Dr Miki presented a summary of the discussions held during the Regional Legal Metrology Organisations (RLMO) Round Table held on the morning of 22 October. Dr Milton, BIPM Director, presented a detailed report on the BIPM's activities over the past year, focussing on the very successful revision of the SI and the BIPM's collaboration with the BIML, most notably World Metrology Day.
+
+Other organisations in liaison (CECIP, IAF, ILAC, OECD and UNIDO) also reported on their activities.
+
+The CIML approved the following publications:
+
+Revision of D31 General requirements for software-controlled measuring instruments
+
+New Document D 33 Reference standard liquids (Newtonian viscosity standard for the calibration and verification of viscometers)
+
+New Document D 34 Conformity to Type (CTT) - Premarket conformity assessment of measuring instruments
+
+Revision of B6 Directives for OIML technical work
+
+New Basic Publication B 20 Rules for the use of OIML logos
+
+New Basic Publication B21 Framework for OIML Training Centers and OIML Training Events
+
+Revision of R 117 Dynamic measuring instruments for liquids other than water
+
+The CIML approved the following new projects:
+
+New publication: R 87 prepackage template
+
+Revision of D31 General requirements for software controlled measuring instruments
+
+Revision of R 142 Automated refractometers: Methods and means of verification
+
+New publication Rotary viscometers - Determination of dynamic viscosity - Verification method
+
+Revision of B11 Rules governing the translation copyright and distribution of OIML Publications
+
+The BIML gave a report on the work of high-priority projects and provided a summary of the training programme organised by the BIML for Project Group conveners.
+
+A discussion took place on the OIML Bulletin and the need for more contributions from the Membership in the form of articles.
+
+Mr Mason, vice-chairperson of the CEEMS Advisory Group (AG), delivered a report on the activities of the AG, including the meeting held on 21 October. His report focussed on progress related to the 2018 CIML resolution concerning CEEMS. In addition, Mr Mason provided a report on the outcomes of the e-Learning Workshop held on 21 October. Following the resignation
+
+BIPM avec le BIML, notamment sur la Journée Mondiale de la Métrologie.
+
+D'autres organisations en liaison (CECIP, IAF, ILAC, OCDE et ONUDI) ont également rendu compte de leurs activités.
+
+Le CIML a approuvé les publications suivantes :
+
+- Révision de la D 31 Exigences générales pour les instruments de mesure contrôlés par logiciel
+
+- Nouveau Document D 33 Liquides de référence (étalon de viscosité newtonien pour l'etalonnage et la vérification des viscosimètres)
+
+Nouveau Document D 34 Conformité au Type (CTT) - Evaluation de la conformité avant la commercialisation des instruments de mesure
+
+Révision de la B 6 Directives pour les travaux techniques de l'OIML
+
+Nouvelle Publication de Base B 20 Règles pour l'utilisation des logos OIML
+
+- Nouvelle Publication de Base B 21 Cadre pour les Centres de Formation OIML et les Evènements de Formation OIML
+
+Révision de la R 117 Ensembles de mesurage dynamique de liquides autres que l'eau
+
+Le CIML a approuvé les nouveaux projets suivants :
+
+Révision du D 31 Exigences générales pour les instruments de mesure contrôlés par logiciel
+
+- Nouvelle Publication : R 87 Feuille de relevés pour les préemballages
+
+- Révision de la R 142 Réfractomètres automatiques : Méthodes et moyens de vérification
+
+- Nouvelle Publication Viscosimètres rotatifs - Détermination de la viscosité dynamique - Méthode de vérification
+
+Révision de la B 11 Règles relatives à la traduction aux droits d'auteur et à la distribution des Publications de l'OIML
+
+Le BIML a présenté un rapport sur les travaux des projets hautement prioritaires et a résumé le programme de formation organisé par le BIML à l'intention des organisateurs de Groupes de Projet.
+
+Une discussion a eu lieu sur le Bulletin de l'OIML et sur la nécessité de nouvelles contributions de la part des Membres sous forme d'articles.
+
+M. Mason, Vice-président du Groupe consultatif pour les CEEMS, a présenté un rapport sur les activités de celui-ci, y compris la réunion du 21 octobre. Son rapport s'est concentré sur les progrès liés à la résolution de 2018 du CIML concernant les CEEMS. En outre, M. Mason a présenté un rapport sur les résultats de l'atelier e-Learning qui s'est tenu le 21 octobre. A la suite de la démission de M. Pu
+
+of Mr Pu (P.R. China), Mr Mason was appointed as chairperson of the CEEMS AG, and Dr Ulbig (Germany) was appointed as vice-chairperson.
+
+Mr Oosterman, OIML-CS Management Committee (MC) Chairperson reported on the activities of the OIML-CS, including the MC meeting held in March 2019. His report highlighted the increased participation in the OIML-CS, promotion and awareness-raising activities and the key issues that the MC will be addressing in the future.
+
+OIML medals were awarded to Mrs Lagauterie (France), to Dr Borzyminski (Poland) and to Dr Miki (Japan) in recognition of their outstanding contributions to international legal metrology. A Letter of Appreciation was presented to Mr Oosterman in recognition of his work as OIML-CS MC Chairperson.
+
+The 16th International Conference and 55th CIML Meeting will be held in Suzhou, P.R. China, in October 2020.
+
+The 54th CIML Meeting Resolutions, documents and presentations can be found on the OIML website at:
+
+https://www.oiml.org/en/structure/ciml/sites
+
+(République populaire de Chine), M. Mason a été nommé Président du Groupe consultatif pour les CEEMS et M. Ulbig (Allemagne) a été nommé Viceprésident.
+
+M. Oosterman, Président du Comité de Management de l'OIML-CS a rendu compte des activités de l'OIML-CS, notamment lors de la réunion du MC en mars 2019. Son rapport a mis en évidence la participation accrue à l'OIML-CS, les activités de promotion et de sensibilisation et les questions clés que le Comité de Management traitera à l'avenir.
+
+Des Médailles OIML ont été décernées à Mme Lagauterie (France), au Dr Borzyminski (Pologne) et au Dr Miki (Japon) en reconnaissance de leurs contributions exceptionnelles à la métrologie légale internationale. M. Oosterman a reçu une Lettre d'appréciation en reconnaissance de son travail en tant que Président du Comité de Management de l'OIML-CS.
+
+La 16ème Conférence Internationale et la 55ème Réunion du CIML se tiendront à Suzhou, en République populaire de Chine, en octobre 2020.
+
+Les Résolutions, documents et présentations de la 54ème Réunion du CIML sont disponibles sur le site de l'OIML à l'adresse suivante :
+
+https://www.oiml.org/fr/structure/ciml/sites
+
+![](page=1,bbox=[108, 1486, 1820, 1845])
+
+<div align="center">
+
+# OIML Awards
+
+</div>
+
+During the Bratislava CIML Meeting three OIML Medals and one Letter of Appreciation were presented.
+
+![](page=2,bbox=[159, 647, 915, 1395])
+
+OIML Medal: Dr Jerzy Borzyminski
+
+![](page=2,bbox=[159, 1477, 917, 2225])
+
+OIML Medal: Dr Yukinobu Miki
+
+OIML Letter of Appreciation: Mr Cock Oosterman
+
+![](page=2,bbox=[971, 1001, 1726, 1738])
+
+OIML Medal: Mrs Corinne Lagauterie
+
+![](page=2,bbox=[971, 1827, 1727, 2520])
+
+BRATISLAVA 2019
+
+<div align="center">
+
+# Workshop on e-Learning
+
+</div>
+
+<div align="center">
+
+# 21 October 2019 Bratislava, Slovak Republic
+
+</div>
+
+An OIML e-Learning Workshop was held during the week of the 54th CIML Meeting. Its aims were:
+
+to examine various online training systems which had already been made available by different organisations;
+
+to assess the e-Learning needs and priorities of economies within the OIML membership; and
+
+to make recommendations on what the OIML should do in this area in the future.
+
+The Workshop was attended by around 140 participants from OIML Member States, Corresponding Members, and liaison organisations.
+
+## Session 1 - Introduction
+
+![](page=3,bbox=[160, 1632, 489, 2055])
+
+Dr Bobjoseph Mathew (METAS, Switzerland) set the scene for the Workshop by explaining that eLearning could be considered to be a learning environment outside a traditional classroom using digital technology as a platform for teaching courses, programmes and learning activities. He said
+
+that its advantages included:
+
+- requiring only an internet connection and basic computer skills;
+
+- being a cost-effective method for delivering a large amount of content to a large community; and
+
+the ability for courses to be customised and to be ondemand, self-paced, or instructor-led.
+
+It was therefore a very effective method for delivering customised training to a wide target audience
+
+across geographically dispersed locations.
+
+He stated that e-Learning could improve the OIML's ability to provide training programmes to a wide target audience, and this was in line with Objective 4 of OIML B 15:2011 OIML Strategy:
+
+"To promote and facilitate the exchange of knowledge and competencies within the legal metrology community worldwide."
+
+He concluded that the aim of the Workshop was to examine how the OML could make the most of eLearning to achieve this objective by considering the needs and priorities of its members, and by considering the various platforms and material which were already available.
+
+## Session 2 - What already exists today?
+
+This session examined a number of e-Learning platforms which had already been made available by different organisations, and which used different approaches. The aim was to give participants some idea of the possibilities when considering future options for the OIML.
+
+## APLMF (Asia-Pacific Legal Metrology Forum)
+
+![](page=3,bbox=[972, 1459, 1302, 1882])
+
+Mr Phil Sorrell, Trading Standards Team Leader, Compliance and Inspection, of MBIE, New Zealand presented the work they had done on developing eLearning material aimed at Trading Standards Officers and Accredited Persons. The current course covers class III and III non-automatic weighing instruments
+
+(NAWI) with a capacity of up to 300 kg.
+
+He explained that the course aimed to provide a learning resource and single source of technical information for all parties, as well as being a training and competence screening tool for Accredited Persons and Trading Standards Officers.
+
+He demonstrated some samples of the course, which consisted of written test procedures and short animations demonstrating those procedures. The knowledge acquired was then checked by means of quizzes and assessments.
+
+Mr Sorrell said that the course had been introduced to all Accredited Persons over a six-month implementation period, and that initial feedback had been very positive.
+
+The experience had taught them some valuable lessons:
+
+- the need for a methodical approach;
+
+- the importance of vendor selection;
+
+- the need for an "editor friendly" platform; and
+
+- the importance of universally acceptable animations, images and language.
+
+As a result, APLMF Guide 8 How to develop an eLearning Module had been produced to guide future efforts. These would include further modules covering other classes and capacities of NAWI, as well as covering the verification procedures in OIML R76 Nonautomatic weighing instruments.
+
+Mr Sorrell then gave an overview of APLMF Guide 8 which he said covered the following:
+
+a document control system;
+
+a timeline linked process flow;
+
+- a system of templates; and
+
+an appendix with worked examples.
+
+The Guide can be downloaded from the APLMF website at www.aplmf.org.
+
+Sample test animation Accuracy of the zero-setting device
+
+![](page=4,bbox=[157, 1409, 914, 1880])
+
+<div align="center">
+
+UNIDO (United Nations Industrial Development Organization)
+
+</div>
+
+![](page=4,bbox=[159, 2060, 489, 2520])
+
+Ms Dorina Nati gave a short introduction to the work of UNIDO and its Trade Investment and Innovation (TII) Division. She went on to explain that a lot of their information was shared through the TII Knowledge Hub (https://tii.unido.org), and that an e-learning platform had recently been added to this.
+
+![](page=4,bbox=[974, 283, 1368, 888])
+
+![](page=4,bbox=[1485, 292, 1873, 876])
+
+![](page=4,bbox=[1222, 948, 1618, 1568])
+
+Ms Nati explained that the content was freely accessible subject to registration, and demonstrated the Quality Infrastructure & Trade module in detail. Each module includes a final test in order to obtain a completion certificate, and the platform provides discussion forum facilities. She explained the rationale behind the development of the platform, details of the phases which had been used in the development of training modules, and the way in which the necessary human resources fitted into this process. It had been decided to host the system on UNIDO servers for ease of future development and for monitoring/reporting purposes. A UNIDO publication Methodological guide for impactful online training had also been produced, to ensure consistency of approach. She described some of the challenges which had been encountered during the platform's development and explained the measures that had been put in place to deal with these.
+
+Ms Nati concluded by saying that the main lessons learnt from the establishment of the UNIDO TII e-Learning platform were that planning was key to the success of the project, and that the human and time resources required should not be underestimated.
+
+## IEC (International Electrotechnical Commission)
+
+![](page=5,bbox=[254, 366, 583, 866])
+
+Since the IEC had been unable to attend the Workshop, Mr Ian Dunmill (BIML) gave an overview of the e-Learning system this organisation had put in place to further IEC Affiliate Country participants' understanding and involvement in IEC Conformity Assessment activities. He explained that courses were available on four IEC schemes:
+
+- IECEE Electrical and electronic equipment;
+
+- IECEx Hazardous environments;
+
+- IECRE Renewable energy; and
+
+IECQ Electronic components.
+
+He explained that the courses were organised into several "levels", but that level 0 was freely available to all. The IEC had taken a different approach to those described previously, and each level consisted of a narrated PowerPoint slideshow and an accompanying annotated PDF file. This had enabled comparatively quick development of e-learning courses based on existing training material.
+
+Mr Dunmill also demonstrated similar general awareness-raising material on the IEC, which formed part of the IEC Young Professionals training course.
+
+![](page=5,bbox=[327, 1022, 1760, 2416])
+
 ## OIML (ACP EU TBT Programme platform)
 
 Mr Dunmill explained that the OIML's current e-Learning platform had been developed in association with the ACP EU TBT Programme following the seminar "Developing an OIML package for assistance to Countries and Economies with Emerging Metrology Systems (CEEMS)" which had been held at the time of the 50th CIML Meeting in Arcachon, France in 2015. He said that two regional organisations, AFRIMETS (Africa) and CROSQ (Caribbean) had been involved, and that the work had been done by experts contracted by the ACP EU TBT Programme, using some material from previous AFRIMETS metrology schools.
@@ -926,7 +1428,7 @@ The list of Utilizer and Associate scopes is published in each issue of the OIML
 
 Updated: 2020-03-26
 
-<table border="1"><tr><td colspan="2">1=SchemeAonly5=SchemeBonly</td><td rowspan="4">R16:2002R21:2007R35:2007R46:2012R49:2006R49:2013R50:2014R51:2006R58:1998R59:2016R60:2000R60:2017R61:2004R61:2017R75:2002R76:1992R76:2006R81:1998R85:2008R88:1998R93:1999R99:2008</td><tr><td colspan="2">2=SchemeA和MAA</td><tr><td colspan="2">3=SchemeA和B</td><tr><td colspan="2">4=SchemeA,B和MAA</td></tr><tr><td>AU</td><td>National Measurement Institute,Australia(NMIA)</td><td></td><td></td><td></td><td></td><td>2</td><td></td><td></td><td></td><td>2</td><td></td><td></td><td></td><td>2</td><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>BE</td><td>Federal Public Service Economy</td><td></td><td>3</td><td></td><td>3</td><td></td><td>3</td><td>3</td><td>3</td><td></td><td>1</td><td></td><td>3</td><td></td><td>3</td><td></td><td>3</td><td></td><td></td></tr><tr><td>CA</td><td>Measurement Canada</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td>1</td><td></td><td></td><td>1</td><td></td><td>2</td><td></td><td></td></tr><tr><td>CH</td><td>Federal Institute of Metrology(METAS)</td><td></td><td></td><td></td><td>1</td><td>2</td><td>2</td><td>1</td><td>1</td><td></td><td>2</td><td></td><td>1</td><td></td><td>1</td><td></td><td>2</td><td></td><td></td></tr><tr><td>CN</td><td>State Administration for Market Regulation(SAMR)</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td>2</td><td>1</td><td>1</td><td>1</td><td></td><td>2</td><td>2</td><td></td><td></td></tr><tr><td>CO</td><td>Superintendencia de Industria y Comercio(SIC)</td><td></td><td>3</td><td></td><td>3</td><td>4</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td>3</td><td>2</td><td>2</td><td></td><td>3</td><td></td></tr><tr><td>CU</td><td>Oficina Nacional de Normalizacion(NC)</td><td>3</td><td>3</td><td>3</td><td>1</td><td></td><td>1</td><td>3</td><td>1</td><td>3</td><td>3</td><td>1</td><td>1</td><td>3</td><td>3</td><td>3</td><td></td><td>1</td><td>3</td><td>3</td><td>3</td></tr><tr><td>CZ</td><td>Czech Metrology Institute(CMI)</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td></tr><tr><td>DE</td><td>Physikalisch-Technische Bundesanstalt(PTB)</td><td></td><td>5</td><td></td><td>3</td><td>3</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td>3</td><td></td><td>2</td><td></td><td></td><td></td><td>5</td></tr><tr><td>DK</td><td>FORCE CertificationA/S</td><td></td><td></td><td></td><td></td><td>2</td><td>2</td><td>1</td><td>1</td><td></td><td>2</td><td></td><td>1</td><td></td><td></td><td>2</td><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>FR</td><td>Laboratoire National de Métrologie et d&#x27;Essais(LNE)</td><td></td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>1</td><td></td><td>1</td><td></td><td>1</td><td>1</td><td></td><td>1</td><td></td><td>1</td><td></td></tr><tr><td>GB</td><td>NMO Certification</td><td></td><td>3</td><td></td><td></td><td>4</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td></td><td>2</td><td>2</td><td></td><td>3</td><td></td><td></td></tr><tr><td>IN</td><td>Legal Metrology Division,Department of Consumer Affairs</td><td></td><td>3</td><td></td><td>3</td><td></td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td></td></tr><tr><td>JP</td><td>NMIJ/AIST</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td></td><td></td><td></td><td></td><td>2</td><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>KE</td><td>Weights and Measures Department</td><td></td><td></td><td>3</td><td>3</td><td>4</td><td>4</td><td></td><td>3</td><td></td><td>4</td><td>4</td><td>3</td><td>3</td><td></td><td>4</td><td>4</td><td></td><td>3</td><td></td><td></td></tr><tr><td>KH</td><td>National Metrology Centre(NMC)</td><td></td><td>3</td><td></td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td></td><td>1</td><td></td><td>3</td><td></td><td>3</td><td>1</td><td>1</td><td></td><td>3</td><td></td><td>3</td></tr><tr><td>KI</td><td>Ministry of Commerce,Industry and Cooperatives</td><td>5</td><td>5</td><td>5</td><td>5</td><td>1</td><td>1</td><td>5</td><td>1</td><td></td><td>5</td><td>1</td><td>1</td><td>5</td><td>5</td><td>5</td><td>1</td><td>1</td><td>5</td><td>5</td><td></td></tr><tr><td>KR</td><td>Korea Testing Certification(KTC)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td>LV</td><td>LNMC Ltd.Metrology Bureau</td><td></td><td>
+<table border="1"><tr><td colspan="2">1=SchemeAonly5=SchemeBonly</td><td rowspan="4">R16:2002R21:2007R35:2007R46:2012R49:2006R49:2013R50:2014R51:2006R58:1998R59:2016R60:2000R60:2017R61:2004R61:2017R75:2002R76:1992R76:2006R81:1998R85:2008R88:1998R93:1999R99:2008</td><tr><td colspan="2">2=SchemeA和MAA</td><tr><td colspan="2">3=SchemeA和B</td><tr><td colspan="2">4=SchemeA,B和MAA</td></tr><tr><td>AU</td><td>National Measurement Institute,Australia(NMIA)</td><td></td><td></td><td></td><td></td><td>2</td><td></td><td></td><td></td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>BE</td><td>Federal Public Service Economy</td><td></td><td>3</td><td></td><td>3</td><td></td><td>3</td><td>3</td><td></td><td></td><td>1</td><td></td><td>3</td><td></td><td>3</td><td></td><td>3</td></tr><tr><td>CA</td><td>Measurement Canada</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td>1</td><td></td><td></td><td>1</td><td></td><td>2</td></tr><tr><td>CH</td><td>Federal Institute of Metrology(METAS)</td><td></td><td></td><td></td><td>1</td><td>2</td><td>2</td><td>1</td><td>1</td><td></td><td>2</td><td></td><td>1</td><td></td><td>1</td><td></td><td>2</td></tr><tr><td>CN</td><td>State Administration for Market Regulation(SAMR)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td>2</td><td>1</td><td>1</td><td>1</td><td></td><td>2</td><td>2</td></tr><tr><td>CO</td><td>Superintendencia de Industria y Comercio(SIC)</td><td></td><td>3</td><td></td><td>3</td><td>4</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td>3</td><td>2</td><td>2</td></tr><tr><td>CU</td><td>Oficina Nacional de Normalizacion(NC)</td><td>3</td><td>3</td><td>3</td><td>1</td><td></td><td>1</td><td>3</td><td>1</td><td>3</td><td>3</td><td>1</td><td>3</td><td>3</td><td>3</td><td></td><td>1</td><td>3</td></tr><tr><td>CZ</td><td>Czech Metrology Institute(CMI)</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr><tr><td>DE</td><td>Physikalisch-Technische Bundesanstalt(PTB)</td><td></td><td>5</td><td></td><td>3</td><td>3</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td>3</td><td></td><td>2</td><td></td></tr><tr><td>DK</td><td>FORCE Certification A/S</td><td></td><td></td><td></td><td></td><td>2</td><td>2</td><td>1</td><td>1</td><td></td><td>2</td><td></td><td>1</td><td></td><td></td><td>2</td><td>2</td><td></td></tr><tr><td>FR</td><td>Laboratoire National de Métrologie et d&#x27;Essais(LNE)</td><td></td><td>1</td><td></td><td>1</td><td>1</td><td>1</td><td>1</td><td></td><td></td><td>1</td><td></td><td>1</td><td></td><td>1</td><td></td><td>1</td><td></td></tr><tr><td>GB</td><td>NMO Certification</td><td></td><td>3</td><td></td><td></td><td>4</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td></td><td>2</td><td>2</td><td></td></tr><tr><td>IN</td><td>Legal Metrology Division,Department of Consumer Affairs</td><td></td><td>3</td><td></td><td>3</td><td></td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td>3</td><td></td><td>2</td><td></td></tr><tr><td>JP</td><td>NMIJ/AIST</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td></td><td></td><td></td><td></td><td>2</td><td>2</td><td></td></tr><tr><td>KE</td><td>Weights and Measures Department</td><td></td><td></td><td>3</td><td>3</td><td>4</td><td>4</td><td></td><td>3</td><td></td><td>4</td><td>4</td><td>3</td><td>3</td><td></td><td>4</td><td>4</td><td></td></tr><tr><td>KH</td><td>National Metrology Centre(NMC)</td><td></td><td>3</td><td></td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td></td><td>1</td><td></td><td>3</td><td></td><td>3</td><td>1</td><td>1</td><td></td></tr><tr><td>KI</td><td>Ministry of Commerce,Industry and Cooperatives</td><td>5</td><td>5</td><td>5</td><td>5</td><td>1</td><td>1</td><td>5</td><td>1</td><td></td><td>5</td><td>1</td><td>1</td><td>5</td><td>5</td><td>5</td><td>1</td><td>1</td><td>5</td></tr><tr><td>KR</td><td>Korea Testing Certification(KTC)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td>2</td><td></td><td></td></tr><tr><td>LV</td><td>LNMC Ltd.Metrology Bureau</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NA</td><td>Namibian Standards Institution</td><td></td><td></td><td></td><td>3</td><td>4</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td></td><td>4</td><td>4</td><td></td><td>3</td></tr><tr><td>NL</td><td>NMi Certin B.V.</td><td></td><td>3</td><td></td><td>3</td><td>3</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td>3</td><td>1</td><td>2</td><td></td><td>3</td></tr><tr><td>NZ</td><td>Trading Standards(Ministry of Business,Innovation and Employment)(MBIE)</td><td></td><td></td><td></td><td></td><td>4</td><td>4</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td></td><td></td><td></td><td>2</td><td>2</td><td></td><td>3</td></tr><tr><td>RU</td><td>VNIIMS</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>RW</td><td>Rwanda Standards Board</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td></td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>3</td><td>3</td><td></td><td>1</td><td>1</td><td></td></tr><tr><td>SA</td><td>SASO(Saudi Standards,Metrology and Quality Organization)</td><td></td><td></td><td></td><td>3</td><td></td><td>1</td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr><tr><td>SE</td><td>RISE Research Institutes of Sweden AB</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3</td><td></td><td></td><td>2</td><td>1</td><td>3</td><td></td><td></td><td>2</td><td></td><td>3</td></tr><tr><td>SK</td><td>Slovak Legal Metrology(SLM)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td></td><td></td></tr><tr><td>TN</td><td>National Agency of Metrology(ANM)</td><td></td><td>3</td><td></td><td>3</td><td>2</td><td>2</td><td>3</td><td>3</td><td></td><td>2</td><td></td><td>3</td><td></td><td></td><td>2</td><td>2</td><td></td><td>3</td></tr><tr><td>UG</td><td>Uganda National Bureau of Standards(UNBS)</td><td></td><td></td><td></td><td>3</td><td>1</td><td>3</td><td></td><td></td><td></td><td></td><td>1</td><td>1</td><td></td><td></td><td></td><td>1</td><td>1</td><td></td></tr><tr><td>US</td><td>National Conference on Weights and Measures(NCWM)</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>ZA</td><td>NRCS:Legal Metrology</td><td></td><td></td><td></td><td></td><td>3</td><td>3</td><td></td><td>3</td><td></td><td></td><td>1</td><td></td><td></td><td></td><td></td><td>1</td><td>1</td><td></td></tr><tr><td>ZM</td><td>Zambia Metrology Agency</td><td></td><td>3</td><td></td><td>3</td><td>3</td><td>3</td><td>3</td><td>3</td><td></td><td>1</td><td></td><td>3</td><td></td><td>3</td><td>1</td><td>1</td><td></td><td>3</td></tr></table>
 
 <div align="center">
 
