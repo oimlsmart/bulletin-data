@@ -1734,7 +1734,7 @@ It is necessary to construct more research centers and to implement a strong cul
 
 [7] Benefit of Legal Metrology for the Economy and Society, John Birch A.M., CIML Honorary Member, OIML E 2:2003.
 
-[8] D.K. Aswal, Quality infrastructure of India and its importance for inclusive national growth, MAPANJ. Metrol. Soc India, 35 (2020) 139-150.
+[8] D.K. Aswal, Quality infrastructure of India and its importance for inclusive national growth, MAPAN J. Metrol. Soc India, 35 (2020) 139-150.
 
 [9] V. Kumar et al., Quality Infrastructure of Saudi Arabia and Its Importance for Vision 2030,
 
@@ -1748,7 +1748,7 @@ MAPAN-Journal of Metrology Society of India (March 2022) 37(1):97-106.
 
 [13] The law, economics and politics of International Standardisation, Edited by Panagiotis Delimatsis, Cambridge University Press, (2015).
 
-[14] H. Etzkowitz and L. Leydesdorff, The dynamics of innovation: from national systems and 'mode 2' to a triple helix of universityindustry-government relations, Res Policy, 29 (2000) 109-123.
+[14] H. Etzkowitz and L. Leydesdorff, The dynamics of innovation: from national systems and 'mode 2' to a triple helix of universityindustry- government relations, Res Policy, 29 (2000) 109-123.
 
 [15] E.G. Carayannis and D.F. Campbell, "Mode 3' and 'Quadruple Helix': toward a 21st century fractal innovation ecosystem', Int. J. Technol. Manag., 46 (2009) 201-234.
 
