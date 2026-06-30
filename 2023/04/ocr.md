@@ -258,7 +258,7 @@ Table 2: Resulting risk of non-conformance for the linear combination in differe
 
 </div>
 
-<table border="1"><tr><td>Procedure(Figure1)</td><td>Case[4]</td><td>Assumptions</td><td>Method</td><td>Risk of non-conformance</td></tr><tr><td>Single weighing</td><td>S0</td><td>n=1,m≤12</td><td>[8]</td><td>0.033</td></tr><tr><td>a)</td><td>M1</td><td>n=4</td><td>Adding input risk(4.0.033)</td><td>0.132</td></tr><tr><td>b)</td><td>S1</td><td>Independence,n=2,m≤12</td><td>Table2[4]</td><td>0.00174</td></tr><tr><td>c)</td><td>S1</td><td>Independence,n=4,m≤12</td><td>Table2[4]</td><td>0.00000603</td></tr><tr><td>d)</td><td>S2</td><td>Independence,n=3,m≤12,MPE1/MPE2=0.4</td><td>FigureB1[4]</td><td>0.00015</td></tr></table>
+<table border="1"><tr><td>Procedure(Figure 1)</td><td>Case[4]</td><td>Assumptions</td><td>Method</td><td>Risk of non-conformance</td></tr><tr><td>Single weighing</td><td>S0</td><td>n=1,m≤12</td><td>[8]</td><td>0.033</td></tr><tr><td>a)</td><td>M1</td><td>n=4</td><td>Adding input risk(4.0.033)</td><td>0.132</td></tr><tr><td>b)</td><td>S1</td><td>Independence,n=2,m≤12</td><td>Table2[4]</td><td>0.00174</td></tr><tr><td>c)</td><td>S1</td><td>Independence,n=4,m≤12</td><td>Table2[4]</td><td>0.00000603</td></tr><tr><td>d)</td><td>S2</td><td>Independence,n=3,m≤12,MPE1/MPE2=0.4</td><td>FigureB1[4]</td><td>0.00015</td></tr></table>
 
 are conformity assessed in line with OIML Recommendation R 76 [12]. The relevant metrological specification for the displayed weight during initial or subsequent verification is given in the form of an MPE, and the conformity is established using weights with expanded uncertainty $ ( k=2) $ , being smaller than or equal to 1/3 of the MPE. For procedures b)-d), a sufficient degree of independence can be assumed between the input measurements, thus allowing the application of the decision rules of case S. In contrast, procedure a) requires the classification of the decision rules in case M as the input measurement values are clearly correlated (cf. [4] for details).
 
@@ -278,7 +278,7 @@ In the following, a few examples of the requirements needed for technical rules 
 
 - A technical rule might restrict the number of input values for procedure a) to limit the increase in the risk of non-conformance.
 
-A technical rule might comprise conditions for procedures b)-d) as regards the input values. This might be a recorded assessment or even proof of the independence of the input values.
+- A technical rule might comprise conditions for procedures b)-d) as regards the input values. This might be a recorded assessment or even proof of the independence of the input values.
 
 A technical rule for any procedure should require a statement on the risk of non-conformance for each output value similar to what is required in [2].
 
@@ -444,7 +444,7 @@ Where non-compliance results in a low level of harm and there is minimal likelih
 
 letters of warning; and/or
 
-- infringement notices (which currently include a fine of AUD1 565 per offence).
+infringement notices (which currently include a fine of AUD1 565 per offence).
 
 Where non-compliance and infringement notices have not deterred traders or licensees from breaching measurement legislation or where monitoring activities detect more serious issues, further enforcement options include:
 
@@ -1494,7 +1494,7 @@ Table 1: Building blocks and pillars of the legal metrology regime (Source: Sect
 
 </div>
 
-<table border="1"><tr><td rowspan="2">PILLAR</td><td colspan="2">BUILDING BLOCK</td></tr><tr><td>NO.</td><td>DESCRIPTION</td></tr><tr><td rowspan="5">1: Legal and institutional framework</td><td>1</td><td>Legal metrology strategy</td></tr><tr><td>2</td><td>Legal entity</td></tr><tr><td>3</td><td>Governance</td></tr><tr><td>4</td><td>Financial sustainability</td></tr><tr><td rowspan="7">2: Administration and infrastructure</td><td>5</td><td>Director</td></tr><tr><td>6</td><td>Organizational structure</td></tr><tr><td>7</td><td>Management and personnel</td></tr><tr><td>8</td><td>Premises</td></tr><tr><td>9</td><td>Equipment</td></tr><tr><td>10</td><td>Quality management system documentation</td></tr><tr><td rowspan="6">3: Service delivery and technical competency</td><td>11</td><td>Legal metrology technical staff</td></tr><tr><td>12</td><td>Type approval of measuring instruments</td></tr><tr><td>13</td><td>Calibration and verification services</td></tr><tr><td>14</td><td>Market surveillance</td></tr><tr><td>15</td><td>Training system</td></tr><tr><td rowspan="5">4: External relations and recognition</td><td>16</td><td>Liaison with regional organizations</td></tr><tr><td>17</td><td>Liaison with international organizations</td></tr><tr><td>18</td><td>Coordination within the QI</td></tr><tr><td>19</td><td>Designated organizations</td></tr><tr><td>20</td><td>Consultative forum</td></tr></table>
+<table border="1"><tr><td rowspan="2">PILLAR</td><td colspan="2">BUILDING BLOCK</td></tr><tr><td>NO.</td><td>DESCRIPTION</td></tr><tr><td rowspan="5">1: Legal and institutional framework</td><td>1</td><td>Legal metrology strategy</td></tr><tr><td>2</td><td>Legal entity</td></tr><tr><td>3</td><td>Governance</td></tr><tr><td>4</td><td>Financial sustainability</td></tr><tr><td rowspan="7">2: Administration and infrastructure</td><td>5</td><td>Director</td></tr><tr><td>6</td><td>Organizational structure</td></tr><tr><td>7</td><td>Management and personnel</td></tr><tr><td>8</td><td>Premises</td></tr><tr><td>9</td><td>Equipment</td></tr><tr><td>10</td><td>Quality management system documentation</td></tr><tr><td rowspan="6">3: Service delivery and technical competency</td><td>11</td><td>Legal metrology technical staff</td></tr><tr><td>12</td><td>Type approval of measuring instruments</td></tr><tr><td>13</td><td>Calibration and verification services</td></tr><tr><td>14</td><td>Market surveillance</td></tr><tr><td>15</td><td>Training system</td></tr><tr><td rowspan="6">4: External relations and recognition</td><td>16</td><td>Liaison with regional organizations</td></tr><tr><td>17</td><td>Liaison with international organizations</td></tr><tr><td>18</td><td>Coordination within the QI</td></tr><tr><td>19</td><td>Designated organizations</td></tr><tr><td>20</td><td>Consultative forum</td></tr></table>
 
 Note: QI = quality infrastructure.
 
@@ -1710,7 +1710,7 @@ improvement in the natural environment; and
 
 improved health from standardization of measurement and testing, among others.
 
-The quality infrastructure is required for the effective operation of domestic markets, and its international recognition is important to enable access to foreign markets. It is a critical element in promoting and sustaining economic development, as well as environmental and social wellbeing. The Quality Infrastructure is "The system comprising the organizations (public and private) together with the policies relevant legal and regulatory framework, and practices needed to support and enhance the quality, safety and environmental soundness of goods, services and processes". It relies on metrology, standardization, accreditation, conformity assessment, and market surveillance.
+The quality infrastructure is required for the effective operation of domestic markets, and its international recognition is important to enable access to foreign markets. It is a critical element in promoting and sustaining economic development, as well as environmental and social wellbeing. The Quality Infrastructure is "The system comprising the organizations (public and private) together with the policies, relevant legal and regulatory framework, and practices needed to support and enhance the quality, safety and environmental soundness of goods, services and processes". It relies on metrology, standardization, accreditation, conformity assessment, and market surveillance.
 
 In the KSA, it is necessary to take into account a number of recommendations for the future, such as expanding SASO's apex capabilities and introducing new system standards, in order to boost the KSA's quality assurance. It is also necessary to expand SASO's measurement and calibration capabilities into the fields of energy, biomedical, environmental monitoring, and quantum standards. New primary/national standards
 
@@ -1734,7 +1734,7 @@ It is necessary to construct more research centers and to implement a strong cul
 
 [7] Benefit of Legal Metrology for the Economy and Society, John Birch A.M., CIML Honorary Member, OIML E 2:2003.
 
-[8] D.K. Aswal, Quality infrastructure of India and its importance for inclusive national growth, MAPAN J. Metrol. Soc India, 35 (2020) 139-150.
+[8] D.K. Aswal, Quality infrastructure of India and its importance for inclusive national growth, MAPANJ. Metrol. Soc India, 35 (2020) 139-150.
 
 [9] V. Kumar et al., Quality Infrastructure of Saudi Arabia and Its Importance for Vision 2030,
 
@@ -1748,7 +1748,7 @@ MAPAN-Journal of Metrology Society of India (March 2022) 37(1):97-106.
 
 [13] The law, economics and politics of International Standardisation, Edited by Panagiotis Delimatsis, Cambridge University Press, (2015).
 
-[14] H. Etzkowitz and L. Leydesdorff, The dynamics of innovation: from national systems and 'mode 2' to a triple helix of universityindustry- government relations, Res Policy, 29 (2000) 109-123.
+[14] H. Etzkowitz and L. Leydesdorff, The dynamics of innovation: from national systems and 'mode 2' to a triple helix of universityindustry-government relations, Res Policy, 29 (2000) 109-123.
 
 [15] E.G. Carayannis and D.F. Campbell, "Mode 3' and 'Quadruple Helix': toward a 21st century fractal innovation ecosystem', Int. J. Technol. Manag., 46 (2009) 201-234.
 
@@ -1820,28 +1820,15 @@ Training programme
 
 </div>
 
-<table border="1"><tr><td></td><td>Monday3 July 2023</td><td>Tuesday4 July 2023</td><td>Wednesday5 July 2023</td><td>Thursday6 July 2023</td><td>Friday7 July 2023</td></tr><tr><td>Session109:00 to 10:30</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>OPENING SESSION
-• Opening and welcome
-• Purpose of OTE
-• Introductions
-• Group photo</td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
-• Type size of letters and symbols</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
-• Terminology</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
-• OIML G 14 Density Measurement</td></tr><tr><td colspan="6">Morning break-10:30 to 11:00</td></tr><tr><td>Session211:00 to 12:30</td><td></td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
-• Terminology
-• Identity of the product
-• Declaration of responsibility for a prepackage</td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
-• Revision</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
-• Metrological requirements for prepackages</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
-• OIML G 14 Density Measurement</td></tr><tr><td colspan="6">Lunch break-12:30 to 14:00[for the account of each participant]</td></tr><tr><td>Session314:00 to 15:15</td><td></td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
-• Quantity declarations
-• Suggested methods of indicating the quantity on prepackages</td><td>SITE VISITSüdwestdeutscheSalzwerkeAGReichenbachstrasse4</td><td>TRAINING ON OIML R 87- Practical: Verification of prepacked products with constant nominal content, expressed in mass</td><td>TRAINING ON OIML R 87- Practical: Verification of drained products packed in liquid medium</td></tr><tr><td colspan="6">Afternoon break-15:15 to 15:45</td></tr><tr><td>Session415:45 to 17:00</td><td>Registration of participantsDAMWittelsbachstrasse14</td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
-• Misleading practices
-• Units of measurements and symbols</td><td>SITE VISIT(Continued)</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
-• Tare procedures</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
-• Actual quantity in glazed and frozen productsCLOSING SESSION
-• Vote of thanks
-• Closing of OTE</td></tr><tr><td>Sessions close at 17:00</td><td>Welcoming event at DAM(sponsored by DAM)</td><td></td><td>Social eventGasthaus HeimgartenAm Einfang 10(sponsored by the OIML)</td><td></td><td>Participants depart</td></tr></table>
+<table border="1"><tr><td></td><td>Monday3 July 2023</td><td>Tuesday4 July 2023</td><td>Wednesday5 July 2023</td><td>Thursday6 July 2023</td><td>Friday7 July 2023</td></tr><tr><td>Session109:00 to 10:30</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan="6">Morning break-10:30 to 11:00</td></tr><tr><td>Session211:00 to 12:30</td><td></td><td>TRAINING ON OIML R79- Labelling requirements for prepackages
+Terminology
+Identity of the product
+Declaration of responsibility for a prepackage</td><td>TRAINING ON OIML R79- Labelling requirements for prepackages
+Revision</td><td>TRAINING ON OIML R87- Quantity of product in prepackages
+Metrological requirements for prepackages</td><td>TRAINING ON OIML R87- Quantity of product in prepackages
+OIML G14 Density Measurement</td></tr><tr><td colspan="6">Lunch break-12:30 to 14:00[for the account of each participant]</td></tr><tr><td>Session314:00 to 15:15</td><td></td><td>TRAINING ON OIML R79- Labelling requirements for prepackages
+Quantity declarations
+Suggested methods of indicating the quantity on prepackages</td><td>SITE VISITSüdwestdeutscheSalzwerkeAGReichenbachstrasse4</td><td>TRAINING ON OIML R87- Practical: Verification of prepacked products with constant nominal content, expressed in mass</td><td>TRAINING ON OIML R87- Practical: Verification of drained products packed in liquid medium</td></tr><tr><td colspan="6">Afternoon break-15:15 to 15:45</td></tr><tr><td>Session415:45 to 17:00</td><td>Registration of participantsDAMWittelsbachstrasse14</td><td>TRAINING ON OIML R79- Labelling requirements for prepackagesMisleading practicesUnits of measurements and symbols</td><td>SITE VISIT(Continued)</td><td>TRAINING ON OIML R87- Quantity of product in prepackagesTare procedures</td><td>TRAINING ON OIML R87- Quantity of product in prepackagesActual quantity in glazed and frozen productsCLOSING SESSIONVote of thanksClosing of OTE</td></tr><tr><td>Sessions close at 17:00</td><td>Welcoming event at DAM(sponsored by DAM)</td><td></td><td>Social eventGasthaus HeimgartenAm Einfang 10(sponsored by the OIML)</td><td></td><td>Participants depart</td></tr></table>
 
 Participants also visited a local salt factory to see prepackaged product control in practice. A local newspaper reported on the visit and on the training course being held in Bad Reichenhall.
 
@@ -2286,6 +2273,8 @@ https://www.oiml.org/en/oiml-cs
 # List of OIML Issuing Authorities and their scopes Updated:2023-11-22
 
 </div>
+
+Updated: 2023-11-22
 
 ![](page=3,bbox=[924, 687, 1154, 917])
 
