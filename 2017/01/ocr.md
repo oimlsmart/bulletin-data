@@ -202,7 +202,7 @@ All mass measurements must be traceable to the IPK which is held at the BIPM. Th
 
 part of a simultaneous recalibration of all the prototypes known as "periodic verification" [1].
 
-During its lifetime, the NPK - which is copy no. 2 of the IPK - was calibrated six times at the BIPM: three "periodic verifications" occurred between 1899-1911, 1939-1953 and 1988-1992 and there were three additional calibrations in 1976, 2005 and 2013.
+During its lifetime, the NPK - which is copy no.2 of the IPK - was calibrated six times at the BIPM: three "periodic verifications" occurred between 1899-1911, 1939-1953 and 1988-1992 and there were three additional calibrations in 1976, 2005 and 2013.
 
 In Romania, the most important standard after the NPK is represented by a stainless steel kilogram, Ni81. In 2005 and 2013, this mass standard was sent together with the NPK to the BIPM for calibration and received a new mass value. The first task after receiving these standards back from the BIPM was to perform comparisons between the NPK, Ni81 and all the reference stainless steel mass standards (a set of two 1 kg mass standards and two sets of disc weights from 50 g to 500 g). From January 2014 to January 2015 an extraordinary calibration using the IPK was carried out at the BIPM. After this calibration campaign, it was concluded that the results obtained for the set of BIPM working standards indicate the existence of an offset from the IPK of 35 $ \mu g $ over 22 years. Therefore, the Consultative Committee for Mass and Related Quantities (CCM) recommended that all mass calibrations of national prototypes and of mass standards issued by the BIPM over the period 2003-2013 need to be amended with this value.
 
@@ -336,9 +336,13 @@ $$
 
 where:
 
-$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA); $ \rho_{\mathrm{a}} $ is the air density at the time of the weighing; $ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
+$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA);
 
-$ \mathrm{V}_{T 2 0} $; $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0 \mathrm{^{\circ} C} $;
+$ \rho_{\mathrm{a}} $ is the air density at the time of the weighing;
+
+$ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
+
+$ \mathrm{V}_{T 2 0}; $ $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0 \mathrm{^{\circ} C} $;
 
 $ \alpha_{T \mathrm{t}} $ $ \alpha_{S \mathrm{t}} $ is the volume expansion coefficient of the weights, temperature dependent;
 
@@ -384,7 +388,7 @@ Table 4 Mass values for the standards
 
 </div>
 
-<table border="1"><tr><td>Mass standard ID</td><td>Date</td><td>Mass value</td><td>Uncertainty U mg</td><td>Amended mass difference mg</td></tr><tr><td rowspan="2">NPK 2</td><td>2013</td><td>1kg-1.114mg</td><td>0.014</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg-1.150mg</td><td>0.006</td></tr><tr><td rowspan="2">Ni 81</td><td>2013</td><td>1kg+0.119mg</td><td>0.030</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg+0.083mg</td><td>0.030</td></tr></table>
+<table border="1"><tr><td>Mass standard ID</td><td>Date</td><td>Mass value</td><td>Uncertainty U mg</td><td>Amended mass difference mg</td></tr><tr><td rowspan="2">NPK 2</td><td>2013</td><td>1kg-1.114mg</td><td>0.014</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg-1.150mg</td><td>0.006</td></tr><tr><td rowspan="2">Ni81</td><td>2013</td><td>1kg+0.119mg</td><td>0.030</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg+0.083mg</td><td>0.030</td></tr></table>
 
 <div align="center">
 
@@ -494,7 +498,7 @@ The National Institute of Metrology, Quality and Technology (INMETRO) is the Nat
 
 So, in order to conduct its legal metrology activities INMETRO delegates verification and inspection activities to public bodies known as Weights and Measurements Institutes (WMI), since these activities
 
-can be only conducted by public agents according to Brazil's legislation. The WMI forms the Brazilian Network of Legal Metrology and Quality (Rede Brasileira de Metrologia Legal e Qualidade - INMETRO, RBMLQ-I, in Portuguese), and some delegated bodies are also divided into regional branches in order to cover the region more effectively. Despite this delegation, the Institute is still responsible for regulation, planning and control regarding legal metrology activities, surveillance, type approval and research. INMETRO also has two branches that belong to the RBMLQ-I.
+can be only conducted by public agents according to Brazil's legislation. The WMI forms the Brazilian Network of Legal Metrology and Quality (Rede Brasileira de Metrologia Legal e Qualidade-INMETRO, RBMLQ-I, in Portuguese), and some delegated bodies are also divided into regional branches in order to cover the region more effectively. Despite this delegation, the Institute is still responsible for regulation, planning and control regarding legal metrology activities, surveillance, type approval and research. INMETRO also has two branches that belong to the RBMLQ-I.
 
 INMETRO also authorizes manufactures and importers to conduct self-verification for utility meters, chronotachographs and sphygmomanometers. The RBMLQ-I is also responsible for authorizing repairers of measuring instruments. Regardless of the repairs, after repair verifications are also conducted in order to comply with national legislation.
 
@@ -768,7 +772,7 @@ Les Etats se référent en effet aux Recommandations de l'OIML pour établir leu
 
 La France, les autres Etats de l'Union européenne et WELMEC, l'organisation régionale de coopération européenne en métrologie légale, dont je salue la
 
-![](page=9,bbox=[1174, 1739, 1718, 2476])
+![](page=9,bbox=[1174, 1739, 1717, 2476])
 
 Mme Danièle Giuganti giving her welcome speech
 
@@ -1780,7 +1784,7 @@ Shanghai Teraoka Electronic Co. Ltd., No. 6058 Nan Ting Road, Tin Lin Town, Jin 
 
 ## R076/2006-NL1-2016.56 (MAA)
 
-Non-automatic weighing instrument - Type: (See certificate) Excell Precision Co. Ltd., 6F, No.127, Lane 235, Pao-Chiao Road, Hsin Tien, TW-Taipei Hsien Chinese Taipei
+Non-automatic weighing instrument - Type: (See certificate) Excell Precision Co. Ltd., 6F, No. 127, Lane 235, Pao-Chiao Road, Hsin Tien, TW-Taipei Hsien Chinese Taipei
 
 ## R076/2006-NL1-2016.57 (MAA)
 
@@ -1974,7 +1978,11 @@ Compteurs de gaz
 
 R137(2012)
 
-Issuing Authority / Autorité de délivrance NMi Certin B.V. The Netherlands
+Issuing Authority / Autorité de délivrance
+
+NMi Certin B.V.,
+
+The Netherlands
 
 R137/2012-NL1-2014.03 Rev.2 Turbine gas meter - Type: FMT-L, FMT-S, FMT-Lx mad FMT-Dc Flow Meter Group B.V., Menistraat 5c NL-7091 ZZ Dinxperlo, Netherland
 
@@ -2106,7 +2114,7 @@ Features on metrology in your country
 
 Accounts of Seminars, Meetings, Conferences
 
-Annпппппппппп
+Announcements of forthcoming events, etc.
 
 The OIML Bulletin is a forum for the publication of technical papers and diverse articles addressing metrological advances in trade, health, the environment and safety - fields in which the credibility of measurement remains a challenging priority. The Editors of the Bulletin encourage the submission of articles covering topics such as national, regional and international activities in legal metrology and related fields, evaluation procedures, accreditation and certification, and measuring techniques and instrumentation. Authors are requested to submit:
 
@@ -2139,8 +2147,6 @@ COOMET celebrates its 25th Anniversary
 ![](page=10,bbox=[1432, 2071, 1519, 2155])
 
 ## OIML BULLETIN
-
-Vual Review of Biochemistry
 
 VOLUME LVII • NUMBER 2
 
