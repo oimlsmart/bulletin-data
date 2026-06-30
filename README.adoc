@@ -1,0 +1,35 @@
+= OIML Bulletin source data
+
+Mirror of every OIML Bulletin PDF published on https://www.oiml.org,
+with text extractions alongside each issue.
+
+== Layout
+
+```
+<year>/<issue>/          # e.g. 2024/01
+  <filename>.pdf         # original PDF
+  ocr.md                 # text extraction (pdftotext for born-digital, GLM-OCR for scans)
+  ocr.json               # GLM-OCR raw response (scanned-era only)
+```
+
+Year is the calendar year. Issue is the quarterly issue number
+within the year (01 = Jan/Q1, 02 = Apr/Q2, 03 = Jul/Q3, 04 = Oct/Q4).
+
+== Extraction methods
+
+* *Born-digital* PDFs (year >= 2000): `pdftotext -layout` (poppler).
+  Fast, deterministic, no API cost.
+* *Scanned* PDFs (year < 2000): GLM OCR via the z.ai layout_parsing
+  API. Cached per 30-page chunk in `backfill/cache/`.
+
+== Source
+
+All PDFs are downloaded from oiml.org public URLs. The bulletin
+landing page is
+https://www.oiml.org/en/publications/oiml-bulletin/online-bulletin.
+
+== Regeneration
+
+This tree is produced by `backfill/populate_bulletin_data.rb` in the
+`relaton-data-oiml` repository. Re-running is idempotent — existing
+PDFs and ocr.md files are left in place.
