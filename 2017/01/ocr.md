@@ -202,7 +202,7 @@ All mass measurements must be traceable to the IPK which is held at the BIPM. Th
 
 part of a simultaneous recalibration of all the prototypes known as "periodic verification" [1].
 
-During its lifetime, the NPK - which is copy no.2 of the IPK - was calibrated six times at the BIPM: three "periodic verifications" occurred between 1899-1911, 1939-1953 and 1988-1992 and there were three additional calibrations in 1976, 2005 and 2013.
+During its lifetime, the NPK - which is copy no. 2 of the IPK - was calibrated six times at the BIPM: three "periodic verifications" occurred between 1899-1911, 1939-1953 and 1988-1992 and there were three additional calibrations in 1976, 2005 and 2013.
 
 In Romania, the most important standard after the NPK is represented by a stainless steel kilogram, Ni81. In 2005 and 2013, this mass standard was sent together with the NPK to the BIPM for calibration and received a new mass value. The first task after receiving these standards back from the BIPM was to perform comparisons between the NPK, Ni81 and all the reference stainless steel mass standards (a set of two 1 kg mass standards and two sets of disc weights from 50 g to 500 g). From January 2014 to January 2015 an extraordinary calibration using the IPK was carried out at the BIPM. After this calibration campaign, it was concluded that the results obtained for the set of BIPM working standards indicate the existence of an offset from the IPK of 35 $ \mu g $ over 22 years. Therefore, the Consultative Committee for Mass and Related Quantities (CCM) recommended that all mass calibrations of national prototypes and of mass standards issued by the BIPM over the period 2003-2013 need to be amended with this value.
 
@@ -336,11 +336,7 @@ $$
 
 where:
 
-$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA);
-
-$ \rho_{\mathrm{a}} $ is the air density at the time of the weighing;
-
-$ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
+$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA); $ \rho_{\mathrm{a}} $ is the air density at the time of the weighing; $ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
 
 $ \mathrm{V}_{T 2 0}; $ $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0 \mathrm{^{\circ} C} $;
 
@@ -352,7 +348,7 @@ $$
 C _ {\mathrm {m l}} = m \times \gamma \times \delta h / g
 $$
 
-with: m nominal value of the weight, $ \gamma $ gravitational gradient $ g $ acceleration due to gravity, $ \delta h $ represents the distance between the centers of mass of the two artifacts being compared.
+with: m nominal value of the weight, $ \gamma $ gravitational gradient $ g $ acceleration due to gravity $ \delta h $ represents the distance between the centers of mass of the two artifacts being compared.
 
 The expected values of the unknown masses are calculated using formulas [4]:
 
@@ -498,7 +494,7 @@ The National Institute of Metrology, Quality and Technology (INMETRO) is the Nat
 
 So, in order to conduct its legal metrology activities INMETRO delegates verification and inspection activities to public bodies known as Weights and Measurements Institutes (WMI), since these activities
 
-can be only conducted by public agents according to Brazil's legislation. The WMI forms the Brazilian Network of Legal Metrology and Quality (Rede Brasileira de Metrologia Legal e Qualidade-INMETRO, RBMLQ-I, in Portuguese), and some delegated bodies are also divided into regional branches in order to cover the region more effectively. Despite this delegation, the Institute is still responsible for regulation, planning and control regarding legal metrology activities, surveillance, type approval and research. INMETRO also has two branches that belong to the RBMLQ-I.
+can be only conducted by public agents according to Brazil's legislation. The WMI forms the Brazilian Network of Legal Metrology and Quality (Rede Brasileira de Metrologia Legal e Qualidade - INMETRO, RBMLQ-I, in Portuguese), and some delegated bodies are also divided into regional branches in order to cover the region more effectively. Despite this delegation, the Institute is still responsible for regulation, planning and control regarding legal metrology activities, surveillance, type approval and research. INMETRO also has two branches that belong to the RBMLQ-I.
 
 INMETRO also authorizes manufactures and importers to conduct self-verification for utility meters, chronotachographs and sphygmomanometers. The RBMLQ-I is also responsible for authorizing repairers of measuring instruments. Regardless of the repairs, after repair verifications are also conducted in order to comply with national legislation.
 
@@ -772,7 +768,7 @@ Les Etats se référent en effet aux Recommandations de l'OIML pour établir leu
 
 La France, les autres Etats de l'Union européenne et WELMEC, l'organisation régionale de coopération européenne en métrologie légale, dont je salue la
 
-![](page=9,bbox=[1174, 1739, 1717, 2476])
+![](page=9,bbox=[1174, 1739, 1718, 2476])
 
 Mme Danièle Giuganti giving her welcome speech
 
@@ -1664,7 +1660,11 @@ Issuing Authority / Autorité de délivrance National Measurement Institute (NMI
 
 Conweigh model CONW non-automatic weighing instrument Olitek Pty Ltd., 1/58 Frederick Street, Att: James Oliver, QLD 4013 Northgate, Australia
 
-Issuing Authority / Autorité de délivrance NMRO Certification Services (NMRO), United Kingdom
+Issuing Authority / Autorité de délivrance
+
+NMRO Certification Services (NMRO),
+
+United Kingdom
 
 ## R076/1992-GB1-2016.02 (MAA)
 
