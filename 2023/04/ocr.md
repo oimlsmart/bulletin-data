@@ -278,7 +278,7 @@ In the following, a few examples of the requirements needed for technical rules 
 
 - A technical rule might restrict the number of input values for procedure a) to limit the increase in the risk of non-conformance.
 
-- A technical rule might comprise conditions for procedures b)-d) as regards the input values. This might be a recorded assessment or even proof of the independence of the input values.
+A technical rule might comprise conditions for procedures b)-d) as regards the input values. This might be a recorded assessment or even proof of the independence of the input values.
 
 A technical rule for any procedure should require a statement on the risk of non-conformance for each output value similar to what is required in [2].
 
@@ -444,7 +444,7 @@ Where non-compliance results in a low level of harm and there is minimal likelih
 
 letters of warning; and/or
 
-infringement notices (which currently include a fine of AUD1 565 per offence).
+- infringement notices (which currently include a fine of AUD1 565 per offence).
 
 Where non-compliance and infringement notices have not deterred traders or licensees from breaching measurement legislation or where monitoring activities detect more serious issues, further enforcement options include:
 
@@ -1396,11 +1396,11 @@ Users can apply online for verification of measuring instruments, then a fee is 
 
 - Issue new licences for manufacturers, dealers and repairers.
 
-Auto renewal of licenses for manufacturers, dealers and repairers.
+- Auto renewal of licenses for manufacturers, dealers and repairers.
 
-Registration of manufacturers/packers of packaged commodities.
+- Registration of manufacturers/packers of packaged commodities.
 
-Intimation of the director's nomination.
+- Intimation of the director's nomination.
 
 - Process flow charts, check lists, procedures and lists of documents required to obtain licences and registrations.
 
@@ -1626,7 +1626,7 @@ facilitating intra-trade exchange with partner countries by removing technical o
 
 The national body in charge of offering accreditation services to conformity assessment bodies in the KSA is the Saudi Accreditation Center (SAC). It consists of inspection bodies, certification bodies, Halal certification bodies, and testing and calibration laboratories in all disciplines (such as electrical, chemical, construction and building materials, measurement and calibration, etc.). The goal of the SAC is to improve consumer protection while contributing to the growth of the national economy by increasing the technical proficiency of national CABs.
 
-Saudi Arabia signed an international accreditation agreement in 2011 that allowed for the recognition of Saudi standards in numerous fields. The national center's laboratories' quality system is built upon the requirements of international standards (ISO/IEC 17025, ISO 17034, and ISO 17043). The quality system was assessed (peer reviewed) in 11 fields between December 2019 and January 2020 under the direction of GULFMET, and the system was certified and accredited in accordance with ISO/IEC 17025, among other standards.
+Saudi Arabia signed an international accreditation agreement in 2011 that allowed for the recognition of Saudi standards in numerous fields. The national center's laboratories' quality system is built upon the requirements of international standards (ISO/IEC 17025,ISO 17034,and ISO 17043). The quality system was assessed (peer reviewed) in 11 fields between December 2019 and January 2020 under the direction of GULFMET, and the system was certified and accredited in accordance with ISO/IEC 17025, among other standards.
 
 ## The importance of accreditation
 
@@ -1826,8 +1826,7 @@ Training programme
 • Introductions
 • Group photo</td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
 • Type size of letters and symbols</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
-• Terminology</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
-• OIML G 14 Density Measurement</td></tr><tr><td colspan="6">Morning break-10:30 to 11:00</td></tr><tr><td>Session211:00 to 12:30</td><td></td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
+• Terminology</td><td>TRAINING ON OIML R 87- Practical: Verification of prepackaged products expressed in volume</td></tr><tr><td colspan="6">Morning break-10:30 to 11:00</td></tr><tr><td>Session211:00 to 12:30</td><td></td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
 • Terminology
 • Identity of the product
 • Declaration of responsibility for a prepackage</td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
@@ -1835,7 +1834,7 @@ Training programme
 • Metrological requirements for prepackages</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
 • OIML G 14 Density Measurement</td></tr><tr><td colspan="6">Lunch break-12:30 to 14:00[for the account of each participant]</td></tr><tr><td>Session314:00 to 15:15</td><td></td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
 • Quantity declarations
-• Suggested methods of indicating the quantity on prepackages</td><td>SITE VISITSüdwestdeutscheSalzwerkeAGReichenbachstrasse4</td><td>TRAINING ON OIML R 87- Practical: Verification of prepacked products with constant nominal content, expressed in mass</td><td>TRAINING ON OIML R 87- Practical: Verification of drained products packed in liquid medium</td></tr><tr><td colspan="6">Afternoon break-15:15 to 15:45</td></tr><tr><td>Session415:45 to 17:00</td><td>Registration of participantsDAMWittelsbachstrasse14</td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
+• Suggested methods of indicating the quantity on prepackages</td><td>SITE VISITSüdwestdeutscheSalzwerkeAGReichenbachstrasse4</td><td>TRAINING ON OIML R 87- Practical: Verification of prepackaged products with constant nominal content, expressed in mass</td><td>TRAINING ON OIML R 87- Practical: Verification of drained products packed in liquid medium</td></tr><tr><td colspan="6">Afternoon break-15:15 to 15:45</td></tr><tr><td>Session415:45 to 17:00</td><td>Registration of participantsDAMWittelsbachstrasse14</td><td>TRAINING ON OIML R 79- Labelling requirements for prepackages
 • Misleading practices
 • Units of measurements and symbols</td><td>SITE VISIT(Continued)</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
 • Tare procedures</td><td>TRAINING ON OIML R 87- Quantity of product in prepackages
@@ -1987,7 +1986,7 @@ The work of the subgroup established to investigate the requirements for display
 
 ## 6.5 Sorting devices
 
-Some TC 9/SC 2/p 10 members believed that the sorting device defined in R51 is interpreted differently by manufacturers and by some approval authorities. Some interpret the "sorting device" as a logical function (allocation) into sub-groups and the result of which can be, for example, a count value or a signal output, and others, including approval authorities from the European Union, interpret the "sorting device" as a mandatory physical sorting device, an integral part of the checkweigher, which must operate fully automatically and which is the responsibility of the manufacturer of the weighing instrument. This obliges the manufacturer to assess the sorting device on the production line, especially when placing the checkweigher on the market. Potential legal disputes can arise when a sorting device not manufactured or approved by the manufacturer of the weighing instrument is used by the user of the weighing instrument.
+Some TC 9/SC 2/p 10 members believed that the sorting device defined in R 51 is interpreted differently by manufacturers and by some approval authorities. Some interpret the "sorting device" as a logical function (allocation) into sub-groups and the result of which can be, for example, a count value or a signal output, and others, including approval authorities from the European Union, interpret the "sorting device" as a mandatory physical sorting device, an integral part of the checkweigher, which must operate fully automatically and which is the responsibility of the manufacturer of the weighing instrument. This obliges the manufacturer to assess the sorting device on the production line, especially when placing the checkweigher on the market. Potential legal disputes can arise when a sorting device not manufactured or approved by the manufacturer of the weighing instrument is used by the user of the weighing instrument.
 
 It is the view of some TC 9/SC 2/p 10 members that test requirements for a physical sorting device should be specified in R 51 to ensure that:
 
