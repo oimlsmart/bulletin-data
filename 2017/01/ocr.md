@@ -124,7 +124,7 @@ Paul Dixon
 
 Paul Dixon
 
-30 ISO CASCO WG 44 - 5th meeting (Revision of ISO/IEC 17025)
+30 ISO CASCO WG 44-5th meeting (Revision of ISO/IEC 17025)
 
 Kai Stoll-Malke and Paul Dixon
 
@@ -336,13 +336,9 @@ $$
 
 where:
 
-$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA);
+$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA); $ \rho_{\mathrm{a}} $ is the air density at the time of the weighing; $ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
 
-$ \rho_{\mathrm{a}} $ is the air density at the time of the weighing;
-
-$ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
-
-$ \mathrm{V}_{T 2 0}; $ $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0^{\circ} \mathrm{C} $;
+$ \mathrm{V}_{T 2 0} $; $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0 \mathrm{^{\circ} C} $;
 
 $ \alpha_{T \mathrm{t}} $ $ \alpha_{S \mathrm{t}} $ is the volume expansion coefficient of the weights, temperature dependent;
 
@@ -388,7 +384,7 @@ Table 4 Mass values for the standards
 
 </div>
 
-<table border="1"><tr><td>Mass standard ID</td><td>Date</td><td>Mass value</td><td>Uncertainty U mg</td><td>Amended mass difference mg</td></tr><tr><td rowspan="2">NPK 2</td><td>2013</td><td>1kg-1.114mg</td><td>0.014</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg-1.150mg</td><td>0.006</td></tr><tr><td rowspan="2">Ni81</td><td>2013</td><td>1kg+0.119mg</td><td>0.030</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg+0.083mg</td><td>0.030</td></tr></table>
+<table border="1"><tr><td>Mass standard ID</td><td>Date</td><td>Mass value</td><td>Uncertainty U mg</td><td>Amended mass difference mg</td></tr><tr><td rowspan="2">NPK 2</td><td>2013</td><td>1kg-1.114mg</td><td>0.014</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg-1.150mg</td><td>0.006</td></tr><tr><td rowspan="2">Ni 81</td><td>2013</td><td>1kg+0.119mg</td><td>0.030</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg+0.083mg</td><td>0.030</td></tr></table>
 
 <div align="center">
 
@@ -772,7 +768,7 @@ Les Etats se référent en effet aux Recommandations de l'OIML pour établir leu
 
 La France, les autres Etats de l'Union européenne et WELMEC, l'organisation régionale de coopération européenne en métrologie légale, dont je salue la
 
-![](page=9,bbox=[1174, 1739, 1717, 2476])
+![](page=9,bbox=[1174, 1739, 1718, 2476])
 
 Mme Danièle Giuganti giving her welcome speech
 
@@ -1784,7 +1780,7 @@ Shanghai Teraoka Electronic Co. Ltd., No. 6058 Nan Ting Road, Tin Lin Town, Jin 
 
 ## R076/2006-NL1-2016.56 (MAA)
 
-Non-automatic weighing instrument - Type: (See certificate) Excell Precision Co. Ltd., 6F, No. 127, Lane 235, Pao-Chiao Road, Hsin Tien, TW-Taipei Hsien Chinese Taipei
+Non-automatic weighing instrument - Type: (See certificate) Excell Precision Co. Ltd., 6F, No.127, Lane 235, Pao-Chiao Road, Hsin Tien, TW-Taipei Hsien Chinese Taipei
 
 ## R076/2006-NL1-2016.57 (MAA)
 
@@ -2110,7 +2106,7 @@ Features on metrology in your country
 
 Accounts of Seminars, Meetings, Conferences
 
-Announcements of forthcoming events, etc.
+Annпппппппппп
 
 The OIML Bulletin is a forum for the publication of technical papers and diverse articles addressing metrological advances in trade, health, the environment and safety - fields in which the credibility of measurement remains a challenging priority. The Editors of the Bulletin encourage the submission of articles covering topics such as national, regional and international activities in legal metrology and related fields, evaluation procedures, accreditation and certification, and measuring techniques and instrumentation. Authors are requested to submit:
 
@@ -2143,6 +2139,8 @@ COOMET celebrates its 25th Anniversary
 ![](page=10,bbox=[1432, 2071, 1519, 2155])
 
 ## OIML BULLETIN
+
+Vual Review of Biochemistry
 
 VOLUME LVII • NUMBER 2
 
