@@ -120,7 +120,7 @@ Patricia Saint-Germain: Administrator, Members
 
 ## OIML MEMBER STATES
 
-<table border="1"><tr><td>ALBANIA</td><td>KAZAKHSTAN</td></tr><tr><td>ALGERIA</td><td>KENYA</td></tr><tr><td>AUSTRALIA</td><td>REP. OF KOREA</td></tr><tr><td>AUSTRIA</td><td>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</td></tr><tr><td>BELARUS</td><td>MONACO</td></tr><tr><td>BELGIUM</td><td>MOROCCO</td></tr><tr><td>BRAZIL</td><td>NETHERLANDS</td></tr><tr><td>BULGARIA</td><td>NEW ZEALAND</td></tr><tr><td>CAMBODIA</td><td>NORWAY</td></tr><tr><td>CAMEROON</td><td>PAKISTAN</td></tr><tr><td>CANADA</td><td>POLAND</td></tr><tr><td>P.R. CHINA</td><td>PORTUGAL</td></tr><tr><td>COLOMBIA</td><td>ROMANIA</td></tr><tr><td>CROATIA</td><td>RUSSIAN FEDERATION</td></tr><tr><td>CUBA</td><td>SAUDI ARABIA</td></tr><tr><td>CYPRUS</td><td>SERBIA</td></tr><tr><td>CZECH REPUBLIC</td><td>SLOVAKIA</td></tr><tr><td>DENMARK</td><td>SLOVENIA</td></tr><tr><td>EGYPT</td><td>SOUTH AFRICA</td></tr><tr><td>FINLAND</td><td>SPAIN</td></tr><tr><td>FRANCE</td><td>SRI LANKA</td></tr><tr><td>GERMANY</td><td>SWEDEN</td></tr><tr><td>GREECE</td><td>Switzerland</td></tr><tr><td>HUNGARY</td><td>TANZANIA</td></tr><tr><td>INDIA</td><td>THAILAND</td></tr><tr><td>INDONESIA</td><td>TUNISIA</td></tr><tr><td>ISLAMIC REPUBLIC OF IRAN</td><td>TURKEY</td></tr><tr><td>IRELAND</td><td>UNITED KINGDOM</td></tr><tr><td>ISRAEL</td><td>UNITED STATES OF AMERICA</td></tr><tr><td>ITALY</td><td>VIETNAM</td></tr><tr><td>JAPAN</td><td>ZAMBIA</td></tr></table>
+<table border="1"><tr><td>ALBANIA</td><td>KAZAKHSTAN</td></tr><tr><td>ALGERIA</td><td>KENYA</td></tr><tr><td>AUSTRALIA</td><td>REP. OF KOREA</td></tr><tr><td>AUSTRIA</td><td>MACEDONIA，THE FORMER YUGOSLAV REPUBLIC OF</td></tr><tr><td>BELARUS</td><td>MONACO</td></tr><tr><td>BELGIUM</td><td>MOROCCO</td></tr><tr><td>BRAZIL</td><td>NETHERLANDS</td></tr><tr><td>BULGARIA</td><td>NEW ZEALAND</td></tr><tr><td>CAMBODIA</td><td>NORWAY</td></tr><tr><td>CAMEROON</td><td>PAKISTAN</td></tr><tr><td>CANADA</td><td>POLAND</td></tr><tr><td>P.R. CHINA</td><td>PORTUGAL</td></tr><tr><td>COLOMBIA</td><td>ROMANIA</td></tr><tr><td>CROATIA</td><td>RUSSIAN FEDERATION</td></tr><tr><td>CUBA</td><td>SAUDI ARABIA</td></tr><tr><td>CYPRUS</td><td>SERBIA</td></tr><tr><td>CZECH REPUBLIC</td><td>SLOVAKIA</td></tr><tr><td>DENMARK</td><td>SLOVENIA</td></tr><tr><td>EGYPT</td><td>SOUTH AFRICA</td></tr><tr><td>FINLAND</td><td>SPAIN</td></tr><tr><td>FRANCE</td><td>SRI LANKA</td></tr><tr><td>GERMANY</td><td>SWEDEN</td></tr><tr><td>GREECE</td><td>Switzerland</td></tr><tr><td>HUNGARY</td><td>TANZANIA</td></tr><tr><td>INDIA</td><td>THAILAND</td></tr><tr><td>INDONESIA</td><td>TUNISIA</td></tr><tr><td>ISLAMIC REPUBLIC OF IRAN</td><td>TURKEY</td></tr><tr><td>IRELAND</td><td>UNITED KINGDOM</td></tr><tr><td>ISRAEL</td><td>UNITED STATES OF AMERICA</td></tr><tr><td>ITALY</td><td>VIETNAM</td></tr><tr><td>JAPAN</td><td>ZAMBIA</td></tr></table>
 
 ## OIML CORRESPONDING MEMBERS
 
@@ -470,7 +470,7 @@ From the analysis of the results obtained in the evaluation, the following resul
 
 all the laboratories obtained correct results for the eccentricity and repeatability tests, so acceptable performance (for which $ | z | \leq 2 $);
 
-- for the accuracy test, two laboratories obtained results with questionable performance, which generated a warning signal (for which 2 $ | < | z | < 3 ) $ , as follows:
+- for the accuracy test, two laboratories obtained results with questionable performance, which generated a warning signal (for which 2 $ < | < z | < 3 $ ), as follows:
 
 laboratory No. 5 at 0.5 g. 500 g, 1 kg and 2 kg loads;
 
@@ -870,7 +870,7 @@ $ C_{H_{L}} $ is the multiplicative bias of the reference height of the referenc
 
 $ H_{p} $ is the reference height of the sensor of the pressure transmitter;
 
-$ C_{H_{p}} $ is the multiplicative bias of the reference height of the pressure transmitter sensor;
+$ C_{H_{P}} $ is the multiplicative bias of the reference height of the pressure transmitter sensor;
 
 i=1...n is the number of the liquid level where the measurements were fulfilled;
 
@@ -1174,7 +1174,7 @@ it can be seen that this equation is an approximation as it does not consider th
 
 [8] ISO 11223-1:1995 Petroleum and liquid petroleum products - Direct static measurements - Contents of vertical storage tanks - Part 1: Mass measurement by hydrostatic tank gauging
 
-[9] ДСТУ 7094:2009 Маса нафи mu ma нафимопродуктив. Загальи вимоги до методик виконания вимированы (ГОСТ 8.587-2006, MOD)
+[9] ДСТУ 7094:2009 Маса нафи mu ma нафиptonродуктив. Загальи вимоги до методик виконания вимированы (ГОСТ 8.587-2006, MOD)
 
 To contact the Author:
 
@@ -1193,6 +1193,520 @@ Metrologichna str.4,
 03143, Kiev, Ukraine
 
 asam@ukrcsm.kiev.ua
+
+UNITED KINGDOM
+
+<div align="center">
+
+# United Kingdom (UK) participation in the OIML
+
+</div>
+
+MORAYO AWOSOLA
+
+OIML Assignee (UK)
+
+Standards and Accreditation
+
+The Office for Product Safety and Standards Teddington, United Kingdom
+
+## What is the OIML?
+
+The International Organisation of Legal Metrology (OIML - www.oiml.org) was established in 1955 as an intergovernmental body dedicated to the harmonisation of the national metrology regulations of its members. It is very influential, consisting of 62 Member States and 64 Corresponding Members; with over 20 Organizations in Liaison (e.g. ISO/IEC, ILAC, BIPM, WTO, WHO, UNIDO, WB, OECD, etc.). It was born out of a perception of the need to resolve internationally the technical and administrative problems raised by the use of measuring instruments, and the importance of coordinating efforts to do this. Through mutual cooperation, its member countries seek to participate in the development of legal metrology requirements, the end of which process is the production of OIML Recommendations - model documents for establishing harmonised legal metrology requirements and practices. They are intended for implementation by metrology services as national regulations to ensure the proper design, verification and use of measuring instruments subject to legal requirements. They are widely accepted in the trade of measuring instruments.
+
+The administrative arm of the OIML is known as the Bureau International de Métrologie Légale (BIML) and is based in Paris, France.
+
+## What are OIML Recommendations?
+
+Technical regulations play a vital and often invisible role in supporting economic growth through their role in boosting productivity and innovation. The impact of regulations on exports is of particular interest given the necessity to address the United Kingdom's trade deficit. Regulations are important for opening up new markets,
+
+linking UK companies into global supply chains and reducing technical barriers to trade.
+
+Independent economic research $ ^{1} $ has shown that technical regulations have been hugely influential in boosting the sales of UK products and services abroad, with reported impacts averaging 3.2 %, equivalent to 6.1 billion per year in additional exports.
+
+Technical regulations also facilitate innovation by reducing the time to market for new products, promoting the diffusion of innovative products, levelling the innovation playing field between big and small companies, and facilitating inter-operability in network industries thus creating the environment for the development of new products.
+
+## Why is the harmonisation of national metrology regulations important?
+
+The legal application of metrology corresponds to the regulation of measuring instruments used by and for the public. We rely on so many measurements for our protection as human beings that a credible measurement system is vital for the overall well-being of society. Billions of measurements are made worldwide every day in manufacturing, trade, public health, taxation and law enforcement. At some point in its journey from a concept to a finished product everything made or processed by humans will have been weighed or measured. Harmonising the requirements governing the measurement system provides a basis for measurement credibility, and also serves to eliminate technical barriers to trade (TBT).
+
+## What are Technical Barriers to Trade?
+
+Trade is a universal activity, which operates on the principle of fair exchange of products or services from one person to another. Accurate measuring instruments ensure that trade is fair. If a measuring instrument has technical requirements for its manufacture or operation that are not universally acceptable, then that presents a barrier to trade. Harmonisation of the regulation of the accuracy of measuring instruments means that any measuring instrument is acceptable anywhere in the world.
+
+The UK is a signatory to the World Trade Organisation's "Technical Barriers to Trade" (TBT) agreement.
+
+This aims to ensure that technical regulations, standards, and conformity assessment procedures are non-discriminatory and do not create unnecessary obstacles to trade. The TBT Agreement strongly encourages members to base their measures on international standards as a means to facilitate trade. Through its transparency provisions, it also aims to create a predictable trading environment.
+
+The agreement also encourages countries to recognize each other's procedures for assessing whether a product conforms. Without recognition, products might have to be tested twice, first by the exporting country and then by the importing country.
+
+## Office for Product Safety and Standards participation in the OIML
+
+The Office for Product Safety and Standards represents the UK in the OIML as a Member State. We participate in international meetings, encourage UK manufacturers and regulators to participate in OIML activities and we engage in the various technical committees (TCs) or working groups as either a Participating (P) member or an Observing (O) member. As a "P" member most work is carried out by making use of the "Workspace" feature of the OIML website, but there are occasional meetings usually when there are significant points requiring discussion between the member states involved. Each working group is co-ordinated by a convenor. The UK holds the secretariat for automatic weighing instruments (TC 9/SC 2), water meters (TC 8/SC 5), measurement of areas (TC 7/SC 3) and length measures (TC 7) and indeed the UK has a significant manufacturing capability in these fields.
+
+## Benefits of the Office for Product Safety and Standards' work in the OIML
+
+1 Our major business stakeholders for legal metrology (UK Weighing Federation, Fuel Equipment Federation, Petrol Retailers Association, and Trading Standards) support a strong UK voice in the production of legislation and guidance that effects their members. OIML Recommendations are applicable by UK trading standards enforcement of weights and measures.
+
+2 Being an OIML Member State supports the UK government's policy of supporting the principles of free trade, open access to markets, and the free movement of goods.
+
+3 By participating in the work of the OIML, the UK has an influence on the development of technical regulations that will provide maximum benefit to British businesses (particularly those with a manufacturing interest) while appropriate levels of consumer protection are maintained.
+
+4 Engagement with international experts helps to maintain the technical competence of UK representatives, which is vital if we are to continue leading international negotiations and offering a top-three certification service.
+
+## Emerging Metrology Systems
+
+The UK is also active in the Advisory Group which acts as an interim body that provides advice to the OIML on the matters concerning Countries and Economies with Emerging Metrology Systems (CEEMS) for the following matters:
+
+to guide and assist developing countries in establishing and/or improving their national metrological systems;
+
+to seek funding from all OIML Member States and relevant international aid organizations;
+
+to provide aid resources (such as training and development, and equipment) for developing countries and organize aid activities;
+
+to promote awareness of the role of metrology among the public and governments of developing countries;
+
+to enhance the enthusiasm of developing countries to participate in OIML activities;
+
+to propose consultation with and suggestions to Regional Legal Metrology Organizations (RLMOs) in respect of their activities affecting developing countries; and
+
+to investigate the cooperation intentions and needs of all OIML Member States and economies, especially the needs of developing countries.
+
+## Conclusion
+
+The rationale for, and importance of, the UK's participation in the OIML remains unchanged from previous years. The UK government is committed to promoting fair, open, competitive markets, and reducing burdens on the market at a national and global level. The OIML is dedicated to the international harmonisation of measuring instruments used for trade, and membership of the Organisation is an effective way to achieve the UK government's targets.
+
+COOMET COMPETITION
+
+<div align="center">
+
+# The future of the international metrology community
+
+</div>
+
+COOMET International Competition "The Best Young Metrologist"
+
+PROF. DR. PAVEL NEYEZHMAKOV
+
+COOMET Vice-President
+
+MRS. YULIYA BUNYAYEVA
+
+National COOMET Secretariat in Ukraine
+
+## Introduction
+
+COOMET is an organization for the Euro-Asian cooperation of National Metrology Institutions (from the countries of Central and Eastern Europe, Asia and nearby countries), which is also open to the National Metrology Institutions of countries from other regions to join. The principal fields of cooperation within COOMET include:
+
+implementation of the CIPM MRA;
+
+establishment and maintenance of the national primary measurement standards of SI units;
+
+solution of problems concerning general metrology including problems related to the theory of measurement and uncertainties, system of units, terminology;
+
+- creation and use of reference materials of composition and properties of substances and materials;
+
+coordination of issues on legal metrology between member countries;
+
+creation and implementation of Quality Management Systems in NMIs;
+
+support in developing the basic metrological infrastructure of COOMET Member Countries; and
+
+raising proficiency level and work with young metrologists.
+
+The initiative for this extraordinary competition for young metrologists was started more than ten years ago during an annual meeting of the COOMET Technical Committee (TC) for Information and Training (TC 4).
+
+The members of TC4 suggested the development of criteria for a better judgment of the skills and knowledge of young metrologists between member state institutions and proposed to organize and hold the International Competition of COOMET "The Best Young Metrologist" for specialists up to and including the age of 35 who work in the field of scientific and applied metrology at NMIs or other metrology institutions of COOMET Member Countries, independent of his/her academic degree and position.
+
+The following tasks and objectives of the competition were defined:
+
+to encourage young specialists in the field of metrology to introduce their scientific work to the metrological / scientific community;
+
+to find, support and encourage young metrologists in their achievements in the field of scientific and applied metrological activity that contribute to the development of metrology and cooperation of COOMET Member Countries and in global metrology society scales;
+
+to introduce one's work to colleagues of other metrology institutions;
+
+to learn to apply generally accepted methods and techniques for presentations;
+
+to publish the papers in the Proceedings;
+
+to publish papers and presentations online and/or on electronic carriers (e.g. CD);
+
+to inform metrological organizations about the scientific and applied papers submitted for the competition, results and winners of the competition;
+
+to build awareness among a wider audience about achievements in metrology through mass-media.
+
+It was decided to hold the Competition once every two years in one of the metrology organizations of the COOMET Member Countries. It was also decided that the languages of the papers submitted should be the working languages of COOMET - i.e. Russian and English.
+
+To assess the papers according to the criteria established in the COOMET recommendation "Procedure for the International Competition of the COOMET Best Young Metrologist $ ^{1} $ , the Scientific Committee (Judging panel) is formed of experienced specialists in metrology.
+
+The Scientific Committee analyzes the candidates' full texts, listens to the reports and presentations, and estimates them according to the criteria (see Table 1).
+
+<div align="center">
+
+Table 1 - Criteria used to evaluate the papers and presentations of Competition participants
+
+</div>
+
+<table border="1"><tr><td rowspan="4">Innovation</td><td>1</td><td>Is the paper&#x27;s subject topical?
+Weight coefficient 0.1
+Marks from 1 to 5</td><td>The paper&#x27;s subject is &quot;hot&quot; if it concerns a scientific direction actively developed by the world community (or attempts to solve a problem acknowledged by the scientific community).</td></tr><tr><td>2</td><td>Scientific novelty and/or social and economic effect
+Weight coefficient 0.3
+Marks from 1 to 5</td><td>The paper is characterized as being a scientific novelty if it presents previously unknown scientific results and/or if the paper has a social and economic effect if it contains results which are useful for the country in a practically way.</td></tr><tr><td>3</td><td>Originality
+Weight coefficient 0.1
+Marks from 1 to 5</td><td>The paper is original if the methods applied in the paper have not been used before for solving similar problems. If a paper has been presented previously, the scale of the work related to previous results presented during a previous Competition is taken into account.</td></tr><tr><td>4</td><td>Potential for international cooperation
+Weight coefficient 0.1
+Marks from 1 to 5</td><td>The paper is important for international cooperation if it can be used for cooperation projects within the COOMET region or on a global scale.</td></tr><tr><td rowspan="3">Quality of the reports&#x27; presenting</td><td>5</td><td>Structure and scientific validity
+Weight coefficient 0.1
+Marks from 1 to 5</td><td>The content of the presentation must be systematically structured and scientifically correct. The logical chain (approach, solution, correctness of results, validation of conclusions) must clearly prove the correctness of the obtained results.</td></tr><tr><td>6</td><td>Quality of the paper&#x27;s adjusting
+Weight coefficient 0.1
+Marks from 1 to 5</td><td>A well-adjusted paper should be set out with clear and strict language, while observing general language forms and common standards when writing a scientific paper.
+The font used for the presentation should be easy to read for everybody, including in the back rows. The visual presentation and the oral commentary should complement one another in an optimal way and lead to an excellent understanding by the audience of the content of the report. The paper also should contain any necessary illustrative material.</td></tr><tr><td>7</td><td>Quality of presenting the paper
+Weight coefficient 0.2
+Marks from 1 to 5</td><td>While evaluating the quality of the presentation of the work, the following criteria are taken into account:
+1. the reporter communicates well with the audience;
+2. the reporter observes the time allowed;
+3. the reporter speaks correctly, clearly and comprehensibly;
+4. the reporter answers any questions correctly and convincingly;
+5. the reporter uses additional equipment for their presentation (flip chart, white board, etc.).</td></tr></table>
+
+According to these criteria, the maximum total mark = 5, the minimum total mark = 1 (intermediate values are rounded to 0.01 mark). The final mark is determined according to the formula:
+
+$$
+C = \sum_ {i = 1} ^ {7} a _ {i} \cdot b _ {i},
+$$
+
+where $ a_{i} $ is the weight of criteria i, $ b_{i} $ is the mark of criteria i.
+
+The winners of the first place (i.e. the Competition winner) and of the second and third places (Awardees of the Competition) are determined on the basis of the scores given by the Scientific Committee.
+
+## First COOMET Competition
+
+In 2005, these efforts finally resulted in the first COOMET Competition with oral presentations on scientific or nationally important topics. It was held at the National Scientific Centre "Institute for Metrology" in Kharkov, Ukraine. 25 papers from 5 countries (Belarus, Bulgaria, Germany, Russia and Ukraine) were presented at the First International Competition.
+
+The winner of the First Competition was Mark Bieler, a representative from the PTB, Germany, with his paper "Ultrashort voltage pulses: generation, detection, and applications to high-speed metrology". The Awardees were:
+
+2nd place - Sergey Talamanov, representative from Ukraine (NSC Institute of Metrology);
+
+3rd place was shared by Evgeniy Lagutin, representative from Ukraine (NSC "Institute of Metrology") and Miroslav Ivanov, representative from Bulgaria (National Metrology Center).
+
+## Second COOMET Competition
+
+The II Competition was held in 2007 again in Kharkov, Ukraine. 24 papers from 9 countries (Belarus, Bulgaria Georgia, Germany, Moldova, Russia, Slovakia Uzbekistan and Ukraine) were presented. The winners were:
+
+- Torsten Dziomba (PTB, Germany) - 1st place with the paper "Turning scanning probe microscopy into a more quantitative method";
+
+Egor Sobina (UNIIM, Russia) - 2nd place;
+
+Alla Oleynik (NSC "Institute of Metrology", Ukraine) 3rd place.
+
+Considering the significant number of papers in
+
+English among the Russian-speaking participants, it was decided to award a special prize for the best report in English. Alena Skutina (UNIIM, Russia) was given a special bonus: participation in one of the European conferences on metrology at the expense of the sponsors of the competition, for the best report in English.
+
+## Third COOMET Competition
+
+The III International Competition was held in 2009 in Minsk, Belarus. 28 young metrologists from 7 COOMET member-countries - Belarus, Cuba, DPR of Korea, Germany, Russia, Uzbekistan and Ukraine - participated in the competition.
+
+The winner was Nataliya Chervjakovskaja (BelGIM, Belarus) with the paper "Use of the mechanism of error accumulation in the verification schemes on the basis of the probability approach as the optimality criterion during analysis of the verification schemes", 2nd place Makram A. Zebian (PTB, Germany), 3rd place - Dmitry Gogolev (VNIIMS, Russia). The nomination "The best
+
+![](page=4,bbox=[970, 1288, 1879, 1769])
+
+<div align="center">
+
+Fig. 1 - Participants at the II International Competition of COOMET "The Best Young Metrologist 2007"
+
+</div>
+
+![](page=4,bbox=[971, 1922, 1879, 2435])
+
+<div align="center">
+
+Fig. 2 - Participants at the III International Competition of COOMET "The Best Young Metrologist 2009"
+
+</div>
+
+![](page=5,bbox=[103, 285, 1009, 761])
+
+<div align="center">
+
+Fig. 3 - Participants at the IV International Competition of COOMET "The Best Young Metrologist 2011"
+
+</div>
+
+![](page=5,bbox=[101, 912, 1008, 1426])
+
+<div align="center">
+
+Fig. 4 - Participants at the V International Competition of COOMET "The Best Young Metrologist 2013"
+
+</div>
+
+report in English" was secured by a post-graduate student of the Belarussian National Technical University - Dmitry Solomakho.
+
+The first three Competitions showed that participants had little experience in presenting orally the results of their work and in preparing their presentations. Thus in order to improve the level of preparation and submission of papers, in 2010 in Minsk, Belarus, a COOMET workshop "Effective presentation and intercultural awareness" was held in which 26 young metrologists from 12 COOMET Member Countries participated. Participants listened to the reports and took part in practical meetings on preparing and presenting scientific presentations.
+
+## Fourth COOMET Competition
+
+The IV Competition was held in 2011 in Moscow Russia. 20 papers from 9 countries (Belarus, Cuba Germany, Iran, Kazakhstan, Lithuania, Russia Uzbekistan and Ukraine) were presented.
+
+The winner of the competition was Sergey Golubev (VNIIMS, Russia) with the paper "Metrological support for scanning probe microscopes of models "Solver" and "Ntegra". Fatemeh Yaghobian (Iran, apprentice at the PTB) won the 2nd prize and Tobias Klein (PTB, Germany) took the 3rd prize. Tatiana Sosnovskaya (BelGIM, Belarus) won the special prize for the best report in English.
+
+## Fifth COOMET Competition
+
+In 2012, at a regular meeting of COOMET TC4 "Information and training" it was decided to aim to increase the participation of young metrologists in the V Competition from other regional metrology organizations. It was also decided by representatives of international and regional metrology organizations to hold the Competition in English only.
+
+EURAMET, APMP, SIM and AFRIMETS were requested to select three participants from their NMI member institutes for the Competition along with one official representative for the panel of judges.
+
+In the opinion of TC 4 members, this decision would contribute not only to the promotion of the Competition, but would also benefit COOMET as a whole in the international arena, increase the exchange of knowledge and experience between young metrologists around the world, and ensure the advancement of the scientific achievements of the contestants at the international level.
+
+For a more comprehensive assessment of the papers of the competitors it was suggested, in addition to oral presentations, to submit their proceedings in the form of posters.
+
+As a result, at the V International Competition of COOMET in 2013 held in Braunschweig, Germany, 23 papers from 12 countries (Australia, Belarus, Bosnia and Herzegovina, Bulgaria, Denmark, Ghana, Germany, Italy, Moldova, Russia, Uzbekistan, Ukraine) and from four RMOs (AFRIMETS, APMP, COOMET, EURAMET) were presented. The panel consisted of 11 members from Belarus, France, Germany, Russia, Slovakia and Ukraine.
+
+The winner was Elena Ermakova (VNIIM, Russia) with the paper "Improving the system of metrological assurance in bomb calorimetry". The second prize winner was Leonard Klaus (PTB, Germany), and the third prize winner was Qian Cynthia Zhu (NMIA, Australia). The best poster winner was Natalia Burmistrova (VNIIM, Russia) and the special prize winner for the actual report on a future redefinition of the SI second and the presentation of the results of the investigation was Nils Huntemann (PTB, Germany).
+
+## Sixth COOMET Competition
+
+The VI Competition took place in 2015 in Kyiv, Ukraine. 14 works of young metrologists from 7 COOMET Member Countries (Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Uzbekistan and Ukraine) were submitted.
+
+First place was awarded to Dmitri Scums with the paper "Automated facility for calibration of luxmeters/ photometers UPF-2" (BelGIM, Belarus), the 2nd place went to Irina Marinushkina (RSE "KazInMetr", Kazakhstan), and the 3rd place to Stanislav Karpenko (SE "Ukrmetrteststandard", Ukraine). The best report in English award was given to Victoria Kazieva (GEOSTM, Georgia).
+
+The competition was held in two languages Russian and English.
+
+## Seventh COOMET Competition
+
+The VII International Competition was held in Astana Kazakhstan on 17-18 May 2017 and was once again open to young metrologists from other RMOs and only in English.
+
+36 works of young metrologists from 10 countries (Belarus, Columbia, Germany, Kazakhstan, Moldova, Peru, Russia, Slovakia, Spain and Ukraine) and three regional metrology organizations (COOMET, EURAMET and SIM) were submitted.
+
+The Scientific Committee included leading metrologists from international (BIPM, OIML) and regional (AFRIMETS, COOMET, EURAMET, SIM) metrology organizations:
+
+Vladimir Krutikov (COOMET, Russia), Pavel Neyezhmakov (COOMET, Ukraine), Toktabek Tokanov (COOMET, Kazakhstan), Nikolai Zhagora (COOMET, Belarus), Hans-Dieter Velfe (COOMET, Germany), Stephen Patoray (BIML), Chingis Kuanbayev (BIPM), Linoh Magagula (AFRIMETS, South Africa), Klaus-Dieter Sommer (EURAMET, Germany), Claire Saundry (SIM, USA).
+
+Based on the assessment results, the following winner and awardees were determined: 1st place - Edyta Beyer with the paper "Surface analysis by XRF and XPS for the Avogadro constant and the realization of the kilogram based on silicon spheres" (PTB, Germany) - graduate student of PTB, 2nd place Mikhail Aleynikov (VNIIFTRI, Russia), 3rd place Anna Villevalde (VNIIM, Russia).
+
+Members of the Scientific Committee of the Competition from other RMOs noted the high level of organization and participants' papers, as well as the uniqueness of such an event.
+
+![](page=0,bbox=[971, 284, 1878, 656])
+
+<div align="center">
+
+Fig. 5 - Participants at the VI International Competition of COOMET "The Best Young Metrologist 2015"
+
+</div>
+
+![](page=0,bbox=[971, 792, 1879, 1307])
+
+<div align="center">
+
+Fig. 6 - Participants at the VII International Competition of COOMET "The Best Young Metrologist 2017"
+
+</div>
+
+![](page=0,bbox=[970, 1437, 1880, 1848])
+
+<div align="center">
+
+Fig. 7 - Members of the Judging panel of the VII International Competition of COOMET "The Best Young Metrologist 2017"
+
+</div>
+
+![](page=0,bbox=[970, 1990, 1881, 2439])
+
+<div align="center">
+
+Fig. 8 - Award being made to the winner (Edyta Beyer) of the VII International Competition "The Best Young Metrologist 2017"
+
+</div>
+
+<div align="center">
+
+Table 2 - Distribution of papers by year and by subject
+
+</div>
+
+<table border="1"><tr><td></td><td>2005</td><td>2007</td><td>2009</td><td>2011</td><td>2013</td><td>2015</td><td>2017</td><td>Total</td></tr><tr><td>AUV</td><td>-</td><td>-</td><td>2</td><td>2</td><td>2</td><td>-</td><td>-</td><td>6</td></tr><tr><td>EM</td><td>6</td><td>4</td><td>5</td><td>2</td><td>5</td><td>2</td><td>6</td><td>30</td></tr><tr><td>L</td><td>1</td><td>1</td><td>5</td><td>3</td><td>-</td><td>3</td><td>3</td><td>16</td></tr><tr><td>M</td><td>2</td><td>3</td><td>1</td><td>2</td><td>5</td><td>1</td><td>6</td><td>20</td></tr><tr><td>PR</td><td>2</td><td>-</td><td>1</td><td>1</td><td>1</td><td>1</td><td>8</td><td>14</td></tr><tr><td>QM</td><td>1</td><td>6</td><td>7</td><td>5</td><td>5</td><td>-</td><td>4</td><td>28</td></tr><tr><td>RI</td><td>1</td><td>-</td><td>-</td><td>2</td><td>-</td><td>1</td><td>1</td><td>5</td></tr><tr><td>T</td><td>4</td><td>4</td><td>3</td><td>-</td><td>1</td><td>1</td><td>3</td><td>16</td></tr><tr><td>TF</td><td>-</td><td>2</td><td>-</td><td>3</td><td>1</td><td>1</td><td>1</td><td>8</td></tr><tr><td>LM&amp;GM</td><td>8</td><td>4</td><td>4</td><td>-</td><td>3</td><td>4</td><td>4</td><td>27</td></tr><tr><td>Total</td><td>25</td><td>24</td><td>28</td><td>20</td><td>23</td><td>14</td><td>36</td><td>170</td></tr></table>
+
+<div align="center">
+
+Table 3 - Distribution of papers by year and by country
+
+</div>
+
+<table border="1"><tr><td>No</td><td>Country</td><td>2005</td><td>2007</td><td>2009</td><td>2011</td><td>2013</td><td>2015</td><td>2017</td><td>Total</td></tr><tr><td>1</td><td>Australia</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>1</td></tr><tr><td>2</td><td>Belarus</td><td>4</td><td>1</td><td>9</td><td>4</td><td>3</td><td>2</td><td>4</td><td>27</td></tr><tr><td>3</td><td>Bosnia &amp; Herzegovina</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>1</td></tr><tr><td>4</td><td>Bulgaria</td><td>2</td><td>1</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>4</td></tr><tr><td>5</td><td>Columbia</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>1</td></tr><tr><td>6</td><td>Cuba</td><td>-</td><td>-</td><td>1</td><td>1</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>7</td><td>Denmark</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>1</td></tr><tr><td>8</td><td>DPR of Korea</td><td>-</td><td>-</td><td>2</td><td>-</td><td>-</td><td>-</td><td>-</td><td>2</td></tr><tr><td>9</td><td>Iran</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>10</td><td>Italy</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>1</td></tr><tr><td>11</td><td>Georgia</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>2</td></tr><tr><td>12</td><td>Germany</td><td>1</td><td>2</td><td>1</td><td>1</td><td>3</td><td>-</td><td>3</td><td>11</td></tr><tr><td>13</td><td>Ghana</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>1</td></tr><tr><td>14</td><td>Kazakhstan</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>2</td><td>6</td><td>9</td></tr><tr><td>15</td><td>Kyrgyzstan</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>1</td></tr><tr><td>16</td><td>Lithuania</td><td>-</td><td>-</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td><td>1</td></tr><tr><td>17</td><td>Moldova</td><td>-</td><td>1</td><td>-</td><td>-</td><td>1</td><td>1</td><td>2</td><td>5</td></tr><tr><td>18</td><td>Peru</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>1</td></tr><tr><td>19</td><td>Russia</td><td>3</td><td>5</td><td>10</td><td>8</td><td>5</td><td>-</td><td>12</td><td>43</td></tr><tr><td>20</td><td>Slovakia</td><td>-</td><td>1</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>2</td></tr><tr><td>21</td><td>Spain</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>1</td><td>1</td></tr><tr><td>22</td><td>Ukraine</td><td>15</td><td>10</td><td>3</td><td>2</td><td>4</td><td>6</td><td>5</td><td>45</td></tr><tr><td>23</td><td>Uzbekistan</td><td>-</td><td>2</td><td>2</td><td>1</td><td>1</td><td>1</td><td>-</td><td>7</td></tr><tr><td colspan="2">Total:</td><td>25</td><td>24</td><td>28</td><td>20</td><td>23</td><td>14</td><td>36</td><td>170</td></tr></table>
+
+For the first time, the Proceedings of the VII International Competition were prepared and published both electronically and on paper. All the papers were assigned the DOI index (digital object identifier) by the NSC "Institute of Metrology".
+
+From Tables 2 and 3 it can be seen that the interest for participation in the Competition and the number of papers submitted increase from every year, and that the audience, geographic location and subjects of the papers are also expanding. In 2005 young metrologists of 5
+
+countries took part in the Competition, and that number was already 13 in 2013 for the V Competition. The most active participants are from Ukraine, Russia and Belarus. The most relevant areas of research are measurements are in the fields of electricity and magnetism, as well as physical and chemical measurements (see Table 2).
+
+In total, 170 papers from 23 countries were submitted (see Table 3).
+
+All seven past Competitions very clearly showed that a high yield from this regional activity consists not only in demonstrating one's own capabilities but also in building friendship as well as developing and intensifying scientific and personal contacts between young scientists around the world. Another remarkable result is the continuously improving quality of the papers and presentations.
+
+Meanwhile, all the young scientists who participated in the competition have taken the chance to demonstrate their professional skills and to exchange knowledge and experience. They accepted the challenge and the High Jury, after a meticulous evaluation of the work presented, expressed its confidence that many of the young metrologists would become our future leading scientists and the pride of their MNIs. As Stephen Patoray noted: "The competition gave us the opportunity to see the faces of the future of the international metrology community".
+
+## The Authors
+
+Prof. Dr. Pavel Neyezhmakov, COOMET Vice-President Chairperson of TC 4, General Director of NSC "Institute of Metrology" (Kharkov, Ukraine)
+
+Mrs. Yuliya Bunyayeva, National COOMET Secretariat in Ukraine, Secretary of TC 4, Head of Scientific & Research Laboratory of International Metrological Cooperation and Information Technology of NSC "Institute of Metrology" (Kharkov, Ukraine)
+
+![](page=2,bbox=[1112, 894, 1588, 1139])
+
+![](page=3,bbox=[782, 300, 1144, 666])
+
+<div align="center">
+
+# OIML Certification System (OIML-CS)
+
+</div>
+
+<div align="center">
+
+# List of OIML Issuing Authorities and scopes
+
+</div>
+
+The list of OIML Issuing Authorities is published in each issue of the OIML Bulletin and can be downloaded at www.oiml.org/oiml-cs/oiml-issuing-authorities
+
+<table border="1"><tr><td colspan="2">Updated:2018-04-05</td><td>R21:2007</td><td>R46:2012</td><td>R49:2006</td><td>R49:2013</td><td>R50:2014</td><td>R51:2006</td><td>R60:2000</td><td>R61:2004</td><td>R75:2002</td><td>R76:1992</td><td>R76:2006</td><td>R85:2008</td><td>R99:2008</td><td>R106:2011</td><td>R107:2007</td><td>R117:1995</td><td>R117:2007</td><td>R126:1998</td><td>R129:2000</td><td>R134:2006</td><td>R137:2012</td><td>R139:2014</td></tr><tr><td>CH1</td><td>Federal Institute of Metrology(METAS)</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CN2</td><td>National Institute of Metrology,China(NIM)</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td></tr><tr><td>DE1</td><td>Physikalisch-Technische Bundesanstalt(PTB)</td><td></td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DK2</td><td>FORCE CertificationA/S</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td>■</td><td></td></tr><tr><td>FR2</td><td>Laboratoire National deMétrologieetd&#x27;Essais(LNE)</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td></tr><tr><td>GB1</td><td>NMO</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td></tr><tr><td>JP1</td><td>NMIJ/AIST</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NL1</td><td>NMiCertinB.V.</td><td>■
+
+<div align="center">
+
+# OIML Certificates: www.oiml.org/en/oiml-cs
+
+</div>
+
+<div align="center">
+
+# Certificates registered 2017.12-2018.02
+
+</div>
+
+## The OIML Certification System (OIML-CS)
+
+The OIML-CS is a system for issuing, registering and using OIML Certificates and their associated OIML type evaluation/test reports for types of measuring instruments (including families of measuring instruments, modules, or families of modules), based on the requirements of OIML Recommendations.
+
+It is a single Certification System comprising two Schemes: Scheme A and Scheme B (see the OIML website).
+
+The aim of the OIML-CS is to facilitate, accelerate and harmonize the work of national and regional bodies that are responsible for type evaluation and approval of measuring instruments subject to legal metrological control. In the same way, instrument manufacturers, who are required to obtain type approval in some countries in which they wish to sell their products, should benefit from the OIML-CS as it will provide evidence that their instrument type complies with the requirements of the relevant OIML Recommendation(s).
+
+It is a voluntary system and OIML Member States and Corresponding Members are free to participate or not. Participating in the OIML-CS commits, in principle, the signatories to abide by the rules of the OIML-CS. OIML B 18:2017 Framework for the OIML Certification System (OIML-CS) establishes these rules whereby signatories voluntarily accept and utilize OIML type evaluation and test reports, when associated with an OIML Certificate issued by an Issuing Authority, for type approval or recognition in their national or regional metrological controls.
+
+The OIML-CS was launched on 1 January 2018 and replaces the OIML Basic Certificate System and the OIML Mutual Acceptance Arrangement (MAA).
+
+## The OIML Basic Certificate System
+
+The OIML Basic Certificate System for Measuring Instruments was introduced in 1991 to facilitate administrative procedures and lower the costs associated with the international trade of measuring instruments subject to legal requirements.
+
+The System provided the possibility for manufacturers to obtain an OIML Basic Certificate and an OIML Basic Evaluation Report, indicating that a given instrument type complies with the requirements of the relevant OIML International Recommendation. The Basic System was described in OIML B 3 OIML Basic Certificate System for OIML Type Evaluation of Measuring Instruments, which was withdrawn when the OIML Certification System was introduced in January 2018.
+
+## The OIML MAA
+
+In addition to the Basic System, the OIML developed a Mutual Acceptance Arrangement (MAA) which was related to OIML Type Evaluations. This Arrangement - and its framework - were defined in OIML B 10 Framework for a Mutual Acceptance Arrangement on OIML Type Evaluations, which was also withdrawn when the OIML Certification System was introduced in January 2018.
+
+The Basic and MAA certificates shown on the following pages were issued before the launch of the OIML-CS. All existing Basic and MAA certificates remain valid although no new (or revisions to) Basic and MAA certificates can be issued from 1 January 2018.
+
+![](page=4,bbox=[164, 1769, 1727, 2517])
+
+## INSTRUMENT CATEGORY
+
+CATÉGORIE D'INSTRUMENT
+
+## Taximeters
+
+Taximètres
+
+R21(2007)
+
+Issuing Authority / Autorité de délivrance
+
+NMi Certin B.V.,
+
+The Netherlands
+
+## R021/2007-NL1-2017.02
+
+Taximeter - Type: Cabman BCT Euphoria Software BV, Wilhelminapark 36, NL-4041 EC Tilburg, Netherlands
+
+Issuing Authority / Autorité de délivrance NMRO Certification Services (NMRO), United Kingdom
+
+## R021/2007-GB1-2017.04
+
+TP2 series
+
+Streamax Technology Co. Ltd., 21-23/F Building Zhiyuan, No.1001 Xueyuan Avenue, Shenzhen City Guangdong Province, P.R. China
+
+## INSTRUMENT CATEGORY
+
+CATÉGORIE D'INSTRUMENT
+
+Active electrical energy meters
+
+Compteurs actifs d'énergie électrique
+
+R46(2012)
+
+## Issuing Authority / Autorité de délivrance
+
+State General Administration for Quality Supervision and Inspection and Quarantine (AQSIQ), China
+
+## R046/2012-CN1-2017.01
+
+Electricity meter - Type: DDZY666-Z
+
+Zhejiang CHINT Instrument & Meters Co. Ltd., Wenzhou Bridge Industrial Zone, Yueqing 325603, P.R. China
+
+## INSTRUMENT CATEGORY
+
+CATÉGORIE D'INSTRUMENT
+
+## Water meters intended for the metering
+
+## of cold potable water
+
+Compteurs d'eau destinés au mesurage de l'eau potable froide
+
+R 49 (2003)
+
+## Issuing Authority / Autorité de délivrance
+
+Czech Metrology Institute (CMI) Czech Republic
+
+## R049/2013-CZ1-2017.06
+
+Water meter - Type: 280W-CI
+
+Spire Metering Technology, 249 Cedar Hill Street, MA 01752 Marlborough, Massachusetts, United States
+
+## Issuing Authority / Autorité de délivrance
+
+Laboratoire National de Métrologie et d'Essais Certification Instruments de Mesure, France
+
+## R049/2013-FR2-2016.03 Rev.2
+
+Water meter ITRON - Type: X61 Itron France, 9 rue Ampere, FR-71031 Macon, France
+
+## Issuing Authority / Autorité de délivrance
+
+NMi Certin B.V. The Netherlands
+
+## R049/2013-NL1-2017.01
+
+Ultrasonic water meter - Type: SCL-61H
+
+Huizhong Instrumentation Co. Ltd., No.126 West Gaoxin Road, High-Tech Industrial Development Zone, Tangshan, P.R. China
+
+## Issuing Authority / Autorité de délivrance
+
+NMRO Certification Services (NMRO) United Kingdom
+
+## R049/2013-GB1-2017.03
+
+Family of cold water meters, designated CZ5000, utilizing an ultrasonic measuring element Contazara S.A, Carretera Castellon km 5.5 ES-50720 Sarragosse, Spain
 
 ## INSTRUMENT CATEGORY
 
@@ -1350,7 +1864,13 @@ Non-automatic weighing instrument - Type: PWT Nanjing Toms Weighing Instruments 
 
 ## R076/2006-DK3-2017.06 (MAA)
 
-Non-automatic weighing indicator - Type: SI-xxxx using analog data processing device EWI Elicom Electronic - Geoviev KD, 5th Saedienie sq., BG-7500 Silsitra, Bulgaria
+Non-automatic weighing indicator-
+
+Type: SI-xxxx using analog data processing device EWI
+
+Elicom Electronic - Geoviev KD, 5th Saedienie sq.,
+
+BG-7500 Silsitra, Bulgaria
 
 ## R076/2006-DK3-2017.24 (MAA)
 
@@ -1378,7 +1898,7 @@ Non-automatic weighing instrument - Type: KS-JPOS Dibal S.A., Astintze Kalea 24,
 
 ## R076/2006-A-NL1-2018.02
 
-Analog data processing device (ADPD) - Type: ADC-200 Ipesa Balancas e Basculas Electronicas SA, Parque Industrial de Celeiros, Av. Jose Rolo, 46/48, 4705-414 Celeiros Braga, Portugal
+Analog data processing device (ADPD)-Type: ADC-200 Ipesa Balancas e Basculas Electronicas SA, Parque Industrial de Celeiros, Av. Jose Rolo, 46/48, 4705-414 Celeiros Braga, Portugal
 
 ## R076/2006-A-NL1-2018.03
 
