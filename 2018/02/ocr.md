@@ -120,7 +120,7 @@ Patricia Saint-Germain: Administrator, Members
 
 ## OIML MEMBER STATES
 
-<table border="1"><tr><td>ALBANIA</td><td>KAZAKHSTAN</td></tr><tr><td>ALGERIA</td><td>KENYA</td></tr><tr><td>AUSTRALIA</td><td>REP. OF KOREA</td></tr><tr><td>AUSTRIA</td><td>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</td></tr><tr><td>BELARUS</td><td>MONACO</td></tr><tr><td>BELGIUM</td><td>MOROCCO</td></tr><tr><td>BRAZIL</td><td>NETHERLANDS</td></tr><tr><td>BULGARIA</td><td>NEW ZEALAND</td></tr><tr><td>CAMBODIA</td><td>NORWAY</td></tr><tr><td>CAMEROON</td><td>PAKISTAN</td></tr><tr><td>CANADA</td><td>POLAND</td></tr><tr><td>P.R. CHINA</td><td>PORTUGAL</td></tr><tr><td>COLOMBIA</td><td>ROMANIA</td></tr><tr><td>CROATIA</td><td>RUSSIAN FEDERATION</td></tr><tr><td>CUBA</td><td>SAUDI ARABIA</td></tr><tr><td>CYPRUS</td><td>SERBIA</td></tr><tr><td>CZECH REPUBLIC</td><td>SLOVAKIA</td></tr><tr><td>DENMARK</td><td>SLOVENIA</td></tr><tr><td>EGYPT</td><td>SOUTH AFRICA</td></tr><tr><td>FINLAND</td><td>SPAIN</td></tr><tr><td>FRANCE</td><td>SRI LANKA</td></tr><tr><td>GERMANY</td><td>SWEDEN</td></tr><tr><td>GREECE</td><td>Switzerland</td></tr><tr><td>HUNGARY</td><td>TANZANIA</td></tr><tr><td>INDIA</td><td>THAILAND</td></tr><tr><td>INDONESIA</td><td>TUNISIA</td></tr><tr><td>ISLAMIC REPUBLIC OF IRAN</td><td>TURKEY</td></tr><tr><td>IRELAND</td><td>UNITED KINGDOM</td></tr><tr><td>ISRAEL</td><td>UNITED STATES OF AMERICA</td></tr><tr><td>ITALY</td><td>VIETNAM</td></tr><tr><td>JAPAN</td><td>ZAMBIA</td></tr></table>
+<table border="1"><tr><td>ALBANIA</td><td>KAZAKHSTAN</td></tr><tr><td>ALGERIA</td><td>KENYA</td></tr><tr><td>AUSTRALIA</td><td>REP. OF KOREA</td></tr><tr><td>AUSTRIA</td><td>MACEDONIA，THE FORMER YUGOSLAV REPUBLIC OF</td></tr><tr><td>BELARUS</td><td>MONACO</td></tr><tr><td>BELGIUM</td><td>MOROCCO</td></tr><tr><td>BRAZIL</td><td>NETHERLANDS</td></tr><tr><td>BULGARIA</td><td>NEW ZEALAND</td></tr><tr><td>CAMBODIA</td><td>NORWAY</td></tr><tr><td>CAMEROON</td><td>PAKISTAN</td></tr><tr><td>CANADA</td><td>POLAND</td></tr><tr><td>P.R. CHINA</td><td>PORTUGAL</td></tr><tr><td>COLOMBIA</td><td>ROMANIA</td></tr><tr><td>CROATIA</td><td>RUSSIAN FEDERATION</td></tr><tr><td>CUBA</td><td>SAUDI ARABIA</td></tr><tr><td>CYPRUS</td><td>SERBIA</td></tr><tr><td>CZECH REPUBLIC</td><td>SLOVAKIA</td></tr><tr><td>DENMARK</td><td>SLOVENIA</td></tr><tr><td>EGYPT</td><td>SOUTH AFRICA</td></tr><tr><td>FINLAND</td><td>SPAIN</td></tr><tr><td>FRANCE</td><td>SRI LANKA</td></tr><tr><td>GERMANY</td><td>SWEDEN</td></tr><tr><td>GREECE</td><td>Switzerland</td></tr><tr><td>HUNGARY</td><td>TANZANIA</td></tr><tr><td>INDIA</td><td>THAILAND</td></tr><tr><td>INDONESIA</td><td>TUNISIA</td></tr><tr><td>ISLAMIC REPUBLIC OF IRAN</td><td>TURKEY</td></tr><tr><td>IRELAND</td><td>UNITED KINGDOM</td></tr><tr><td>ISRAEL</td><td>UNITED STATES OF AMERICA</td></tr><tr><td>ITALY</td><td>VIETNAM</td></tr><tr><td>JAPAN</td><td>ZAMBIA</td></tr></table>
 
 ## OIML CORRESPONDING MEMBERS
 
@@ -130,7 +130,7 @@ Patricia Saint-Germain: Administrator, Members
 
 ## technique
 
-5 Investigation into the performance of laboratories that carry out verifications in legal mass metrology Adriana V'alcu, Fanel Iacobescu, Roberta Todor and Sterică Baicu
+5 Investigation into the performance of laboratories that carry out verifications in legal mass metrology Adriana V'alcu, Fanel Iacobescu, Roberta Todor and Sterica Baicu
 
 12 Implementation of a mobile laboratory for 200 kg and 500 kg mass standards Aline de Souza Pinto, Mauricio Evangelista da Silva and Bruno Amado Rodrigues Filho
 
@@ -222,7 +222,7 @@ Max 6000 g;
 
 d=0.01 g;
 
-- temperature range: $ + 1 5 \mathrm {^ \circ C} / + 3 0 \mathrm {^ \circ C} $;
+- temperature range: $ + 1 5 \mathrm {^ {\circ} C} / + 3 0 \mathrm {^ {\circ} C} $;
 
 - digital indication;
 
@@ -870,7 +870,7 @@ $ C_{H_{L}} $ is the multiplicative bias of the reference height of the referenc
 
 $ H_{p} $ is the reference height of the sensor of the pressure transmitter;
 
-$ C_{H_{P}} $ is the multiplicative bias of the reference height of the pressure transmitter sensor;
+$ C_{H_{p}} $ is the multiplicative bias of the reference height of the pressure transmitter sensor;
 
 i=1...n is the number of the liquid level where the measurements were fulfilled;
 
@@ -1178,7 +1178,11 @@ it can be seen that this equation is an approximation as it does not consider th
 
 To contact the Author:
 
-[10] ДСТУ 7473:2016 Метрология. Резербуари стачаionарни вимировалны вертикалыни. Методика повирки (калібрування) геометричным методом з застосуванням геодезичних приладів (ГОСТ 8.656-2016)
+[10] ДСТУ 7473:2016 Метрология. Резербуари стачаionарни вимировалны вертикалыни.
+
+Методика повирки (калібрування)
+
+геометричным методом з застосуванням геодезичних приладів (ГОСТ 8.656-2016)
 
 Oleksandr Samoylenko
 
@@ -1388,7 +1392,7 @@ The winner of the First Competition was Mark Bieler, a representative from the P
 
 ## Second COOMET Competition
 
-The II Competition was held in 2007 again in Kharkov, Ukraine. 24 papers from 9 countries (Belarus, Bulgaria Georgia, Germany, Moldova, Russia, Slovakia, Uzbekistan and Ukraine) were presented. The winners were:
+The II Competition was held in 2007 again in Kharkov, Ukraine. 24 papers from 9 countries (Belarus, Bulgaria Georgia, Germany, Moldova, Russia, Slovakia Uzbekistan and Ukraine) were presented. The winners were:
 
 - Torsten Dziomba (PTB, Germany) - 1st place with the paper "Turning scanning probe microscopy into a more quantitative method";
 
@@ -1410,7 +1414,7 @@ The winner was Nataliya Chervjakovskaja (BelGIM, Belarus) with the paper "Use of
 
 <div align="center">
 
-Fig.1- Participants at the II International Competition of COOMET "The Best Young Metrologist 2007"
+Fig. 1 - Participants at the II International Competition of COOMET "The Best Young Metrologist 2007"
 
 </div>
 
@@ -1568,7 +1572,7 @@ Mrs. Yuliya Bunyayeva, National COOMET Secretariat in Ukraine, Secretary of TC 4
 
 The list of OIML Issuing Authorities is published in each issue of the OIML Bulletin and can be downloaded at www.oiml.org/oiml-cs/oiml-issuing-authorities
 
-<table border="1"><tr><td colspan="2">Updated:2018-04-05</td><td>R21:2007</td><td>R46:2012</td><td>R49:2006</td><td>R49:2013</td><td>R50:2014</td><td>R51:2006</td><td>R60:2000</td><td>R61:2004</td><td>R75:2002</td><td>R76:1992</td><td>R76:2006</td><td>R85:2008</td><td>R99:2008</td><td>R106:2011</td><td>R107:2007</td><td>R117:1995</td><td>R117:2007</td><td>R126:1998</td><td>R129:2000</td><td>R134:2006</td><td>R137:2012</td><td>R139:2014</td></tr><tr><td>CH1</td><td>Federal Institute of Metrology(METAS)</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CN2</td><td>National Institute of Metrology,China(NIM)</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td></tr><tr><td>DE1</td><td>Physikalisch-Technische Bundesanstalt(PTB)</td><td></td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td>■</td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DK2</td><td>FORCE CertificationA/S</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td>■</td><td></td></tr><tr><td>FR2</td><td>Laboratoire National deMétrologieetd&#x27;Essais(LNE)</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td></tr><tr><td>GB1</td><td>NMO</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td></tr><tr><td>JP1</td><td>NMIJ/AIST</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NL1</td><td>NMiCertinB.V.</td><td>■
+<table border="1"><tr><td colspan="2">Updated:2018-04-05</td><td>R21:2007</td><td>R46:2012</td><td>R49:2006</td><td>R49:2013</td><td>R50:2014</td><td>R51:2006</td><td>R60:2000</td><td>R61:2004</td><td>R75:2002</td><td>R76:1992</td><td>R76:2006</td><td>R85:2008</td><td>R99:2008</td><td>R106:2011</td><td>R107:2007</td><td>R117:1995</td><td>R117:2007</td><td>R126:1998</td><td>R129:2000</td><td>R134:2006</td><td>R137:2012</td><td>R139:2014</td></tr><tr><td>CH1</td><td>Federal Institute of Metrology(METAS)</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>CN2</td><td>National Institute of Metrology,China(NIM)</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td></tr><tr><td>DE1</td><td>Physikalisch-Technische Bundesanstalt(PTB)</td><td></td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td>■</td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DK2</td><td>FORCE CertificationA/S</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td></td><td></td><td>■</td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td>■</td><td></td></tr><tr><td>FR2</td><td>Laboratoire National deMétrologieetd&#x27;Essais(LNE)</td><td></td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td></td></tr><tr><td>GB1</td><td>NMO</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td>■</td><td>■</td><td></td><td>■</td><td>■</td><td></td><td></td></tr><tr><td>JP1</td><td>NMIJ/AIST</td><td></td><td></td><td></td><td></td><td></td><td>■</td><td></td><td></td><td></td><td>■</td><td>■</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>NL1</td><td>NMiCertinB.V.</td><td>■
 
 <div align="center">
 
@@ -1758,7 +1762,7 @@ CATÉGORIE D'INSTRUMENT
 
 Réglementation métrologique des cellules de pesée (applicable aux cellules de pesée à affichage analogique et/ou numérique)
 
-R60(2000)
+R 60 (2000)
 
 Issuing Authority / Autorité de délivrance Dansk Elektronik, Lys & Akustik (DELTA), Denmark
 
@@ -1898,7 +1902,7 @@ The Netherlands
 
 ## R076/2006-A-NL1-2018.01
 
-Non-automatic weighing instrument - Type: KS-JPOS Dibal S.A., Astintze Kalea 24, Pol. Ind. Neinver ES-48160 Derio - Vizcaya, Spain
+Non-automatic weighing instrument - Type: KS-JPOS Dibal S.A., Astintze Kalea 24, Pol. Ind. Neinver, ES-48160 Derio - Vizcaya, Spain
 
 ## R076/2006-A-NL1-2018.02
 
@@ -1922,7 +1926,7 @@ Non-automatic weighing instrument - Type: SM-6000 Digi Singapore PTE LTD., 4 Len
 
 Non-automatic weighing instrument-
 
-Type: RM-5801. RM-5900.
+Type: RM-5801. . RM-5900. .
 
 Shanghai Teraoka Electronic Co. Ltd., Ting Lin Industry Development Zone, Jin Shan District, 201505 Shanghai, P.R. China
 
@@ -2032,11 +2036,7 @@ Jaugeurs automatiques pour les réservoirs
 
 de stockage fixes
 
-Issuing Authority / Autorité de délivrance
-
-NMi Certin B.V.
-
-The Netherlands
+Issuing Authority / Autorité de délivrance NMi Certin B.V. The Netherlands
 
 ## R085/2008-NL1-2017.01
 
