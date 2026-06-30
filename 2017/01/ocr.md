@@ -338,7 +338,7 @@ where:
 
 $ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA); $ \rho_{\mathrm{a}} $ is the air density at the time of the weighing; $ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
 
-$ \mathrm{V}_{T 2 0}; $ $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0 \mathrm{^{\circ} C} $;
+$ \mathrm{V}_{T 2 0} $; $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0 \mathrm{^{\circ} C} $;
 
 $ \alpha_{T \mathrm{t}} $ $ \alpha_{S \mathrm{t}} $ is the volume expansion coefficient of the weights, temperature dependent;
 
@@ -384,7 +384,7 @@ Table 4 Mass values for the standards
 
 </div>
 
-<table border="1"><tr><td>Mass standard ID</td><td>Date</td><td>Mass value</td><td>Uncertainty U mg</td><td>Amended mass difference mg</td></tr><tr><td rowspan="2">NPK 2</td><td>2013</td><td>1kg-1.114mg</td><td>0.014</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg-1.150mg</td><td>0.006</td></tr><tr><td rowspan="2">Ni81</td><td>2013</td><td>1kg+0.119mg</td><td>0.030</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg+0.083mg</td><td>0.030</td></tr></table>
+<table border="1"><tr><td>Mass standard ID</td><td>Date</td><td>Mass value</td><td>Uncertainty U mg</td><td>Amended mass difference mg</td></tr><tr><td rowspan="2">NPK 2</td><td>2013</td><td>1kg-1.114mg</td><td>0.014</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg-1.150mg</td><td>0.006</td></tr><tr><td rowspan="2">Ni 81</td><td>2013</td><td>1kg+0.119mg</td><td>0.030</td><td rowspan="2">-0.036</td></tr><tr><td>2015</td><td>1kg+0.083mg</td><td>0.030</td></tr></table>
 
 <div align="center">
 
@@ -768,7 +768,7 @@ Les Etats se référent en effet aux Recommandations de l'OIML pour établir leu
 
 La France, les autres Etats de l'Union européenne et WELMEC, l'organisation régionale de coopération européenne en métrologie légale, dont je salue la
 
-![](page=9,bbox=[1174, 1739, 1718, 2476])
+![](page=9,bbox=[1174, 1739, 1717, 2476])
 
 Mme Danièle Giuganti giving her welcome speech
 
@@ -1574,11 +1574,7 @@ analogique et/ou numérique)
 
 R60(2000)
 
-Issuing Authority / Autorité de délivrance
-
-NMi Certin B.V.,
-
-The Netherlands
+Issuing Authority / Autorité de délivrance NMi Certin B.V. The Netherlands
 
 ## R060/2000-NL1-2016.24 (MAA)
 
@@ -1660,11 +1656,7 @@ Issuing Authority / Autorité de délivrance National Measurement Institute (NMI
 
 Conweigh model CONW non-automatic weighing instrument Olitek Pty Ltd., 1/58 Frederick Street, Att: James Oliver, QLD 4013 Northgate, Australia
 
-Issuing Authority / Autorité de délivrance
-
-NMRO Certification Services (NMRO),
-
-United Kingdom
+Issuing Authority / Autorité de délivrance NMRO Certification Services (NMRO), United Kingdom
 
 ## R076/1992-GB1-2016.02 (MAA)
 
