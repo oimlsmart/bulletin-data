@@ -1,0 +1,12 @@
+---
+source: oiml_bulletin_july_2018.pdf
+slug: 03
+method: skipped
+reason: PDF exceeds GLM-OCR 50MB limit
+size_bytes: 92125998
+---
+
+# OIML Bulletin 03
+
+PDF exceeds GLM-OCR's 50MB single-PDF limit. Issue records are derived
+from the editor-provided docx contents index instead.
