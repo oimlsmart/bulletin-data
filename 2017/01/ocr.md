@@ -336,7 +336,11 @@ $$
 
 where:
 
-$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA); $ \rho_{\mathrm{a}} $ is the air density at the time of the weighing; $ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
+$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA);
+
+$ \rho_{\mathrm{a}} $ is the air density at the time of the weighing;
+
+$ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
 
 $ \mathrm{V}_{T 2 0} $; $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0 \mathrm{^{\circ} C} $;
 
@@ -1574,7 +1578,11 @@ analogique et/ou numérique)
 
 R60(2000)
 
-Issuing Authority / Autorité de délivrance NMi Certin B.V. The Netherlands
+Issuing Authority / Autorité de délivrance
+
+NMi Certin B.V.,
+
+The Netherlands
 
 ## R060/2000-NL1-2016.24 (MAA)
 
@@ -1732,7 +1740,7 @@ Non-automatic weighing instrument - Type: BM5, BM5 XS Balancas Marques de Jose P
 
 ## R076/2006-NL1-2016.42 (MAA)
 
-Indicator - Type: DI-770, DI=771 Shanghai Teraoka Electronic Co. Ltd., No. 6058 Nan Ting Road, Tin Lin Town, Jin Shan District, CN-201505 Shanghai, P.R. China
+Indicator - Type: DI-770, DI=771 Shanghai Teraoka Electronic Co. Ltd., No. 6058 Nan Ting Road, Tin Lin Town, Jin Shan District CN-201505 Shanghai, P.R. China
 
 ## R076/2006-NL1-2016.45 (MAA)
 
@@ -1766,7 +1774,7 @@ Xiamen Rongta Technology Co. Ltd., 3F/E Building, Gaoqi Industrial Area, Gaoqi B
 
 ## R076/2006-NL1-2016.54
 
-Non-automatic weighing instrument - Type: RM-40 II Shanghai Teraoka Electronic Co. Ltd., No. 6058 Nan Ting Road, Tin Lin Town, Jin Shan District CN-201505 Shanghai, P.R. China
+Non-automatic weighing instrument - Type: RM-40 II Shanghai Teraoka Electronic Co. Ltd., No. 6058 Nan Ting Road, Tin Lin Town, Jin Shan District, CN-201505 Shanghai, P.R. China
 
 ## R076/2006-NL1-2016.55 (MAA)
 
@@ -1776,7 +1784,7 @@ Shanghai Teraoka Electronic Co. Ltd., No. 6058 Nan Ting Road, Tin Lin Town, Jin 
 
 ## R076/2006-NL1-2016.56 (MAA)
 
-Non-automatic weighing instrument - Type: (See certificate) Excell Precision Co. Ltd., 6F, No. 127, Lane 235, Pao-Chiao Road, Hsin Tien, TW-Taipei Hsien Chinese Taipei
+Non-automatic weighing instrument - Type: (See certificate) Excell Precision Co. Ltd., 6F, No.127, Lane 235, Pao-Chiao Road, Hsin Tien, TW-Taipei Hsien Chinese Taipei
 
 ## R076/2006-NL1-2016.57 (MAA)
 
