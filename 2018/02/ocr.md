@@ -120,7 +120,7 @@ Patricia Saint-Germain: Administrator, Members
 
 ## OIML MEMBER STATES
 
-<table border="1"><tr><td>ALBANIA</td><td>KAZAKHSTAN</td></tr><tr><td>ALGERIA</td><td>KENYA</td></tr><tr><td>AUSTRALIA</td><td>REP. OF KOREA</td></tr><tr><td>AUSTRIA</td><td>MACEDONIA，THE FORMER YUGOSLAV REPUBLIC OF</td></tr><tr><td>BELARUS</td><td>MONACO</td></tr><tr><td>BELGIUM</td><td>MOROCCO</td></tr><tr><td>BRAZIL</td><td>NETHERLANDS</td></tr><tr><td>BULGARIA</td><td>NEW ZEALAND</td></tr><tr><td>CAMBODIA</td><td>NORWAY</td></tr><tr><td>CAMEROON</td><td>PAKISTAN</td></tr><tr><td>CANADA</td><td>POLAND</td></tr><tr><td>P.R. CHINA</td><td>PORTUGAL</td></tr><tr><td>COLOMBIA</td><td>ROMANIA</td></tr><tr><td>CROATIA</td><td>RUSSIAN FEDERATION</td></tr><tr><td>CUBA</td><td>SAUDI ARABIA</td></tr><tr><td>CYPRUS</td><td>SERBIA</td></tr><tr><td>CZECH REPUBLIC</td><td>SLOVAKIA</td></tr><tr><td>DENMARK</td><td>SLOVENIA</td></tr><tr><td>EGYPT</td><td>SOUTH AFRICA</td></tr><tr><td>FINLAND</td><td>SPAIN</td></tr><tr><td>FRANCE</td><td>SRI LANKA</td></tr><tr><td>GERMANY</td><td>SWEDEN</td></tr><tr><td>GREECE</td><td>Switzerland</td></tr><tr><td>HUNGARY</td><td>TANZANIA</td></tr><tr><td>INDIA</td><td>THAILAND</td></tr><tr><td>INDONESIA</td><td>TUNISIA</td></tr><tr><td>ISLAMIC REPUBLIC OF IRAN</td><td>TURKEY</td></tr><tr><td>IRELAND</td><td>UNITED KINGDOM</td></tr><tr><td>ISRAEL</td><td>UNITED STATES OF AMERICA</td></tr><tr><td>ITALY</td><td>VIETNAM</td></tr><tr><td>JAPAN</td><td>ZAMBIA</td></tr></table>
+<table border="1"><tr><td>ALBANIA</td><td>KAZAKHSTAN</td></tr><tr><td>ALGERIA</td><td>KENYA</td></tr><tr><td>AUSTRALIA</td><td>REP. OF KOREA</td></tr><tr><td>AUSTRIA</td><td>MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF</td></tr><tr><td>BELARUS</td><td>MONACO</td></tr><tr><td>BELGIUM</td><td>MOROCCO</td></tr><tr><td>BRAZIL</td><td>NETHERLANDS</td></tr><tr><td>BULGARIA</td><td>NEW ZEALAND</td></tr><tr><td>CAMBODIA</td><td>NORWAY</td></tr><tr><td>CAMEROON</td><td>PAKISTAN</td></tr><tr><td>CANADA</td><td>POLAND</td></tr><tr><td>P.R. CHINA</td><td>PORTUGAL</td></tr><tr><td>COLOMBIA</td><td>ROMANIA</td></tr><tr><td>CROATIA</td><td>RUSSIAN FEDERATION</td></tr><tr><td>CUBA</td><td>SAUDI ARABIA</td></tr><tr><td>CYPRUS</td><td>SERBIA</td></tr><tr><td>CZECH REPUBLIC</td><td>SLOVAKIA</td></tr><tr><td>DENMARK</td><td>SLOVENIA</td></tr><tr><td>EGYPT</td><td>SOUTH AFRICA</td></tr><tr><td>FINLAND</td><td>SPAIN</td></tr><tr><td>FRANCE</td><td>SRI LANKA</td></tr><tr><td>GERMANY</td><td>SWEDEN</td></tr><tr><td>GREECE</td><td>Switzerland</td></tr><tr><td>HUNGARY</td><td>TANZANIA</td></tr><tr><td>INDIA</td><td>THAILAND</td></tr><tr><td>INDONESIA</td><td>TUNISIA</td></tr><tr><td>ISLAMIC REPUBLIC OF IRAN</td><td>TURKEY</td></tr><tr><td>IRELAND</td><td>UNITED KINGDOM</td></tr><tr><td>ISRAEL</td><td>UNITED STATES OF AMERICA</td></tr><tr><td>ITALY</td><td>VIETNAM</td></tr><tr><td>JAPAN</td><td>ZAMBIA</td></tr></table>
 
 ## OIML CORRESPONDING MEMBERS
 
@@ -130,7 +130,7 @@ Patricia Saint-Germain: Administrator, Members
 
 ## technique
 
-5 Investigation into the performance of laboratories that carry out verifications in legal mass metrology Adriana V'alcu, Fanel Iacobescu, Roberta Todor and Sterică Baicu
+5 Investigation into the performance of laboratories that carry out verifications in legal mass metrology Adriana V'alcu, Fanel Iacobescu, Roberta Todor and Sterica Baicu
 
 12 Implementation of a mobile laboratory for 200 kg and 500 kg mass standards Aline de Souza Pinto, Mauricio Evangelista da Silva and Bruno Amado Rodrigues Filho
 
@@ -238,7 +238,7 @@ repeatability test at 3 kg and 6 kg;
 
 - weighing test using a load of 2 kg eccentrically placed;
 
-- weighing tests for tare (loading and unloading) were performed with different tare values as follows:
+weighing tests for tare (loading and unloading) were performed with different tare values as follows:
 
 a) tare at 2 kg:0,0.5 g,500 g,1 kg,2 kg and 4 kg;
 
@@ -470,7 +470,7 @@ From the analysis of the results obtained in the evaluation, the following resul
 
 all the laboratories obtained correct results for the eccentricity and repeatability tests, so acceptable performance (for which $ | z | \leq 2 $);
 
-- for the accuracy test, two laboratories obtained results with questionable performance, which generated a warning signal (for which 2 $ < | < z | < 3 $ ), as follows:
+- for the accuracy test, two laboratories obtained results with questionable performance, which generated a warning signal (for which 2 $ < | < z | < 3 ) $ , as follows:
 
 laboratory No. 5 at 0.5 g. 500 g, 1 kg and 2 kg loads;
 
@@ -870,7 +870,7 @@ $ C_{H_{L}} $ is the multiplicative bias of the reference height of the referenc
 
 $ H_{p} $ is the reference height of the sensor of the pressure transmitter;
 
-$ C_{H_{P}} $ is the multiplicative bias of the reference height of the pressure transmitter sensor;
+$ C_{H_{p}} $ is the multiplicative bias of the reference height of the pressure transmitter sensor;
 
 i=1...n is the number of the liquid level where the measurements were fulfilled;
 
@@ -942,7 +942,7 @@ where
 
 $ H_{i}=H_{L}^{0}-H_{P}^{0}-L_{i} $ are the approximate values of the liquid level above the sensor of the pressure transmitter;
 
-$ \nu_{\widetilde{\rho}_{i}}^{\prime} \nu_{\widetilde{H}_{i}}^{\prime} \nu_{P_{i}}^{\prime} \nu_{L_{i}} $ are the corrections to the measured values of density, level of liquid, pressure and distance to the surface of the liquid.
+$ \nu_{\widetilde{\rho}_{i}} $ $ \nu_{\widetilde{H}_{i}} $ $ \nu_{P_{i}} $ $ \nu_{L_{i}} $ are the corrections to the measured values of density, level of liquid, pressure and distance to the surface of the liquid.
 
 Then equation (6) can be written as $ U=B\delta \tau+l. $ Parts of the equations for the defined parameters of the System for each liquid level at which the measurements are taken can be recorded as:
 
@@ -1632,7 +1632,11 @@ The Netherlands
 
 Taximeter - Type: Cabman BCT Euphoria Software BV, Wilhelminapark 36, NL-4041 EC Tilburg, Netherlands
 
-Issuing Authority / Autorité de délivrance NMRO Certification Services (NMRO), United Kingdom
+Issuing Authority / Autorité de délivrance
+
+NMRO Certification Services (NMRO),
+
+United Kingdom
 
 ## R021/2007-GB1-2017.04
 
@@ -1890,7 +1894,11 @@ Terminal as part of a non-automatic weighing instrument Type: ICS425, ICS435, IC
 
 Forklift scale - Type: VFS120 series (see certificate) Mettler-Toledo (Changzhou) Measurement Technology Ltd, N $ ^{\circ} $ 111, West TaiHu Road, XinBei District, CN-213125 Jiangsu, P.R. China
 
-Issuing Authority / Autorité de délivrance NMi Certin B.V. The Netherlands
+Issuing Authority / Autorité de délivrance
+
+NMi Certin B.V.
+
+The Netherlands
 
 ## R076/2006-A-NL1-2018.01
 
@@ -1898,7 +1906,7 @@ Non-automatic weighing instrument - Type: KS-JPOS Dibal S.A., Astintze Kalea 24,
 
 ## R076/2006-A-NL1-2018.02
 
-Analog data processing device (ADPD)-Type: ADC-200 Ipesa Balancas e Basculas Electronicas SA, Parque Industrial de Celeiros, Av. Jose Rolo, 46/48, 4705-414 Celeiros Braga, Portugal
+Analog data processing device (ADPD) - Type: ADC-200 Ipesa Balancas e Basculas Electronicas SA, Parque Industrial de Celeiros, Av. Jose Rolo, 46/48, 4705-414 Celeiros Braga, Portugal
 
 ## R076/2006-A-NL1-2018.03
 
@@ -1918,7 +1926,7 @@ Non-automatic weighing instrument - Type: SM-6000 Digi Singapore PTE LTD., 4 Len
 
 Non-automatic weighing instrument-
 
-Type: RM-5801. . RM-5900. .
+Type: RM-5801. RM-5900.
 
 Shanghai Teraoka Electronic Co. Ltd., Ting Lin Industry Development Zone, Jin Shan District, 201505 Shanghai, P.R. China
 
@@ -2094,7 +2102,7 @@ The Netherlands
 
 ## R117/2007-NL1-2017.04 Rev.1
 
-Measurement transducer - Type: Promass Q 300 DNxxx Promass Q 500 DNxxx Endress + Hauser Flowtec AG, Kagenstrasse 7, CH-4153 Reinach BL 1, Switzerland
+Measurement transducer - Type: Promass Q 300 DNxxx; Promass Q 500 DNxxx Endress + Hauser Flowtec AG, Kagenstrasse 7, CH-4153 Reinach BL 1, Switzerland
 
 Issuing Authority / Autorité de délivrance NMRO Certification Services (NMRO), United Kingdom
 
