@@ -1,0 +1,2 @@
+# Oversize PDFs (>100MB) are kept locally but not committed to GitHub
+skipped_oversize_pdfs/*.pdf
