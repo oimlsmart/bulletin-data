@@ -1,35 +1,143 @@
 = OIML Bulletin source data
 
-Mirror of every OIML Bulletin PDF published on https://www.oiml.org,
-with text extractions alongside each issue.
+Mirror of every OIML Bulletin PDF published on https://www.oiml.org[OIML.org],
+with a layout-preserving OCR text extraction alongside each issue.
+
+Coverage: 1960 → present (quarterly). Total tree is ~7 GB on disk.
 
 == Layout
 
-```
-<year>/<issue>/          # e.g. 2024/01
-  <filename>.pdf         # original PDF
-  ocr.md                 # text extraction (pdftotext for born-digital, GLM-OCR for scans)
-  ocr.json               # GLM-OCR raw response (scanned-era only)
-```
+----
+<year>/<issue>/              # e.g. 2024/01
+  <filename>.pdf             # original PDF (one or more per issue)
+  ocr.md                     # GLM-OCR extraction, includes ![](page=N,bbox=...) image markers
+----
 
-Year is the calendar year. Issue is the quarterly issue number
-within the year (01 = Jan/Q1, 02 = Apr/Q2, 03 = Jul/Q3, 04 = Oct/Q4).
+* *Year* is the calendar year of publication.
+* *Issue* is the quarterly issue number, zero-padded: `01` = Jan/Q1,
+  `02` = Apr/Q2, `03` = Jul/Q3, `04` = Oct/Q4.
 
-== Extraction methods
+Pre-1980 year folders may contain two bulletins (the early Bulletin was
+issued irregularly). HTML-only editions (2024/03 onward, partially) carry
+a `README.md` placeholder instead of a PDF — see <<html-only>> below.
 
-* *Born-digital* PDFs (year >= 2000): `pdftotext -layout` (poppler).
-  Fast, deterministic, no API cost.
-* *Scanned* PDFs (year < 2000): GLM OCR via the z.ai layout_parsing
-  API. Cached per 30-page chunk in `backfill/cache/`.
+== File types
+
+[cols="1,4,2"]
+|===
+| File | Purpose | Count
+
+| `*.pdf`
+| Original PDFs downloaded from oiml.org. Naming drifts across eras (see <<naming>>).
+| ~260
+
+| `ocr.md`
+| Markdown rendering of the PDF text, produced by GLM-OCR. Embedded figures are
+  represented as `![](page=N,bbox=[x1,y1,x2,y2])` markers so downstream tooling
+  can crop them back out of the source PDF.
+| ~230
+
+| `README.md`
+| Per-issue placeholder used when no PDF exists (HTML-only editions) or in
+  `skipped_oversize_pdfs/` to document the directory's purpose.
+| 8
+|===
+
+No `ocr.json`, `ocr.txt`, or per-page chunk files are committed — only
+`ocr.md` is canonical.
+
+[[naming]]
+== PDF naming conventions
+
+OIML's URL scheme has drifted over the decades; we preserve the original
+filename from each download rather than normalize.
+
+[cols="1,4"]
+|===
+| Era | Pattern
+
+| pre-1980
+| `<year>-bulletin-<num>.pdf` (e.g. `1980-bulletin-78.pdf`)
+
+| 1980s–1990s
+| `oiml-bulletin-<month>-<year>.pdf` (e.g. `oiml-bulletin-april-1995.pdf`)
+
+| 2000s+
+| `oiml_bulletin_<month>_<year>.pdf` (e.g. `oiml_bulletin_jan_2024.pdf`)
+|===
+
+PDFs that exceed GitHub's 100 MB per-file limit are split into parts with
+a suffix:
+
+* `_part1.pdf` / `_part2.pdf` — typical 2-part split
+* `_p1a.pdf` / `_p1b.pdf` / `_p1c.pdf` — 3-part split (used for the 128 MB
+  Jan 2024 Bulletin)
+
+[[html-only]]
+== HTML-only editions
+
+From 2024/03 onward, OIML began publishing some issues as web pages only,
+with no PDF. These year/issue directories contain a `README.md` with the
+landing-page URL instead of a PDF + `ocr.md`:
+
+----
+2024/03, 2024/04,
+2025/02, 2025/03, 2025/04,
+2026/01, 2026/02
+----
+
+== OCR pipeline
+
+All OCR is orchestrated from the *sibling* repo
+`~/src/relaton/relaton-data-oiml`, under `backfill/`. No scripts live in
+this repo. Key scripts:
+
+[cols="1,4"]
+|===
+| Script | Purpose
+
+| `populate_bulletin_data.rb`
+| Downloads PDFs from oiml.org into `<year>/<issue>/`. Idempotent.
+
+| `ocr_scanned_era_parallel.rb`
+| Runs GLM-OCR (z.ai `layout_parsing` API) on every issue lacking `ocr.md`,
+  across N forked workers. Used for ALL eras — not just scans.
+
+| `ocr_oversize.rb`
+| Splits PDFs >50 MB into ≤12-page chunks before sending each to GLM-OCR
+  (which has a 50 MB request cap), then concatenates the per-chunk markdown
+  into a single `ocr.md`.
+
+| `tesseract_fallback.rb`
+| Falls back to local Tesseract for the 5 issues that GLM's content filter
+  rejects page-by-page: `2018/03`, `2018/04`, `2019/02`, `2023/01`,
+  `2023/02`.
+|===
+
+=== Why GLM-OCR for born-digital PDFs too?
+
+Poppler's `pdftotext -layout` does not preserve the Bulletin's bilingual
+two-column layout — French and English columns get interleaved into
+garbled text. GLM-OCR's vision model handles the column separation
+correctly, so it is used uniformly across eras.
+
+== Oversize PDF handling on GitHub
+
+GitHub's per-file limit is 100 MB. PDFs that exceed this are split into
+parts (see <<naming>>); the original unsplit PDF is kept locally only and
+listed in `.gitignore` so it is never pushed. The `skipped_oversize_pdfs/`
+directory is now empty — it predates the splitting workflow and is kept
+for documentation; its `README.md` describes the splitting procedure for
+any future oversize PDFs.
 
 == Source
 
-All PDFs are downloaded from oiml.org public URLs. The bulletin
-landing page is
-https://www.oiml.org/en/publications/oiml-bulletin/online-bulletin.
+All PDFs are downloaded from OIML's public URLs. The Bulletin landing page
+is https://www.oiml.org/en/publications/oiml-bulletin/online-bulletin.
 
 == Regeneration
 
 This tree is produced by `backfill/populate_bulletin_data.rb` in the
-`relaton-data-oiml` repository. Re-running is idempotent — existing
-PDFs and ocr.md files are left in place.
+https://github.com/relaton/relaton-data-oiml[`relaton-data-oiml`]
+repository. Re-running is idempotent — existing PDFs and `ocr.md` files
+are left in place.
