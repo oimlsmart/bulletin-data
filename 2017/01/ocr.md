@@ -336,11 +336,7 @@ $$
 
 where:
 
-$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA);
-
-$ \rho_{\mathrm{a}} $ is the air density at the time of the weighing;
-
-$ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
+$ \Delta m $ is the difference of balance readings calculated from the weighing cycles (ABBA); $ \rho_{\mathrm{a}} $ is the air density at the time of the weighing; $ V_{\mathrm{Tt}} $ $ V_{\mathrm{St}} $ are the volumes of the weights involved in a measurement at temperature "t";
 
 $ \mathrm{V}_{T 2 0} $; $ \mathrm{V}_{S 2 0} $ are the volumes of the weights involved in a measurement, at $ 2 0 \mathrm{^{\circ} C} $;
 
@@ -2110,7 +2106,7 @@ Organisation Internationale de Métrologie Légale
 
 ![](page=10,bbox=[599, 1081, 939, 1294])
 
-Mr. Zhi Shuping, Minister of AQSIQ and Mr. Stephen Patoryan, BIML Director open the first OIML Pilot Training Center in P.R. China
+Mr. Zhi Shuping, Minister of AQSIQ and Mr. Stephen Patoray, BIML Director open the first OIML Pilot Training Center in P.R. China
 
 Technical articles on legal metrology related subjects
 

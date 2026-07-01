@@ -278,7 +278,7 @@ In the following, a few examples of the requirements needed for technical rules 
 
 - A technical rule might restrict the number of input values for procedure a) to limit the increase in the risk of non-conformance.
 
-A technical rule might comprise conditions for procedures b)-d) as regards the input values. This might be a recorded assessment or even proof of the independence of the input values.
+- A technical rule might comprise conditions for procedures b)-d) as regards the input values. This might be a recorded assessment or even proof of the independence of the input values.
 
 A technical rule for any procedure should require a statement on the risk of non-conformance for each output value similar to what is required in [2].
 
@@ -1036,7 +1036,7 @@ Due to the above-mentioned features, internal metrological supervision has a pre
 
 Thus, the state metrological supervision is an important function of the state, designed to ensure compliance with mandatory metrological requirements by subjects carrying out activities in the sphere of legal metrology, thereby ensuring the protection of both citizens and the state from the negative consequences of unreliable measurement results.
 
-metrological supervision, it cannot fully ensure guaranteed compliance with metrological requirements by all subjects of economic activity. This is a consequence of its limited scope of application (only in the sphere of legal metrology), low coverage of objects of metrological supervision (less than 1%) , limited resources of supervisory authorities, impossibility to fully implement in practice a preventive approach, and a number of other factors.
+metrological supervision, it cannot fully ensure guaranteed compliance with metrological requirements by all subjects of economic activity. This is a consequence of its limited scope of application (only in the sphere of legal metrology), low coverage of objects of metrological supervision (less than 1 %), limited resources of supervisory authorities, impossibility to fully implement in practice a preventive approach, and a number of other factors.
 
 However, despite a number of progressive changes in recent years in legislation and in the practice of state
 
@@ -1986,7 +1986,7 @@ The work of the subgroup established to investigate the requirements for display
 
 ## 6.5 Sorting devices
 
-Some TC 9/SC 2/p 10 members believed that the sorting device defined in R51 is interpreted differently by manufacturers and by some approval authorities. Some interpret the "sorting device" as a logical function (allocation) into sub-groups and the result of which can be, for example, a count value or a signal output, and others, including approval authorities from the European Union, interpret the "sorting device" as a mandatory physical sorting device, an integral part of the checkweigher, which must operate fully automatically and which is the responsibility of the manufacturer of the weighing instrument. This obliges the manufacturer to assess the sorting device on the production line, especially when placing the checkweigher on the market. Potential legal disputes can arise when a sorting device not manufactured or approved by the manufacturer of the weighing instrument is used by the user of the weighing instrument.
+Some TC 9/SC 2/p 10 members believed that the sorting device defined in R 51 is interpreted differently by manufacturers and by some approval authorities. Some interpret the "sorting device" as a logical function (allocation) into sub-groups and the result of which can be, for example, a count value or a signal output, and others, including approval authorities from the European Union, interpret the "sorting device" as a mandatory physical sorting device, an integral part of the checkweigher, which must operate fully automatically and which is the responsibility of the manufacturer of the weighing instrument. This obliges the manufacturer to assess the sorting device on the production line, especially when placing the checkweigher on the market. Potential legal disputes can arise when a sorting device not manufactured or approved by the manufacturer of the weighing instrument is used by the user of the weighing instrument.
 
 It is the view of some TC 9/SC 2/p 10 members that test requirements for a physical sorting device should be specified in R 51 to ensure that:
 
@@ -2285,6 +2285,8 @@ https://www.oiml.org/en/oiml-cs
 # List of OIML Issuing Authorities and their scopes Updated:2023-11-22
 
 </div>
+
+Updated: 2023-11-22
 
 ![](page=3,bbox=[924, 687, 1154, 917])
 

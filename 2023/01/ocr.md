@@ -464,7 +464,7 @@ Dr Ehrlich said he would now provide delegates with some of the highlights from 
 
 ## AFRIMETS
 
-Mr Marneweck had reported that the recent 15th AFRIMETS General Assembly had focused on AFRIMETS' self-sustainability. An AFRIMETS Technical Committee (TC) Legal workshop, which had taken place around the same time, had focused on the regulation of smart electricity meters, with presentations by the three speakers indicated on his slide: Dr Pavel Klenovský (Czech Republic), Dr Juan Carlos Mateus Sánchez (Brazil), and Ms Sowmya Ramakrishnan (Australia). Afterwards it had been decided that this workshop would be followed up by similar workshops.
+Mr Marneweck had reported that the recent 15th AFRIMETS General Assembly had focused on AFRIMETS' self-sustainability. An AFRIMETS Technical Committee (TC) Legal workshop, which had taken place around the same time, had focused on the regulation of smart electricity meters, with presentations by the three speakers indicated on his slide: Dr Pavel Klenovsky (Czech Republic), Dr Juan Carlos Mateus Sanchez (Brazil), and Ms Sowmya Ramakrishnan (Australia). Afterwards it had been decided that this workshop would be followed up by similar workshops.
 
 ## APLMF
 
@@ -880,7 +880,7 @@ ANTHONY DONNELLAN BIML Director
 
 "International organisations (IOs) respond to the specific mandates they were created to address, by developing instruments that promote well-being for all. To continue delivering on their mandate in the midst of global transformations, most IOs have continuously needed to adapt their governance and rulemaking."
 
-![](page=5,bbox=[257, 1702, 638, 2519])
+![](page=5,bbox=[257, 1702, 638, 2518])
 
 "Countries create and become members of international organisations to serve their global policy needs. The climate crisis, disruptions in food safety, vulnerable energy markets and the persisting Covid- 19 pandemic are creating a plethora of policy challenges where IOs are especially crucial, as global experts as well as enablers of collective action."
 

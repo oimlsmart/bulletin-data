@@ -44,7 +44,9 @@ OIML PRESIDIUM AND PRESIDENTIAL COUNCIL
 
 PRESIDENT Roman Schwartz (GERMANY)
 
-ACTING FIRST VICE-PRESIDENT Yukinobu Miki (JAPAN)
+ACTING FIRST VICE-PRESIDENT
+
+Yukinobu Miki (JAPAN)
 
 MEMBERS Mairead Buckley (IRELAND) Himba Cheelo (ZAMBIA) Charles D. Ehrlich (UNITED STATES) Sergey Golubev (RUSSIAN FEDERATION) Corinne Lagauterie (FRANCE) Bill Loizides (AUSTRALIA) Bobjoseph Mathew (SWITZERLAND)
 
@@ -1374,7 +1376,7 @@ Compteurs d'eau destinés au mesurage
 
 de l'eau potable froide
 
-R49(2013)
+R 49 (2013)
 
 Issuing Authority / Autorité de délivrance
 
@@ -1436,7 +1438,13 @@ The Netherlands
 
 ## R060/2000-A-NL1-2018.02
 
-Single point load cell, with strain gauges - Type: M080 or PR55 MinebeaMitsumi Inc., 1-1-1 Katase Fujisawa-shi JP-251-853 Kanagawa-ken, Japan
+Single point load cell, with strain gauges -
+
+Type: M080 or PR55
+
+MinebeaMitsumi Inc., 1-1-1 Katase Fujisawa-shi,
+
+JP-251-853 Kanagawa-ken, Japan
 
 ## R060/2000-A-NL1-2018.05
 
@@ -1982,7 +1990,7 @@ Features on metrology in your country
 
 Accounts of Seminars, Meetings, Conferences
 
-Announcements of forthcoming events, etc.
+- Announcements of forthcoming events, etc.
 
 The OIML Bulletin is a forum for the publication of technical papers and diverse articles addressing metrological advances in trade, health, the environment and safety - fields in which the credibility of measurement remains a challenging priority. The Editors of the Bulletin encourage the submission of articles covering topics such as national, regional and international activities in legal metrology and related fields, evaluation procedures, accreditation and certification, and measuring techniques and instrumentation. Authors are requested to submit:
 
