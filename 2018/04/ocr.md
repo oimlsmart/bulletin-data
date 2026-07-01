@@ -288,7 +288,7 @@ the zero of the Z axis (XY plane) is combined with the point from which the cali
 
 <div align="center">
 
-Fig. 3 Visualization of a prepared 3D model of a horizontal tank of 50000 points
+Fig. 3 Visualization of a prepared 3D model of a horizontal tank of 50 000 points
 
 </div>
 
@@ -964,7 +964,7 @@ After the redefinition, the guidance on the practical realization of the kelvin 
 
 ## What impact does the redefinition have on the realization of the mole?
 
-The mole will be redefined with respect to a specified number of entities (typically atoms or molecules) and will no longer depend on the unit of mass, the kilogram Traceability to the mole can still be established via all previously employed approaches including, but not limited to, the use of mass measurements along with tables of atomic weights and the molar mass constant Mu.
+The mole will be redefined with respect to a specified number of entities (typically atoms or molecules) and will no longer depend on the unit of mass, the kilogram. Traceability to the mole can still be established via all previously employed approaches including, but not limited to, the use of mass measurements along with tables of atomic weights and the molar mass constant Mu.
 
 Atomic weights will be unaffected by this change in definition and Mu will still be 1 g/mol, although now with a measurement uncertainty. This uncertainty will be so small that the revised definition of the mole will not require any change to common practice.
 
@@ -1002,7 +1002,7 @@ But comparisons with other kilograms held in the same conditions show us that ov
 
 However, from 1889 through 1993, the detected differences in mass between supposedly identical
 
-artefacts average out to be about 50 $ \mu\mathrm{g} $ per century. The reason for the changes and the reasons the changes have stopped (or paused) are, and probably will remain, a mystery. These are questions that artefact definitions invite but do not exist for the redefined kilogram.
+artefacts average out to be about 50 $ \mu\mathrm{g} $ per century.The reason for the changes and the reasons the changes have stopped (or paused) are, and probably will remain, a mystery. These are questions that artefact definitions invite but do not exist for the redefined kilogram.
 
 ## Will I get my standard of mass calibrated after the change?
 
@@ -1142,7 +1142,7 @@ All four bodies collaborate, with other international stakeholders, in the Joint
 
 - Uncertainty in Measurement - Part 3 - Guide to the Expression of Uncertainty in Measurement (GUM) - JCGM 100, (and related OIML G 1-100 and ISO/IEC Guide 98-3) promote a consistent and common approach to the evaluation of measurement uncertainty in a variety of metrological situations; and
 
-- "International vocabulary of metrology - Basic and general concepts and associated terms (VIM)-JCGM 200, (and related OIML V 2-200 and ISO/IEC Guide 99).
+- "International vocabulary of metrology - Basic and general concepts and associated terms (VIM)-JCGM 200, (and related OIML V2-200 and ISO/IEC Guide 99).
 
 In particular, the VIM defines metrological traceability as:
 
@@ -1352,7 +1352,7 @@ Réglementation métrologique des cellules de pesée
 
 analogique et/ou numérique)
 
-R 60 (2000)
+R60(2000)
 
 ## Issuing Authority / Autorité de délivrance National Institute of Metrology, P.R. China
 
@@ -1632,11 +1632,7 @@ Multi-dimensional measuring instruments Instruments de mesure multidimensionnels
 
 R129(2000)
 
-Issuing Authority / Autorité de délivrance
-
-NMi Certin B.V.,
-
-The Netherlands
+Issuing Authority / Autorité de délivrance NMi Certin B.V. The Netherlands
 
 R129/2000-B-NL1-2018.01 Multi-Dimensional Measuring Instrument Type: SQ-2000 and SQ-3000 Teraoka Seiko Co., Ltd., 13-12 Kugahara, 5-Chome, Ohta-ku, JP-146-858 Tokyo, Japan
 
