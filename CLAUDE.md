@@ -103,12 +103,3 @@ has no `Gemfile`, no `bin/`, no executable code.
 - Large binary pushes are normal here — this is a 7 GB tree. Don't be
   alarmed by multi-hundred-MB commits when adding new issues.
 - Never force-push to `main`. Never push tags.
-
-## Remote URL leaked a token — rotate it
-
-As of 2026-07-02, `.git/config` for this repo embeds a GitHub
-`x-access-token:gho_...` URL in `origin`. That token is sensitive —
-anyone reading the repo's `.git/config` (or a backup) gets push access.
-Recommend the user rotate it and switch the remote to a clean
-`https://github.com/oimlsmart/bulletin-data.git` URL (or use a
-`credential.https://github.com.helper` instead).
