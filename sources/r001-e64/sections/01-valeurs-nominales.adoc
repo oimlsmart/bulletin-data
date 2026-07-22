@@ -1,0 +1,8 @@
+== Valeurs nominales
+
+=== {blank}
+La série des valeurs nominales se compose comme suit :
+
+stem:[1, 2, 5, 10, 20, 50, 100, 200, 500~"g"]
+
+stem:[1, 2, 5, 10~"kg"]

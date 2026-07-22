@@ -1,0 +1,125 @@
+== Valeurs nominales
+
+Les valeurs nominales autorisées pour les « poids cylindriques » de précision
+moyenne sont les suivantes :
+
+stem:[1, 2, 5, 10, 20, 50, 100, 200, 500] grammes ;
+
+stem:[1, 2, 5, 10] kilogrammes.
+
+== Forme — Matière — Mode d'exécution
+
+=== Forme
+
+Les poids doivent être en une seule pièce constituée par un corps
+cylindrique surmonté d'une tête en forme de bouton plat de préhension.
+
+=== Matière
+
+Toute matière d'une masse volumique de stem:[7~"g"] à
+stem:[9,5~"g"] par stem:["cm"^3] ;
+
+d'une dureté au moins égale à celle du laiton coulé ;
+
+d'une corrodabilité et d'une friabilité au plus égales à celles de la fonte
+grise de fer ;
+
+d'un état de surface similaire à celui de la fonte grise de fer soigneusement
+coulée en moule de sable fin.
+
+Toutefois la fonte grise de fer ne peut être utilisée pour les poids de
+valeur nominale inférieure à stem:[100~"g"].
+
+=== Mode d'exécution
+
+Tout mode d'exécution applicable à la matière choisie.
+
+== Cavité d'ajustage
+
+Les poids de stem:[10~"kg"] à stem:[100~"g"] inclus doivent
+comporter une cavité d'ajustage. Pour les poids de stem:[50] et
+stem:[20~"g"], la cavité d'ajustage est facultative. Les poids de
+stem:[10, 5, 2, 1~"g"] doivent être massifs sans cavité d'ajustage.
+
+La cavité d'ajustage est une cavité cylindrique borgne percée dans l'axe du
+poids, débouchant sur la face supérieure du bouton, et comportant un
+élargissement de diamètre à son entrée.
+
+Cette cavité doit être fermée :
+
+* soit par un bouchon vissé en laiton,
+* soit par un disque en laiton ;
+
+le bouchon doit comporter une rainure de tournevis, le disque un trou de
+préhension central.
+
+Le bouchon ou le disque doivent être scellés par une pastille de plomb
+repoussée dans une rainure circulaire ménagée dans la partie élargie du
+diamètre.
+
+== Indications et signes distinctifs
+
+L'indication de la valeur nominale du poids ainsi que la marque de
+fabrication doivent figurer en creux ou en relief sur la face supérieure de
+la tête.
+
+L'indication de la valeur nominale peut facultativement être reproduite sur
+le corps des poids de stem:[500~"g"] à stem:[10~"kg"] ; dans ce
+cas, les chiffres et le symbole peuvent être plus grands que ceux se trouvant
+sur la face supérieure de la tête.
+
+La valeur nominale du poids doit être indiquée sous la forme :
+
+stem:[1~"g", 2~"g", 5~"g", 10~"g", 20~"g",
+50~"g", 100~"g", 200~"g", 500~"g", 1~"kg",
+2~"kg", 5~"kg", 10~"kg"]
+
+== Dimensions
+
+Les dimensions d'exécution figurent au tableau synoptique ci-après annexe.
+
+== Tolérances dimensionnelles
+
+Les tolérances autorisées sur les différentes cotes sont celles qui
+résultent normalement du mode de fabrication choisi.
+
+== Finition
+
+Les poids peuvent être polis ;
+
+si nécessaire, ils doivent être protégés contre la corrosion par un
+revêtement approprié résistant à l'usure et aux chocs.
+
+== Marque de contrôle métrologique
+
+La marque légale de contrôle est apposée :
+
+* sur la pastille de plomb scellant la fermeture de la cavité d'ajustage,
+* ou pour les poids sans cavité d'ajustage, sur leur base.
+
+== Erreurs maximales tolérées sur la masse
+
+Les erreurs maximales tolérées sur la masse des poids sont les suivantes :
+
+[cols="1,1,1", options="header"]
+|===
+|Valeur nominale |en vérification primitive (mg) |en vérification périodique (mg)
+
+|1 g    |+ 5 / − 0    |± 5
+|2 g    |+ 5 / − 0    |± 5
+|5 g    |+ 10 / − 0   |± 10
+|10 g   |+ 20 / − 0   |± 20
+|20 g   |+ 20 / − 0   |± 20
+|50 g   |+ 30 / − 0   |± 30
+|100 g  |+ 30 / − 0   |± 30
+|200 g  |+ 50 / − 0   |± 50
+|500 g  |+ 100 / − 0  |± 100
+|1 kg   |+ 200 / − 0  |± 200
+|2 kg   |+ 400 / − 0  |± 400
+|5 kg   |+ 800 / − 0  |± 800
+|10 kg  |+ 1600 / − 0 |± 1600
+|===
+
+[NOTE]
+Les plans d'exécution et le tableau synoptique des cotes sont publiés dans
+le Bulletin de l'OIML, 11ᵉ année, n° 41 (premier trimestre 1970).

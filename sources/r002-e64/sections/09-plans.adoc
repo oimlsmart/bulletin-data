@@ -1,0 +1,22 @@
+== Plans
+
+Les plans annexés au présent projet sont des plans d'exécution permettant
+sans autre étude la construction du modèle de fonderie et la fabrication
+des poids (cotes en millimètres).
+
+[NOTE]
+====
+Les plans d'exécution originaux sont publiés dans le Bulletin de l'OIML,
+5ᵉ année, n° 16 (juin 1964), aux pages 9 à 16 du tirage à part. Les
+fichiers images correspondants ne sont pas inclus dans cette extraction ;
+se reporter au PDF source.
+
+* Poids de 5 kilogrammes — Modèle 1
+* Poids de 5 kilogrammes — Modèle 2
+* Poids de 10 kilogrammes — Modèle 1
+* Poids de 10 kilogrammes — Modèle 2
+* Poids de 20 kilogrammes — Modèle 1
+* Poids de 20 kilogrammes — Modèle 2
+* Poids de 50 kilogrammes — Modèle 1
+* Poids de 50 kilogrammes — Modèle 2
+====

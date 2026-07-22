@@ -1,0 +1,40 @@
+== Modalités d'application
+
+=== Pesée des charges nettes
+
+*Détermination directe* :: pour les instruments de pesage comportant un
+dispositif de compensation de tare (tel que romaine graduée ou non), les
+erreurs maximales tolérées s'appliquent à la charge nette pour toutes les
+valeurs possibles de la compensation de tare.
+
+*Détermination par différence* :: le problème de la détermination par
+différence des charges nettes sur les instruments de pesage dépourvus de
+dispositif de compensation de tare reste à l'étude.
+
+=== Variation des conditions de pesée
+
+Changement de place des charges sur le récepteur ou modification des
+conditions d'équilibrage.
+
+Les instruments étant réglés à zéro pour une charge nette nulle, les
+erreurs maximales tolérées énoncées à la section <<erreurs>> sont
+applicables à la pesée des charges nettes dans les conditions usuelles
+d'emploi des instruments : la courbe d'erreur d'un instrument doit donc
+s'inscrire entre les deux courbes limites, symétriques par rapport à l'axe
+des abscisses, représentées par le schéma de la page 6 du Bulletin.
+
+Toutefois, l'écart entre la plus grande et la plus petite des indications
+obtenues lors de plusieurs essais consécutifs, exécutés dans les mêmes
+conditions, ne doit pas être supérieur à la valeur absolue de l'erreur
+maximale tolérée à la charge considérée.
+
+Cette restriction est valable lorsque :
+
+* une même charge est soulevée et déposée à la même place (essais de
+  fidélité) ;
+* une même charge de valeur convenable est déposée successivement sur
+  chacun des angles (ou coins) ou sur chacune des extrémités du récepteur
+  de charge (essais des chaînes de leviers) ;
+* le mode d'équilibrage d'une même charge est modifié (par exemple par
+  commutation d'une masse ou d'une résistance électrique additionnelle, ou
+  variation de position du curseur de la romaine).

@@ -1,0 +1,27 @@
+= Manomètres – Vacuomètres – Manovacuomètres « indicateurs » à éléments récepteurs élastiques, à indications directes par aiguille et échelle graduée (catégorie instruments de travail)
+:docidentifier: OIML R 17
+:series: R
+:docnumber: 17
+:edition: 1
+:revdate: 1970-07
+:copyright-year: 1970
+:language: fr
+:title-main-fr: Manomètres – Vacuomètres – Manovacuomètres « indicateurs » à éléments récepteurs élastiques, à indications directes par aiguille et échelle graduée (catégorie instruments de travail)
+:title-main-en: Indicating pressure gauges – vacuum gauges – combined pressure and vacuum gauges with elastic sensing elements, direct-reading (working instruments category)
+:doctype: international-recommendation
+:docstage: 60
+:docsubstage: 60
+:adopted-conference: 3e Conférence internationale de Métrologie légale, octobre 1968
+:reporting-secretariat: U.R.S.S.
+:imprime: 1970-07
+:source-bulletin: 1972/02
+:source-ocr-lines: 90-310
+:toclevels-pdf: 2
+:mn-document-class: oiml
+:mn-output-extensions: xml,html,pdf,rxl
+:imagesdir: images
+:local-cache-only:
+
+include::sections/00-front-matter.adoc[]
+
+include::sections/01-corps.adoc[]

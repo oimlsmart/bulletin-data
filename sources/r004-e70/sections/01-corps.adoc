@@ -1,0 +1,146 @@
+== Domaine d'application
+
+La présente Recommandation s'applique aux « fioles jaugées » en verre, dont
+la capacité nominale est délimitée par un seul trait repère tracé sur le col.
+
+Elle fixe les conditions que doivent remplir ces instruments de mesure pour
+satisfaire aux contrôles des Services de métrologie légale.
+
+== Définition de la capacité
+
+La capacité d'une fiole jaugée à un seul trait repère est le volume d'eau
+qu'elle contient, à la température de référence de stem:[20~^circ"C"],
+lorsqu'elle est remplie jusqu'à son trait repère.
+
+L'expression « remplie jusqu'au trait repère » signifie que le ménisque formé
+par l'eau dans le col a été ajusté de telle façon que le plan passant par le
+bord supérieur du trait repère est tangent au point le plus bas de ce ménisque
+lorsque la fiole est placée sur une surface plane horizontale.
+
+== Série de capacités nominales
+
+Les fioles doivent avoir l'une des capacités nominales suivantes :
+
+stem:[5, 10, 25, 50, 100, 200, 250, 500, 1000, 2000] centimètres cubes
+(le terme « millilitre » pouvant être utilisé comme nom spécial donné au
+centimètre cube).
+
+Toutefois, des fioles ayant des capacités nominales autres que celles
+indiquées ci-dessus sont tolérées pour des besoins spéciaux ; dans ce cas,
+leurs autres caractéristiques doivent rentrer dans le cadre des dispositions
+de la présente Recommandation.
+
+== Matériaux
+
+Les fioles doivent être en verre transparent aussi exempt que possible de
+défauts apparents et de tensions internes.
+
+== Construction
+
+* Les fioles doivent être de construction suffisamment robuste pour
+supporter un usage normal et leur paroi ne doit pas présenter de variations
+importantes d'épaisseur.
+* Le corps doit comporter une large base permettant une position verticale
+stable (sans pivoter ni osciller) de la fiole quand elle repose sur une
+surface plane horizontale.
+* Le col doit être cylindrique sans variation exagérée de diamètre intérieur
+et d'épaisseur de paroi dans toute sa longueur ;
++
+au niveau du trait repère, il doit avoir un diamètre intérieur compris entre
+les valeurs limites admissibles prévues au tableau ci-après pour chacune des
+capacités nominales des fioles ;
++
+la partie supérieure peut comporter un évasement ou un logement pour un
+bouchon.
++
+Il ne doit pas y avoir de distorsion optique visible à l'œil causée par un
+défaut aux environs du trait repère.
+
+== Trait repère
+
+* Le trait repère doit encercler complètement le col et doit être contenu
+dans un plan parallèle au plan de la base de la fiole, il doit être continu,
+d'épaisseur uniforme ne dépassant pas stem:[0,4~"mm"], nettement
+visible, permanent et indélébile dans les conditions usuelles d'emploi de la
+fiole.
+* Il doit se trouver dans les deux-tiers inférieurs de la longueur du col et
+la distance entre ce trait et tout point à partir duquel le col commence à
+s'évaser ne doit pas être inférieure à celle spécifiée au tableau ci-après
+pour chacune des capacités nominales des fioles.
+
+== Classes de précision
+
+Les fioles sont réparties, suivant l'exactitude de leur ajustage à leur
+valeur nominale, en deux classes de précision repérées respectivement par
+les lettres « A » et « B ».
+
+== Erreurs sur la capacité nominale
+
+Les erreurs maximales tolérées sur la capacité nominale des fioles jaugées
+sont celles spécifiées au tableau ci-après pour chacune des capacités
+nominales et chacune des deux classes de précision des fioles.
+
+== Inscriptions
+
+Les inscriptions suivantes doivent figurer sur le corps de toutes les
+fioles :
+
+(a) la valeur en chiffres de la capacité nominale, suivie du symbole
+stem:["cm"^3] ou stem:["ml"] ; sur les fioles d'une capacité
+nominale de stem:[1000~"cm"^3] ou stem:[1000~"ml"] et plus,
+cette capacité peut être indiquée en décimètres cubes stem:[("dm"^3)]
+ou en litres stem:[("l")] ;
+
+(b) les lettres « In » pour indiquer que la capacité nominale est le volume
+contenu ;
+
+(c) l'abréviation « stem:[20~^circ"C"] » pour indiquer la température
+de référence ; si la température de référence est de
+stem:[27~^circ"C"], cette indication sera substituée à
+stem:[20~^circ"C"] ;
+
+(d) la lettre « A » ou « B » indicative de la classe de précision ;
+
+(e) le nom ou la marque du fabricant ou du vendeur.
+
+Par ailleurs, les fioles de classe « A » doivent être repérées par un numéro
+d'identification ; ce repère est facultatif pour les fioles de classe « B ».
+
+Toutes les inscriptions doivent être clairement lisibles et être
+indélébiles dans les conditions usuelles d'emploi des fioles.
+
+== Contrôles métrologiques
+
+Lorsque dans un pays les fioles jaugées sont soumises aux contrôles
+métrologiques de l'État, ces contrôles doivent comprendre, suivant la
+législation interne de ce pays, tout ou partie des contrôles ci-après :
+
+* l'approbation de modèle ;
+* la vérification primitive.
+
+Les modalités de ces contrôles seront fixées par les règlements nationaux
+de chaque pays.
+
+== Marque de contrôle métrologique
+
+La marque de vérification primitive doit être apposée sur le col au
+voisinage du trait de jauge, en un emplacement tel qu'elle ne risque pas de
+gêner le repérage du ménisque formé par le liquide à mesurer.
+
+== Annexe — Erreurs maximales tolérées et dimensions obligatoires
+
+[cols="1,1,1,1,1", options="header"]
+|===
+|Capacité nominale stem:[("cm"^3)] |Erreur max. tolérée — Classe A stem:[(+- "cm"^3)] |Erreur max. tolérée — Classe B stem:[(+- "cm"^3)] |Diamètre intérieur du col au niveau du trait repère (mm) |Distance minimale entre le trait repère et tout point à partir duquel le col commence à s'évaser (mm)
+
+|5    |0,025 |0,05  |6 – 8    |5
+|10   |0,025 |0,05  |6 – 8    |5
+|25   |0,04  |0,08  |8 – 10   |5
+|50   |0,06  |0,12  |10 – 12  |10
+|100  |0,10  |0,20  |12 – 14  |10
+|200  |0,15  |0,30  |14 – 17  |10
+|250  |0,15  |0,30  |14 – 17  |10
+|500  |0,25  |0,50  |17 – 21  |15
+|1 000 |0,40 |0,80  |21 – 25  |15
+|2 000 |0,60 |1,20  |25 – 30  |15
+|===

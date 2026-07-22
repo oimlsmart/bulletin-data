@@ -1,0 +1,28 @@
+= Seringues médicales avec corps en verre
+:docidentifier: OIML R 7
+:series: R
+:docnumber: 7
+:edition: 1
+:revdate: 1964-08
+:copyright-year: 1964
+:language: fr
+:title-main-fr: Seringues médicales avec corps en verre
+:title-main-en: Medical syringes with glass body
+:doctype: international-recommendation
+:docstage: 60
+:docsubstage: 60
+:provisional: true
+:adopted-conference: 2e Conférence internationale de Métrologie légale, Vienne, juin 1962
+:reporting-secretariat: Autriche
+:imprime: 1964-08
+:source-bulletin: 1965/02
+:source-ocr-lines: 67-265
+:toclevels-pdf: 2
+:mn-document-class: oiml
+:mn-output-extensions: xml,html,pdf,rxl
+:imagesdir: images
+:local-cache-only:
+
+include::sections/00-front-matter.adoc[]
+
+include::sections/01-corps.adoc[]

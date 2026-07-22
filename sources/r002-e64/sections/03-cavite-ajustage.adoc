@@ -1,0 +1,25 @@
+== Cavité d'ajustage
+
+[[modele-1]]
+=== Modèle 1
+
+Cavité interne constituée par l'intérieur du tube formant poignée de
+préhension.
+
+Fermeture de la cavité par un bouchon fileté en laiton étiré ou par un
+bouchon en laiton en forme de disque lisse. Le bouchon fileté porte une
+rainure de tournevis et le disque lisse un trou de préhension central.
+
+Le scellement du bouchon est assuré par une pastille de plomb repoussée
+dans une rainure circulaire interne ou dans le filetage du tube.
+
+[[modele-2]]
+=== Modèle 2
+
+Cavité interne venue de fonderie dans un des montants du poids et
+débouchant sur la face supérieure de ce montant.
+
+Fermeture de la cavité par une plaquette découpée en acier doux.
+
+Le scellement de la plaquette est assuré par une pastille de plomb
+repoussée dans un logement de coupe conique.

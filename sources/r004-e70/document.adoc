@@ -1,0 +1,27 @@
+= Fioles jaugées (à un trait) en verre
+:docidentifier: OIML R 4
+:series: R
+:docnumber: 4
+:edition: 2
+:revdate: 1970-02
+:copyright-year: 1970
+:language: fr
+:title-main-fr: Fioles jaugées (à un trait) en verre
+:title-main-en: Volumetric flasks (one-mark) in glass
+:doctype: international-recommendation
+:docstage: 60
+:docsubstage: 60
+:adopted-conference: 3e Conférence internationale de Métrologie légale, octobre 1968
+:reporting-secretariat: Royaume-Uni
+:imprime: 1970-02
+:source-bulletin: 1970/03
+:source-ocr-lines: 145-390
+:toclevels-pdf: 2
+:mn-document-class: oiml
+:mn-output-extensions: xml,html,pdf,rxl
+:imagesdir: images
+:local-cache-only:
+
+include::sections/00-front-matter.adoc[]
+
+include::sections/01-corps.adoc[]

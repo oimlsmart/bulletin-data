@@ -1,0 +1,17 @@
+[NOTE]
+====
+Secrétariat-rapporteur OIML : *U.R.S.S.*
+
+Adoptée par la *3ᵉ Conférence internationale de Métrologie légale* (octobre 1968).
+
+Numéro : N° 17.
+
+Imprimé : juillet 1970.
+
+Publié dans le Bulletin de l'OIML, 13ᵉ année, n° 51 (deuxième trimestre 1972).
+
+Cette Recommandation traite des manomètres/vacuomètres « indicateurs »
+(catégorie instruments de travail). Elle est apparentée à OIML R 5 (1964,
+provisoire, « catégorie appareils de travail » — voir <<r005-e64>>) mais
+s'applique à la « catégorie instruments de travail ».
+====

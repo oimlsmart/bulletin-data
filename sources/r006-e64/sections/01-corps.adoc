@@ -1,0 +1,241 @@
+== Divers types de manomètres
+
+Les manomètres des instruments de mesure de la tension artérielle soumis au
+contrôle doivent être de l'un des types suivants :
+
+=== Manomètre à liquide
+
+(a) manomètre à mercure.
+
+=== Manomètre à élément récepteur élastique de mesure
+
+(a) manomètre à ressort tubulaire ;
+(b) manomètre à ressort spiral ;
+(c) manomètre à membrane élastique ;
+(d) manomètre à capsule élastique ;
+(e) manomètre à corps creux élastique.
+
+Dans le cas de mesure à caractère oscillatoire sont seuls admis les
+manomètres à élément récepteur élastique de mesure.
+
+Chacun des modèles de chaque constructeur est individuellement soumis à
+l'approbation.
+
+== Unités
+
+L'unité de pression utilisée doit être le millibar
+(stem:[1~"mbar" = 100~"N/m"^2]).
+
+Jusqu'à une date qui reste à fixer par les divers États-membres, sont admises
+les graduations en Torr ou en mmHg
+(stem:[1~"Torr" = "pratiquement"~1~"mmHg" = 133,322~4~"N/m"^2 = 1,333~224~"mbar"]).
+
+== Matériaux autorisés
+
+Dans le cas des manomètres à mercure, les récipients, les tubes dans lesquels
+a lieu l'ascension du mercure et les éléments d'assemblage doivent être
+construits avec des matériaux qui n'exercent aucune action chimique sur le
+mercure et qui ne sont pas attaqués par celui-ci.
+
+Les tubes dans lesquels a lieu l'ascension du mercure doivent être réalisés
+en matériaux bien transparents.
+
+Dans le cas des manomètres à élément récepteur élastique de mesure, les
+éléments doivent être en une matière convenable (par ex. en alliage de cuivre
+ou en acier). Ils doivent avoir subi un vieillissement préalable suffisant.
+
+Les matériaux utilisés font l'objet d'un examen technique à l'occasion de
+l'approbation individuelle des modèles.
+
+== Forme
+
+=== Manomètres à mercure
+
+* Les deux branches des manomètres à mercure peuvent avoir la même section ou
+  des sections différentes (par ex. récipient avec tube pour l'ascension du
+  mercure).
+* Le diamètre intérieur de chacune des branches ne doit pas être inférieur à
+  stem:[4~"mm"].
+* Dans le cas où la lecture ne se fait que le long d'une seule branche,
+  chacune des 2 branches doit avoir une section constante le long de l'étendue
+  de mesure.
+
+== Détails de construction
+
+=== Manomètres à mercure
+
+Lorsque le réservoir des manomètres à mercure n'est pas d'une seule pièce,
+l'invariabilité de l'assemblage des divers éléments dans leurs positions
+respectives doit être assurée.
+
+=== Manomètres à élément récepteur élastique de mesure
+
+* Pour garantir l'étanchéité aux poussières, le mécanisme mesureur des
+  manomètres comportant des éléments récepteurs élastiques doit être recouvert
+  d'une enveloppe protectrice ne gênant pas la lecture des indications.
+* Si cette enveloppe comporte, pour permettre les lectures, une fenêtre
+  amovible, celle-ci doit être fixée de façon à empêcher son démontage de
+  l'extérieur et interdire ainsi l'accès au mécanisme mesureur.
+* Le cadran portant la graduation peut être réglable par rapport au zéro,
+  mais seulement d'une valeur ne dépassant pas les erreurs maximales tolérées
+  en service.
+* Pendant la mesure le cadran ne doit pas se déplacer de lui-même sous l'effet
+  de légères vibrations ou de légers chocs.
+
+== Graduation
+
+Les manomètres à mercure peuvent être gradués : en 2 ou 5 mbar ou en 2 ou
+5 mmHg.
+
+[cols="1,1", options="header"]
+|===
+|Valeur d'un échelon de graduation |Longueur minimale de l'échelon de graduation (entre-axes de deux repères consécutifs)
+
+|2 mbar  |0,75 mm
+|5 mbar  |1,87 mm
+|2 mmHg  |1 mm
+|5 mmHg  |2,5 mm
+|===
+
+Les manomètres à élément récepteur de mesure élastique peuvent être gradués
+en 2 ou 5 mbar ou en 2 ou 5 mmHg (mêmes longueurs minimales que ci-dessus).
+
+Les traits de la graduation doivent être nets et bien déliés. Les erreurs de
+tracé ne doivent pas être perceptibles à l'œil nu.
+
+L'épaisseur des traits ne doit pas excéder le cinquième de la longueur de
+l'échelon.
+
+Afin de faciliter la lecture, certains traits et au moins chaque cinquième
+trait doivent se distinguer des autres par une plus grande longueur. Parmi
+ces traits, chaque dixième trait peut avoir une longueur encore plus grande.
+
+Chaque dixième trait, au moins, doit être chiffré ; toutefois, cette
+chiffraison peut n'exister que pour chaque vingtième trait lorsque le dixième
+trait se distingue nettement des autres.
+
+Dans le cas des manomètres à mercure, lorsque la graduation n'est pas marquée
+sur le tube même d'ascension du mercure mais se trouve sur une échelle fixée
+le long de ce tube, cette échelle doit être disposée de façon à être visible
+de chaque côté de la colonne de mercure.
+
+Dans le cas de manomètres à élément récepteur élastique de mesure, l'aiguille
+mobile doit couvrir au moins un tiers et au plus les deux tiers de la longueur
+des traits les plus courts de la graduation. L'épaisseur de l'aiguille à son
+extrémité servant à la lecture ne doit pas être supérieure à celle des traits.
+
+== Inscriptions
+
+Le cadran, l'échelle ou l'enveloppe doivent porter les indications
+suivantes :
+
+* l'unité de pression employée en toutes lettres ou son symbole ;
+* le nom du constructeur ou sa marque ;
+* le numéro de fabrication ;
+* la désignation d'approbation.
+
+Dans le cas des manomètres à mercure à tube échangeable, l'enveloppe doit,
+en outre, porter l'indication du diamètre intérieur du tube et les tolérances
+de fabrication.
+
+Des inscriptions supplémentaires peuvent être autorisées lors de l'approbation
+individuelle des modèles d'instruments.
+
+== Erreurs maximales tolérées
+
+Lors de la vérification primitive et des vérifications périodiques des
+manomètres à mercure, les indications des appareils, pour chaque valeur de la
+pression comprise dans l'étendue de mesure, ne doivent pas présenter une
+erreur supérieure à :
+
+* stem:[+- 4~"mbar"] dans le cas des manomètres gradués en mbar ;
+* stem:[+- 3~"mmHg"] dans le cas des manomètres gradués en mmHg.
+
+Lors de la vérification primitive et des vérifications périodiques des
+manomètres à élément récepteur élastique de mesure, les indications des
+appareils, pour chaque valeur de la pression comprise dans l'étendue de
+mesure, ne doivent pas présenter une erreur supérieure à :
+
+* stem:[+- 6~"mbar"] dans le cas des manomètres gradués en mbar ;
+* stem:[+- 4,5~"mmHg"] dans le cas des manomètres gradués en mmHg.
+
+Les erreurs maximales tolérées doivent être respectées à toute température
+comprise entre stem:[+15~^circ"C"] et stem:[+25~^circ"C"].
+
+Les erreurs maximales tolérées ne doivent pas être dépassées aussi bien en
+pression croissante qu'en pression décroissante.
+
+Pour les manomètres à élément récepteur élastique de mesure, les différences,
+à pressions égales, entre les indications à pressions décroissantes et celles
+à pressions croissantes ne doivent pas être négatives et ne doivent pas
+dépasser les valeurs absolues des erreurs maximales tolérées pour ces
+appareils, et ce en aucun point de la graduation.
+
+Cette prescription doit être satisfaite même si, en pression croissante,
+l'on est arrivé à la pression indiquée par la valeur maximale de l'échelle et
+si l'on a maintenu cette pression pendant 20 minutes au maximum avant de
+commencer la baisse de pression (essai de déformation permanente ou
+d'hystérésis).
+
+Les erreurs maximales tolérées sur les instruments en service ne doivent pas
+dépasser 1,5 fois celles qui sont fixées aux points précédents. Elles doivent
+être respectées à toute température comprise entre stem:[+10~^circ"C"]
+et stem:[+45~^circ"C"].
+
+== Poinçonnage
+
+Le poinçon de vérification sera apposé sur un plomb :
+
+(a) dans le cas de manomètres à mercure, le poinçon doit interdire la
+séparation du réservoir et de son support ;
+
+(b) dans le cas des manomètres à élément récepteur élastique de mesure, le
+poinçon doit sceller l'enveloppe de l'instrument de façon à interdire
+efficacement l'accès au mécanisme.
+
+Le dispositif de plombage doit alors comporter des vis convenablement
+perforées.
+
+Si les protections exigées dans l'alinéa ci-dessus sont assurées par
+construction, le poinçon peut être appliqué simplement :
+
+(a) sur des endroits spécialement aménagés à cet effet ;
+
+(b) sur le réservoir des manomètres à mercure ;
+
+(c) sur la fenêtre en verre des manomètres à élément récepteur élastique de
+mesure.
+
+L'échelle des manomètres à mercure devra comporter un dispositif de
+poinçonnage supplémentaire si elle est amovible sans ce dispositif.
+
+Le cas échéant, des poinçons de sécurité supplémentaires peuvent être prévus.
+
+== Conditions de transport et d'emploi
+
+Les manomètres à mercure doivent être munis, dans le tube d'ascension du
+mercure et dans le récipient, de dispositifs d'arrêt convenablement aménagés
+pour empêcher tout renversement de mercure soit pendant le transport, soit au
+cours de l'utilisation de l'instrument.
+
+Le ralentissement provoqué à l'écoulement du mercure dans le tube d'ascension
+par ces dispositifs ne doit pas dépasser stem:[1,5~"s"] pour une chute
+de pression de stem:[250~"mbar"].
+
+Les qualités métrologiques des manomètres à élément récepteur élastique de
+mesure ne doivent pas être altérées par les transports et, pour assurer cette
+sécurité de transport, les modèles de ces manomètres doivent, dans un
+emballage normal, résister aux effets des facteurs suivants :
+
+(a) une température de l'air ambiant de stem:[-20~^circ"C"] et de
+stem:[+50~^circ"C"] pendant 6 heures à chacune de ces températures ;
+
+(b) des secousses d'accélération égale à stem:[30~"m/s"^2] et de
+fréquence 80-120 chocs par minute pendant 2 heures.
+
+Pendant l'utilisation des manomètres à mercure, les branches de ces appareils
+doivent être placées le plus près possible de la position verticale
+(inclinaison de moins de stem:[5^circ]) à moins que la construction du
+manomètre ne prévoie une inclinaison déterminée par rapport à la verticale.
+Dans ce dernier cas, les appareils doivent comporter un dispositif (par ex.
+un niveau à bulle d'air) permettant de contrôler leur position correcte.

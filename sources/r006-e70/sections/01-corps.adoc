@@ -1,0 +1,240 @@
+== Terminologie
+
+=== Étendue de la charge
+
+L'étendue de la charge d'un compteur de gaz est délimitée par le débit
+maximal stem:[Q_max] et le débit minimal stem:[Q_min].
+
+=== Volume cyclique d'un compteur volumétrique
+
+Le volume cyclique stem:[V] d'un compteur volumétrique est égal au volume de
+gaz correspondant au cycle de fonctionnement du compteur, c'est-à-dire à
+l'ensemble des mouvements des organes mobiles du compteur à la fin desquels
+tous ces organes, sauf le dispositif indicateur et les transmissions
+intermédiaires, reprennent la même position qu'à l'instant initial.
+
+Il est déterminé par calcul en multipliant la valeur du volume représenté par
+un tour complet de l'élément contrôleur par le rapport de transmission du
+dispositif mesureur au dispositif indicateur.
+
+=== Pression de fonctionnement
+
+La pression de fonctionnement d'un compteur de gaz est la différence entre la
+pression à l'entrée du compteur du gaz à mesurer et la pression
+atmosphérique.
+
+=== Absorption de pression
+
+L'absorption de pression d'un compteur de gaz est la différence entre les
+pressions mesurées à l'entrée et à la sortie du compteur pendant
+l'écoulement d'un gaz.
+
+=== Constante des commandes de sortie
+
+La constante d'une commande de sortie est la valeur du volume représenté par
+un tour complet de l'axe de cette commande ; cette valeur est déterminée par
+calcul en multipliant la valeur du volume représenté par un tour complet de
+l'élément contrôleur par le rapport de transmission du dispositif indicateur
+à cet axe.
+
+== Champ d'application
+
+La présente Recommandation s'applique aux compteurs de volume de gaz
+suivants :
+
+*Compteurs volumétriques* :
+
+* compteurs à garde liquide,
+* compteurs à parois déformables,
+* compteurs à pistons rotatifs.
+
+*Compteurs non volumétriques* :
+
+* compteurs à turbine.
+
+Elle fixe les prescriptions générales auxquelles doivent satisfaire tous ces
+compteurs. Des prescriptions spéciales fixeront des dispositions
+complémentaires pour les compteurs énumérés ci-dessus.
+
+== Construction
+
+=== Matériaux
+
+Les compteurs doivent être fabriqués en matériaux solides, sans tensions
+internes, se modifiant peu par vieillissement et suffisamment résistants à
+la corrosion et aux attaques des divers gaz normalement distribués.
+
+=== Étanchéité des enveloppes
+
+Les enveloppes des compteurs doivent être étanches à la pression maximale
+de fonctionnement des compteurs.
+
+=== Protection contre les interventions extérieures
+
+Les compteurs doivent être construits de telle façon que toute intervention
+susceptible d'influencer l'exactitude de mesurage soit impossible sans
+endommager des marques de vérification ou de protection.
+
+=== Sens d'écoulement du gaz
+
+Sur les compteurs dont le dispositif indicateur ne marque positivement que
+pour un seul sens d'écoulement du gaz, ce sens doit être indiqué par une
+flèche ; cette flèche n'est pas exigée si le sens d'écoulement du gaz est
+imposé par construction.
+
+Les prescriptions spéciales peuvent en outre imposer un dispositif empêchant
+le fonctionnement normal du dispositif mesureur lors de l'écoulement du gaz
+en sens inverse de celui prévu pour le mesurage.
+
+=== Qualités métrologiques
+
+À un débit égal à stem:[Q_max], un compteur doit pouvoir fonctionner en
+régime continu pendant un temps fixé par les prescriptions spéciales sans
+que les modifications de ses qualités métrologiques dépassent les limites
+fixées par ces prescriptions.
+
+== Dispositifs additionnels
+
+* Les compteurs peuvent être munis de dispositifs additionnels (de
+correction, enregistreur, indicateur supplémentaire, etc.) ; leur adjonction
+est soumise à la procédure d'approbation de modèle.
+* Les compteurs peuvent être munis d'axes de transmission spéciaux
+(commandes de sortie) sortant hors de l'enveloppe pour actionner un
+dispositif indicateur détachable, un dispositif à pré-paiement, ou tout
+autre dispositif additionnel.
++
+** Lorsque ces commandes ne sont pas utilisées, leur extrémité extérieure
+libre doit être protégée par un bouchon ou par un accessoire analogue
+pouvant être scellé.
+** Ces axes doivent porter la mention de la valeur de leur constante sous la
+forme : « stem:[1~"tr" ~ ... "m"^3] (ou
+stem:["dm"^3]) ».
+
+== Inscriptions
+
+Chaque compteur doit porter, groupées soit sur la plaque du dispositif
+indicateur, soit sur une plaque signalétique spéciale, les inscriptions
+suivantes :
+
+(a) le signe d'approbation du compteur ;
+
+(b) la marque de fabrique du constructeur ou sa raison sociale ;
+
+(c) le numéro du compteur et son année de fabrication ;
+
+(d) une désignation du compteur ; cette désignation a la forme de la lettre
+majuscule G, suivie d'un nombre qui est fixé par les prescriptions spéciales;
+
+(e) le débit maximal par la formule : stem:[Q_max ... "m"^3/"h"] ;
+
+(f) le débit minimal par la formule : stem:[Q_min ... "m"^3/"h"]
+(ou stem:["dm"^3/"h"]) ;
+
+(g) la pression maximale de fonctionnement par la formule :
+stem:[p ... "MN/m"^2] (ou stem:["N/m"^2] ou bar ou mbar) ;
+
+(h) pour les compteurs volumétriques, la valeur nominale du volume cyclique
+par la formule : stem:[V ... "m"^3] (ou stem:["dm"^3]) ;
+
+(i) éventuellement la désignation commerciale du compteur, un numéro d'ordre
+spécial et le nom du distributeur de gaz.
+
+Ces inscriptions doivent être directement visibles, facilement lisibles et
+indélébiles dans les conditions usuelles d'emploi des compteurs.
+
+Les prescriptions spéciales peuvent exiger d'autres indications, notamment la
+nature du gaz à mesurer.
+
+Sauf autorisation spéciale, toute autre indication ou inscription est
+interdite.
+
+== Dispositifs indicateurs et élément contrôleur
+
+=== Dispositif indicateur
+
+* Les dispositifs indicateurs doivent être composés de rouleaux ; toutefois
+le dernier élément peut faire exception à cette règle. Les rouleaux doivent
+être chiffrés en mètres cubes ou en multiples ou sous-multiples décimaux du
+mètre cube. Sur la plaque du dispositif indicateur doit figurer le symbole
+stem:["m"^3].
+* Dans le cas où le dispositif indicateur comprend des rouleaux chiffrés en
+sous-multiples décimaux du mètre cube : ces rouleaux doivent être séparés
+par une virgule bien apparente de ceux chiffrés en mètres cubes, et les
+décades après la virgule doivent se distinguer clairement de celles situées
+avant.
+* Dans le cas où le dernier rouleau est chiffré en un multiple décimal du
+mètre cube, la plaque du dispositif indicateur doit porter :
++
+(a) soit un (ou deux, ou trois, etc.) zéro fixe après le dernier rouleau,
++
+(b) soit l'indication « × 10 » (ou « × 100 », ou « × 1000 » etc.),
++
+de telle façon que la lecture se fasse toujours en stem:["m"^3].
+* Le dispositif indicateur doit avoir assez de rouleaux chiffrés pour
+pouvoir indiquer, à une unité près du dernier rouleau, le volume débité
+pendant une durée de fonctionnement de mille heures au débit maximal.
+
+=== Élément contrôleur
+
+* Les compteurs doivent être conçus de telle façon que la vérification puisse
+être effectuée avec une précision suffisante. À cette fin, ils doivent
+comporter de construction soit un élément contrôleur propre, soit des
+dispositifs permettant l'adjonction d'un élément contrôleur amovible.
+* L'élément contrôleur propre au compteur peut être constitué par le dernier
+élément du dispositif indicateur sous l'une des deux formes suivantes :
++
+(a) un rouleau à mouvement continu comportant une échelle chiffrée,
++
+(b) une aiguille se déplaçant devant un cadran fixe à échelle chiffrée, ou
+un disque à échelle chiffrée se déplaçant devant un repère fixe.
++
+** Sur les échelles chiffrées des éléments contrôleurs, l'unité de
+chiffraison doit être indiquée de façon claire et non ambiguë en
+stem:["m"^3] ou sous-multiples décimaux du stem:["m"^3]. Le début
+de l'échelle doit porter le chiffre zéro.
+** La longueur de l'échelon ne doit pas être inférieure à stem:[1~"mm"]
+et doit être constante sur toute l'étendue de l'échelle.
+** La valeur de l'échelon doit être de la forme stem:[1 xx 10^n],
+stem:[2 xx 10^n] ou stem:[5 xx 10^n] (stem:[n] étant un nombre
+entier, positif ou négatif ou nul).
+** Les traits de graduation doivent être fins et uniformément tracés.
++
+Dans le cas où la valeur de l'échelon est de la forme stem:[1 xx 10^n]
+ou stem:[2 xx 10^n], tous les traits de rang multiple de cinq, et, dans
+le cas où la valeur de l'échelon est de la forme stem:[5 xx 10^n], tous
+les traits de rang multiple de deux, doivent se distinguer par une plus
+grande longueur.
++
+L'index doit être suffisamment délié pour permettre une lecture sûre et
+facile.
+
+=== Diamètres des rouleaux et des cadrans
+
+* Le diamètre des rouleaux doit être au moins de stem:[16~"mm"].
+* Le diamètre des échelles chiffrées visées au § 5.2.2.(b) doit être au moins
+de stem:[32~"mm"].
+
+=== Lecture du dispositif indicateur
+
+Le dispositif indicateur doit être réalisé de façon que le principe de la
+lecture par simple juxtaposition soit respecté.
+
+=== Avancement des chiffres
+
+L'avancement de une unité d'un chiffre de rang quelconque doit se produire
+complètement pendant que le chiffre de rang immédiatement inférieur décrit
+le dernier dixième de sa course.
+
+=== Démontage du dispositif indicateur
+
+Les compteurs doivent être construits de telle façon que le dispositif
+indicateur puisse être facilement démonté lors d'une vérification.
+
+== Erreurs maximales tolérées
+
+Les erreurs de mesurage sont exprimées en valeur relative par le rapport
+(exprimé en pour cent) de la différence entre le volume indiqué et le volume
+ayant réellement passé par le compteur à ce dernier volume.
+
+Ces erreurs se rapportent au mesurage de volumes d'air ayant une masse
+volumique de référence de stem:[1,2~"kg/m"^3].

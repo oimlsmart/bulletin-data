@@ -1,0 +1,27 @@
+= Poids cylindriques de 1 gramme à 10 kilogrammes (de la classe de précision moyenne) — Édition 1970
+:docidentifier: OIML R 1
+:series: R
+:docnumber: 1
+:edition: 2
+:revdate: 1970-02
+:copyright-year: 1970
+:language: fr
+:title-main-fr: Poids cylindriques de 1 gramme à 10 kilogrammes (de la classe de précision moyenne)
+:title-main-en: Cylindrical weights from 1 g to 10 kg (medium accuracy class)
+:doctype: international-recommendation
+:docstage: 60
+:docsubstage: 60
+:adopted-conference: 3e Conférence internationale de Métrologie légale, octobre 1968
+:reporting-secretariat: Belgique
+:imprime: 1970-02
+:source-bulletin: 1970/01
+:source-ocr-lines: 87-260
+:toclevels-pdf: 1
+:mn-document-class: oiml
+:mn-output-extensions: xml,html,pdf,rxl
+:imagesdir: images
+:local-cache-only:
+
+include::sections/00-front-matter.adoc[]
+
+include::sections/01-corps.adoc[]

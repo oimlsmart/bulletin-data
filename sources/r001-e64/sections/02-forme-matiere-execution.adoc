@@ -1,0 +1,20 @@
+== Forme, matière constitutive et mode d'exécution
+
+=== Forme
+
+Forme cylindrique à bouton plat de préhension.
+
+=== Matière
+
+Toute matière d'une masse volumique de stem:[7~"g"] à stem:[9,5~"g"]
+par stem:["cm"^3], d'une dureté au moins égale à celle du laiton coulé,
+d'une corrodabilité et d'une friabilité au plus égales à celles de la fonte
+grise de fer, et d'un état de surface comparable à celui de la fonte grise
+de fer soigneusement coulée en moule de sable fin.
+
+La fonte grise de fer ne peut être utilisée pour les poids de valeur nominale
+inférieure à stem:[100~"g"].
+
+=== Mode d'exécution
+
+Tout mode d'exécution applicable à la matière choisie.

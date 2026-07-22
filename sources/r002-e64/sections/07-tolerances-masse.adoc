@@ -1,0 +1,13 @@
+== Tolérances sur la masse
+
+=== Erreurs maximales tolérées
+
+[%header,cols="1,1,1"]
+|===
+|Valeur nominale |en vérification primitive (mg) |en vérification périodique (mg)
+
+|5 kg  |+ 800 / − 0    |+ 800 / − 800
+|10 kg |+ 1600 / − 0   |+ 1600 / − 1600
+|20 kg |+ 3200 / − 0   |+ 3200 / − 3200
+|50 kg |+ 8000 / − 0   |+ 8000 / − 8000
+|===

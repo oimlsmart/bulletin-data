@@ -1,0 +1,243 @@
+== Domaine d'application
+
+Les présentes prescriptions s'appliquent à la vérification et à l'étalonnage
+des « blocs de référence de dureté » destinés au tarage des machines d'essai
+dans le système « Rockwell C » de la dureté des matériaux.
+
+== Chapitre A — Conditions de construction
+
+=== Matériaux
+
+Les blocs de référence doivent être en une matière dont l'homogénéité et la
+stabilité dans le temps (vieillissement) sont connues ;
+
+si cette matière est ferro-magnétique, les blocs doivent être démagnétisés.
+
+=== Forme
+
+* Les blocs doivent comporter deux faces planes et parallèles dont l'une
+  servira de face d'essai et l'autre de face d'appui.
+* Ils doivent avoir une épaisseur d'au moins stem:[6~"mm"].
+* Le parallélisme des deux faces doit être tel que l'épaisseur du bloc ne
+  varie pas de plus de stem:[0,010~"mm"] par stem:[50~"mm"] de
+  longueur dans tous les sens.
+* Les erreurs de planéité de chaque face ne doivent pas dépasser
+  stem:[0,005~"mm"].
+* La face d'essai doit avoir une rugosité ne dépassant pas
+  stem:[R_a = 0,3~mu"m"].
+
+Ces conditions ne sont pas exigées dans une marge de stem:[1~"mm"]
+bordant le pourtour du bloc.
+
+La face d'appui doit être finie par rectification fine.
+
+La face d'essai ne doit être entachée d'aucune détérioration ni d'aucun
+défaut susceptible de perturber la mesure des empreintes.
+
+=== Inscriptions
+
+Sur une des faces latérales de chaque bloc de référence, le fabricant doit
+indiquer :
+
+. son nom ou sa marque,
+. le numéro de fabrication,
+. le sigle *HRC* — indiquant qu'il s'agit d'un bloc de référence de dureté
+Rockwell C.
+
+Devant le sigle HRC doit être réservé un espace libre pour un nombre de 4
+chiffres permettant d'y inscrire l'indice de dureté trouvé lors de
+l'étalonnage.
+
+Les inscriptions ci-dessus doivent être apposées de telle façon que la face
+d'essai soit tournée vers le haut lorsque les lettres sont verticales en
+position normale de lecture.
+
+[NOTE]
+Une des faces latérales devra comporter un espace libre pour l'apposition du
+poinçon de vérification.
+
+== Chapitre B — Caractéristiques de dureté
+
+=== Indice de dureté
+
+L'indice HRC de dureté d'un bloc est caractérisé par la valeur moyenne
+arithmétique de 5 empreintes effectuées avec une machine d'essai étalon
+système Rockwell C, ces empreintes étant réparties uniformément sur toute la
+face d'essai.
+
+=== Fidélité de dureté
+
+La *fidélité de dureté* est caractérisée par la valeur exprimée en unités
+Rockwell de la différence entre la plus grande et la plus petite des
+profondeurs rémanentes des 5 empreintes.
+
+La *fidélité relative de dureté* est caractérisée par le rapport, exprimé en
+stem:[%], de la valeur définie ci-dessus caractérisant la fidélité de
+dureté à la valeur exprimée en unités Rockwell de la moyenne arithmétique
+des profondeurs rémanentes des 5 empreintes.
+
+La fidélité relative ne doit pas dépasser stem:[1,5%].
+
+=== Stabilité de dureté
+
+La stabilité dans le temps de la dureté de la matière constituant le bloc
+doit être telle que, pendant le délai de 2 ans séparant deux vérifications
+périodiques successives, l'indice de dureté du bloc ne varie pas de plus de
+stem:[+- 1,5%] par rapport à l'indice primitif déterminé lors du
+premier étalonnage.
+
+Dans le cas contraire, cette stabilité est insuffisante.
+
+== Chapitre C — Instructions sur l'étalonnage
+
+=== Étalonnage
+
+L'étalonnage des blocs de référence de dureté doit s'effectuer avec une
+machine d'essai étalon dans laquelle les forces d'appui et d'essai, la forme
+du pénétrateur, le dispositif de mesure de la profondeur des empreintes
+peuvent être contrôlés par des mesures directes.
+
+La force d'appui et la force d'essai doivent être appliquées au moyen de
+poids dont la masse est ajustée conformément aux valeurs de ces forces ;
+elles doivent être exactes à stem:[+- 0,1%] près.
+
+Les forces doivent être appliquées et retirées sans choc. Le mécanisme qui
+contrôle l'application doit comporter :
+
+(a) soit un système qui réduit la vitesse de pénétration ;
+
+(b) soit un système de régulation maintenant constante la vitesse de
+pénétration ;
+
+* dans les machines du premier type, la vitesse initiale du pénétrateur,
+  avant qu'il ne pénètre dans le bloc, ne doit pas dépasser
+  stem:[1~"mm/s"] ;
+* dans les machines du second type, la vitesse de pénétration doit être
+  comprise entre stem:[0,003] et stem:[0,012~"mm/s"].
+
+L'appareil de mesure de la profondeur des empreintes doit permettre de
+mesurer les déplacements verticaux du pénétrateur avec une précision de
+stem:[+- 0,1] unité Rockwell stem:[(+- 0,0002~"mm")].
+
+Le pénétrateur doit être en diamant, en forme de cône droit à base
+circulaire ; l'angle au sommet du cône doit être de stem:[120^circ] et ne
+pas s'écarter de cette valeur dans chaque plan de section axiale de plus de
+stem:[+- 0,1^circ] ;
+
+le sommet du cône doit être en forme de calotte sphérique de rayon
+stem:[0,2~"mm"] avec une précision de stem:[+- 0,002~"mm"]
+(tolérance de dimension et tolérance de forme) ; la surface conique doit se
+raccorder tangentiellement à la calotte sphérique.
+
+La surface doit être hautement polie et ne présenter aucun défaut ni
+fêlure.
+
+L'axe du cône doit coïncider avec l'axe du porte-pénétrateur à
+stem:[0,3^circ] près.
+
+Le pénétrateur doit être raccordé à la base internationale de référence pour
+la dureté Rockwell C par un essai de fonctionnement.
+
+=== Exécution de la mesure
+
+Les essais s'effectuent à la température de stem:[(20 +- 2)~^circ"C"]
+dans les climats tempérés et de stem:[(27 +- 2)~^circ"C"] dans les
+climats tropicaux.
+
+Procédure :
+
+. Appliquer la force d'appui, qui doit rester constante, pendant 10 à 20
+secondes, effectuer le plus rapidement possible la lecture initiale
+stem:[l_0] du dispositif de mesure des profondeurs (à stem:[+- 0,1]
+échelon).
+. Appliquer la force d'essai, qui doit rester constante, pendant 30 à 35
+secondes, retirer la force d'essai.
+. Effectuer le plus rapidement possible la lecture finale stem:[l] du
+dispositif de mesure des profondeurs (à stem:[+- 0,1] échelon près).
+
+L'indice de dureté est calculé d'après les indications de la machine d'essai
+étalon utilisé.
+
+== Chapitre D — Assujettissement aux contrôles métrologiques
+
+=== Contrôles métrologiques
+
+Lorsque dans un pays les blocs de référence de dureté sont soumis aux
+contrôles métrologiques de l'État, ces contrôles doivent comprendre, suivant
+la législation interne de ce pays, tout ou partie des contrôles ci-après :
+
+. *l'approbation de modèle* — chaque modèle de bloc de référence de dureté
+de chaque constructeur est soumis à la procédure d'approbation de modèle.
+Sans autorisation spéciale, aucune modification ne peut être apportée à un
+modèle approuvé.
+. *la vérification primitive et l'étalonnage* — les blocs de référence de
+dureté neufs doivent subir les épreuves de la vérification primitive à
+l'occasion de laquelle leur indice de dureté sera déterminé par étalonnage.
+. *des vérifications périodiques* — au cours desquelles il sera constaté que
+les blocs de référence ont conservé leurs qualités prescrites.
+
+Les modalités de ces contrôles seront fixées par les réglementations
+nationales de chaque pays.
+
+=== Marquage de l'indice de dureté
+
+L'indice de dureté déterminé lors de l'étalonnage sera inscrit par le Service
+de vérification et d'étalonnage à la place libre prévue devant le sigle HRC
+porté par une des faces latérales.
+
+=== Marques de contrôle
+
+. Une marque de contrôle constatant la vérification et l'étalonnage sera
+apposée dans l'espace laissé libre à cet effet sur une des faces latérales.
+. Une marque de sûreté sera de plus apposée sur la face d'essai en un
+emplacement tel qu'elle ne gêne pas l'utilisation du bloc mais que toutefois
+la face ne puisse ultérieurement être rectifiée sans que cette marque soit
+lésée.
+
+== Chapitre E — Emploi et conservation
+
+=== Emploi
+
+Seule la face d'essai doit être utilisée pour les empreintes.
+
+=== Conservation
+
+Les blocs de référence doivent être soigneusement conservés et protégés
+contre tous dommages ou détériorations aussi bien de leur face d'essai que
+de leur face d'appui.
+
+== Annexe — Exemple de fidélité requise
+
+(Voir Chapitre B)
+
+[cols="1,1,1", options="header"]
+|===
+|Moyenne des profondeurs rémanentes (unités Rockwell) |Indice de dureté HRC |Fidélité requise (unités Rockwell)
+
+|35 |65 |0,5 (1,5 %)
+|40 |60 |0,6
+|45 |55 |0,7
+|65 |35 |1,0
+|70 |30 |1,0
+|80 |20 |1,2
+|===
+
+[NOTE]
+====
+Formule :
+
+stem:["HRC" = 100 - e]
+
+où :
+
+* stem:[e] = moyenne arithmétique des profondeurs rémanentes de 5 empreintes,
+  exprimée en unités de l'échelle Rockwell stem:[(0,02~"mm")] ;
+* stem:[e] = profondeur rémanente, accroissement de l'enfoncement du
+  pénétrateur, restant sous la charge d'appui, après qu'il ait été soumis à
+  la charge d'essai ;
+
+les empreintes sont effectuées avec un pénétrateur conique en diamant sous
+une première charge d'appui de stem:[10~"kgf"] appliquée pendant
+stem:[10 - 20~"s"], ensuite augmentée d'une charge d'essai de
+stem:[140~"kgf"] appliquée pendant stem:[30 - 35~"s"].
+====

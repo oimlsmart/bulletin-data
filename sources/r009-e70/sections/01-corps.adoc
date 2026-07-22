@@ -1,0 +1,238 @@
+== Domaine d'application
+
+Les présentes prescriptions s'appliquent à la vérification et à l'étalonnage
+des « blocs de référence de dureté » destinés au tarage des machines d'essai
+dans le système « Brinell » de la dureté des matériaux.
+
+== Chapitre A — Conditions de construction
+
+=== Matériaux
+
+Les blocs de référence doivent être en une matière dont l'homogénéité et la
+stabilité dans le temps (vieillissement) sont connues ;
+
+si cette matière est ferro-magnétique, les blocs doivent être démagnétisés.
+
+=== Forme
+
+* Les blocs doivent comporter deux faces planes et parallèles dont l'une
+  servira de face d'essai et l'autre de face d'appui.
+* Leur épaisseur, la planéité et la rugosité de la face d'essai, le
+  parallélisme des deux faces doivent satisfaire aux conditions indiquées dans
+  le tableau ci-après.
+
+[cols="1,1,1,1,1", options="header"]
+|===
+|Diamètre nominal des billes pénétrateurs |Épaisseur minimale du bloc |Parallélisme des 2 faces (mm/50 mm) |Erreur maximale de planéité (face d'essai) |Rugosité maximum stem:[R_a]
+
+|10 mm  |16 mm     |0,05    |0,05 mm   |0,3 μm
+|5 mm   |12 mm     |0,025   |0,025 mm  |0,15 μm
+|< 5 mm |6 mm      |0,010   |0,005 mm  |0,15 μm
+|===
+
+Ces conditions ne sont pas exigées dans une marge de 1 mm bordant le
+pourtour du bloc.
+
+La face d'appui doit être finie par rectification fine.
+
+La face d'essai ne doit être entachée d'aucune détérioration ni d'aucun
+défaut susceptible de perturber la mesure des empreintes.
+
+=== Inscriptions
+
+Sur une des faces latérales de chaque bloc de référence le fabricant doit
+indiquer :
+
+. son nom ou sa marque ;
+. le numéro de fabrication ;
+. le sigle *HB* — indiquant qu'il s'agit d'un bloc de référence de dureté
+Brinell — suivi par : le diamètre en mm du pénétrateur, la valeur de la force
+d'essai et la valeur en secondes de la durée d'application de cette force.
+
+Devant le sigle HB doit être réservé un espace libre pour un nombre de 3
+chiffres permettant d'y inscrire l'indice de dureté trouvé lors de
+l'étalonnage.
+
+Les inscriptions ci-dessus doivent être apposées de telle façon que la face
+d'essai soit tournée vers le haut lorsque les lettres sont verticales en
+position normale de lecture.
+
+[NOTE]
+Une des faces latérales devra comporter un espace libre pour l'apposition du
+poinçon de vérification.
+
+== Chapitre B — Caractéristiques de dureté
+
+=== Indice de dureté
+
+L'indice HB de dureté d'un bloc est caractérisé par la valeur moyenne
+arithmétique de 5 ou 8 empreintes effectuées avec une machine d'essai étalon
+système Brinell :
+
+* 5 empreintes si la surface de la face d'essai est inférieure à
+  stem:[100~"cm"^2] ;
+* 8 empreintes si la surface de la face d'essai est supérieure à
+  stem:[100~"cm"^2] ;
+
+ces empreintes étant réparties uniformément sur toute la face d'essai.
+
+La détermination de cet indice s'effectuera en observant les conditions
+d'essai pour le diamètre de la bille, la valeur de la force d'essai et sa
+durée d'application indiquées sur le bloc.
+
+=== Fidélité de dureté
+
+La *fidélité de dureté* est caractérisée par la valeur exprimée en mm de la
+différence entre la moyenne des diamètres de la plus grande et la moyenne
+des diamètres de la plus petite des 5 ou 8 empreintes.
+
+La *fidélité relative de dureté* est caractérisée par le rapport exprimé en
+stem:[%] de la valeur définie ci-dessus caractérisant la fidélité de dureté à
+la valeur exprimée en mm de la moyenne arithmétique des moyennes des
+diamètres des 5 ou 8 empreintes.
+
+La fidélité relative de dureté ne doit pas dépasser :
+
+* stem:[2%] pour un indice de dureté inférieur ou égal à 225 ;
+* stem:[1%] pour un indice de dureté supérieur à 225.
+
+=== Stabilité de dureté
+
+La stabilité dans le temps de la dureté de la matière constituant le bloc
+doit être telle que, pendant le délai de 2 ans séparant deux vérifications
+périodiques successives, l'indice de dureté du bloc ne varie pas de plus de :
+
+* pour un indice inférieur ou égal à 225 : stem:[+- 2%] ;
+* pour un indice supérieur à 225 : stem:[+- 1%] ;
+
+par rapport à l'indice primitif déterminé lors du premier étalonnage. Dans
+le cas contraire, cette stabilité est insuffisante.
+
+== Chapitre C — Instructions sur l'étalonnage
+
+=== Étalonnage
+
+L'étalonnage des blocs de référence de dureté doit s'effectuer avec une
+machine d'essai étalon dans laquelle la force d'essai, la forme du
+pénétrateur, le dispositif de mesure des empreintes peuvent être contrôlés
+par des mesures directes.
+
+La force d'essai doit être appliquée au moyen de poids dont la masse est
+ajustée conformément aux valeurs de la force, elle doit être exacte à
+stem:[+- 0,1%] près.
+
+La force doit être appliquée et retirée sans choc. Le mécanisme qui en
+contrôle l'application doit être tel que la vitesse d'approche du
+pénétrateur (immédiatement avant son contact avec la face d'essai) ainsi que
+sa vitesse de pénétration soient inférieures à stem:[1~"mm/s"].
+
+Le microscope ou le projecteur du dispositif destiné à mesurer les empreintes
+doit être réglé de manière à produire un éclairement uniforme de toute
+l'étendue du champ de vision ainsi qu'un contraste maximal entre l'empreinte
+et la surface de la face d'essai.
+
+[cols="1,1,1", options="header"]
+|===
+|Diamètre nominal des billes pénétrateurs (mm) |Valeur de l'échelon de graduation du dispositif de mesure (mm) |Exactitude de la différence de lecture correspondant à 2 traits quelconques de l'échelle (mm)
+
+|5 et inférieur à 5 |0,001 |± 0,001
+|(autres)            |0,002 |± 0,002
+|===
+
+Les pénétrateurs doivent être des billes sphériques en acier trempé de
+dureté stem:[850~"HV"~10] au minimum ;
+
+le diamètre de ces billes ne doit pas s'écarter de plus de
+stem:[+- 0,001~"mm"] de leur diamètre nominal (tolérance de dimension).
+
+=== Exécution de la mesure
+
+Les essais s'effectuent à la température de stem:[(20 +- 2)~^circ"C"]
+dans les climats tempérés et de stem:[(27 +- 2)~^circ"C"] dans les
+climats tropicaux.
+
+Il est recommandé de faire mesurer chaque empreinte par au moins deux
+observateurs (dont on prend la moyenne des résultats).
+
+== Chapitre D — Assujettissement aux contrôles métrologiques
+
+=== Contrôles métrologiques
+
+Lorsque dans un pays les blocs de référence de dureté sont soumis aux
+contrôles métrologiques de l'État, ces contrôles doivent comprendre, suivant
+la législation interne de ce pays, tout ou partie des contrôles ci-après :
+
+. *l'approbation de modèle* — chaque modèle de bloc de référence de dureté de
+chaque constructeur est soumis à la procédure d'approbation de modèle. Sans
+autorisation spéciale, aucune modification ne peut être apportée à un modèle
+approuvé.
+. *la vérification primitive et l'étalonnage* — les blocs de référence de
+dureté neufs doivent subir les épreuves de la vérification primitive à
+l'occasion de laquelle leur indice de dureté sera déterminé par étalonnage.
+. *des vérifications périodiques* — au cours desquelles il sera constaté que
+les blocs de référence ont conservé leurs qualités prescrites.
+
+Les modalités de ces contrôles seront fixées par les réglementations
+nationales de chaque pays.
+
+=== Marquage de l'indice de dureté
+
+L'indice de dureté déterminé lors de l'étalonnage sera inscrit par le
+Service de vérification et d'étalonnage à la place libre prévue devant le
+sigle HB porté par une des faces latérales.
+
+=== Marques de contrôle
+
+. Une marque de contrôle constatant la vérification et l'étalonnage sera
+apposée dans l'espace laissé libre à cet effet sur une des faces latérales.
+. Une marque de sûreté sera de plus apposée sur la face d'essai en un
+emplacement tel qu'elle ne gêne pas l'utilisation du bloc mais que toutefois
+la face ne puisse ultérieurement être rectifiée sans que cette marque soit
+lésée.
+
+== Chapitre E — Emploi et conservation
+
+=== Emploi
+
+Seule la face d'essai doit être utilisée pour les empreintes.
+
+=== Conservation
+
+Les blocs de référence doivent être soigneusement conservés et protégés
+contre tous dommages ou détériorations aussi bien de leur face d'essai que de
+leur face d'appui.
+
+== Annexe — Exemple de fidélité requise
+
+(Voir Chapitre B — calcul de la fidélité requise selon les conditions d'essai.)
+
+[cols="1,1,1,1,1", options="header"]
+|===
+|Conditions d'essai (diamètre bille / force) |Moyenne arithmétique des diamètres moyens (mm) |Indice de dureté HB |Fidélité requise — différence max. entre diamètres moyens (mm) |Équivalence en dureté HB
+
+|10 mm / 3 000 kgf |3,05 |400 |0,030 (1%) |8
+|10 mm / 3 000 kgf |3,83 |250 |0,038       |5
+|10 mm / 3 000 kgf |5,88 |100 |0,118 (2%)  |4
+|5 mm / 750 kgf    |1,53 |400 |0,015 (1%)  |8
+|5 mm / 750 kgf    |1,92 |250 |0,019       |5
+|5 mm / 750 kgf    |2,94 |100 |0,058 (2%)  |4
+|2,5 mm / 187,5 kgf|0,76 |400 |0,008 (1%)  |8
+|2,5 mm / 187,5 kgf|0,96 |250 |0,009       |5
+|2,5 mm / 187,5 kgf|1,47 |100 |0,029 (2%)  |4
+|===
+
+[NOTE]
+====
+Formule :
+
+stem:[HB = (2 F) / (pi D (D - sqrt(D^2 - d^2)))]
+
+où :
+
+* stem:[d] = moyenne arithmétique, exprimée en mm, des diamètres moyens de 5
+  ou 8 empreintes,
+* stem:[F] = charge d'essai, exprimée en kilogrammes-force, appliquée pendant
+  un temps déterminé (ici 3 000 - 750 - 187,5 kgf appliqués pendant 30 - 35 s),
+* les empreintes sont effectuées avec un pénétrateur sphérique de diamètre
+  stem:[D] (ici 10-5-2,5 mm).
+====

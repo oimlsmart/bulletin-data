@@ -1,0 +1,21 @@
+[NOTE]
+====
+Cette deuxième édition de OIML R 4 a un *objet différent* de la première
+édition provisoire de 1964 (qui portait sur les instruments de pesage à
+indication discontinue — voir <<r004-e64>>).
+
+La numérotation OIML R 4 a été réaffectée à la 3ᵉ Conférence (1968) : le
+sujet « fioles jaugées en verre » remplace le sujet « erreurs maximales
+tolérées en vérification primitive sur les instruments de pesage à
+indication ou impression discontinue ».
+
+Secrétariat-rapporteur OIML : *République fédérale d'Allemagne*.
+
+Adoptée par la *3ᵉ Conférence internationale de Métrologie légale* (octobre 1968).
+
+Numéro : N° 4.
+
+Imprimé : février 1970.
+
+Publié dans le Bulletin de l'OIML, 11ᵉ année, n° 43 (troisième trimestre 1970).
+====

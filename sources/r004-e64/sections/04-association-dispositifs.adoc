@@ -1,0 +1,19 @@
+== Association d'un dispositif discontinu et d'un dispositif continu
+
+. Instrument comportant un dispositif à indication discontinue et un
+dispositif à indication continue associés, de même échelon.
+. Instrument comportant un dispositif à indication discontinue et un
+dispositif à indication continue associés, l'échelon du dispositif continu
+étant plus grand que celui du dispositif discontinu.
+
+Dans chacun de ces cas, les erreurs de chacun des dispositifs doivent être
+au plus égales aux erreurs maximales tolérées sur les instruments de pesage
+à indication continue ayant le même échelon que celui de chacun des deux
+dispositifs.
+
+De plus, dans le cas où l'erreur avant arrondissage du dispositif à
+indication discontinue et l'erreur sur le dispositif continu sont de signe
+contraire, la valeur absolue de leur « écart » doit être inférieure ou
+égale à la valeur absolue de l'erreur maximale tolérée, à la charge
+considérée, sur les instruments de pesage à indication continue de même
+échelon que le dispositif continu.

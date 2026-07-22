@@ -1,0 +1,44 @@
+= Poids parallélépipédiques de 5 à 50 kilogrammes (de la classe de précision moyenne)
+:docidentifier: OIML R 2
+:series: R
+:docnumber: 2
+:edition: 1
+:revdate: 1964-08
+:copyright-year: 1964
+:language: fr
+:title-main-fr: Poids parallélépipédiques de 5 à 50 kilogrammes (de la classe de précision moyenne)
+:title-main-en: Rectangular bar weights from 5 to 50 kg (medium accuracy class)
+:doctype: international-recommendation
+:docstage: 60
+:docsubstage: 60
+:provisional: true
+:adopted-conference: 2e Conférence internationale de Métrologie légale, Vienne, juin 1962
+:reporting-secretariat: Belgique
+:imprime: 1964-08
+:source-bulletin: 1964/02
+:source-ocr-lines: 493-699
+:toclevels-pdf: 1
+:mn-document-class: oiml
+:mn-output-extensions: xml,html,pdf,rxl
+:imagesdir: images
+:local-cache-only:
+
+include::sections/00-front-matter.adoc[]
+
+include::sections/01-valeurs-nominales.adoc[]
+
+include::sections/02-forme-matiere-execution.adoc[]
+
+include::sections/03-cavite-ajustage.adoc[]
+
+include::sections/04-poinconnage.adoc[]
+
+include::sections/05-indications-signes.adoc[]
+
+include::sections/06-tolerances-dimensionnelles.adoc[]
+
+include::sections/07-tolerances-masse.adoc[]
+
+include::sections/08-finition.adoc[]
+
+include::sections/09-plans.adoc[]

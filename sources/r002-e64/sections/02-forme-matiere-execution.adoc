@@ -1,0 +1,17 @@
+== Forme, matière constitutive et mode d'exécution
+
+=== Forme
+
+Forme parallélépipédique à poignée rigide de préhension non saillante.
+
+=== Matière utilisée
+
+Corps du poids :: fonte grise de fer.
+
+[NOTE]
+====
+Deux modèles de poignée sont prévus :
+
+* *Modèle 1* : poignée en tube en acier sans soudure de diamètre normalisé.
+* *Modèle 2* : poignée en fonte faisant corps avec le poids.
+====

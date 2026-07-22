@@ -1,0 +1,282 @@
+== Terminologie
+
+=== Livraison minimale
+
+La livraison minimale est le plus petit volume de liquide dont le mesurage
+soit autorisé.
+
+=== Volume cyclique
+
+Le volume cyclique est égal au volume de liquide correspondant au cycle de
+fonctionnement du dispositif mesureur, c'est-à-dire à l'ensemble des
+mouvements à la fin desquels tous les organes internes mobiles de ce
+dispositif mesureur reprennent, pour la première fois, la même position
+qu'à l'instant initial.
+
+=== Écart périodique
+
+L'écart périodique est la différence maximale existant, pendant
+l'accomplissement d'un cycle de fonctionnement, entre le volume engendré par
+le déplacement des organes mesureurs et le volume correspondant indiqué par
+l'indicateur, celui-ci étant relié sans jeu ou glissement au mesureur et de
+telle sorte qu'il indique à la fin du cycle et pour ce cycle un volume égal
+au volume cyclique ;
+
+cet écart peut être éventuellement réduit par la présence d'un correcteur
+approprié.
+
+=== Premier élément d'un dispositif indicateur
+
+Dans un dispositif indicateur comportant plusieurs éléments, l'élément qui
+porte l'échelle ayant la plus petite valeur d'échelon est appelé « premier
+élément ».
+
+== Champ d'application
+
+La présente Recommandation s'applique aux « compteurs volumétriques de
+liquides » (autres que l'eau) dans lesquels le liquide à mesurer provoque le
+mouvement de parois mobiles délimitant des chambres mesureuses qui
+permettent de mesurer de façon continue des volumes quelconques de ce
+liquide.
+
+L'expression « compteur » désigne un instrument composé uniquement d'un
+« dispositif mesureur » et d'un « dispositif indicateur ».
+
+Les dispositifs complémentaires des compteurs, ainsi que les ensembles de
+mesurage, feront l'objet de recommandations ultérieures.
+
+== Dispositifs indicateurs
+
+=== Dispositions générales
+
+* Le dispositif indicateur, qui peut comporter un ou plusieurs éléments
+mobiles, doit indiquer les volumes mesurés :
++
+** en centimètres cubes ou millilitres,
+** ou en décimètres cubes ou litres,
+** ou en mètres cubes,
++
+seules unités de volume autorisées pour les mesurages avec les compteurs.
+* La lecture des indications doit être sûre, facile et non ambiguë ; si le
+dispositif comporte plusieurs éléments, l'ensemble doit être réalisé de
+telle façon que la lecture du résultat de mesurage puisse se faire par
+simple juxtaposition des indications des différents éléments.
+* L'échelon du premier élément doit être de la forme :
+  stem:[1 * 10^n] ou stem:[2 * 10^n] ou stem:[5 * 10^n] unités
+  autorisées de volume.
+* La portée maximale de l'indicateur doit être de la forme :
+  stem:[1 * 10^n] ou stem:[2 * 10^n] ou stem:[5 * 10^n] unités
+  autorisées de volume.
+* Lorsque la graduation d'un élément est entièrement visible, la valeur d'un
+tour de cet élément doit être de la forme stem:[10^n] unités autorisées de
+volume ; cette règle ne s'applique cependant pas à l'élément qui correspond
+à la portée maximale de l'indicateur.
+* Sur un dispositif comportant plusieurs éléments, la valeur de chaque tour
+de la partie mobile des éléments dont la graduation est entièrement visible
+doit être égale à la valeur de l'échelon de l'élément suivant.
+
+=== Modes d'indication
+
+Un élément du dispositif indicateur peut être à indication continue ou
+discontinue, mais lorsque les éléments autres que le premier n'ont qu'une
+partie de leur échelle visible à travers des fenêtres, ces éléments doivent
+être à mouvement discontinu (le premier élément pouvant être à mouvement
+continu ou discontinu).
+
+* Un élément à mouvement continu doit comporter une échelle à traits et un
+  repère permettant de déterminer la valeur mesurée pour toute position
+  d'arrêt.
+* Lorsque cet élément est formé par une échelle circulaire fixe et une
+  aiguille indicatrice tournante, le sens de rotation de l'aiguille doit
+  être celui d'une horloge.
+* Dans un dispositif indicateur comportant plusieurs éléments, l'avancement
+d'un saut de chiffre d'un élément à mouvement discontinu, autre que le
+premier, doit se terminer lorsque l'élément précédent indique zéro. Cet
+avancement doit s'accomplir pendant que l'élément précédent effectue une
+fraction de sa révolution au plus égale à un dixième.
+* Si l'indication est donnée en chiffres alignés et si le mouvement du
+premier élément est discontinu, la présence d'un ou plusieurs zéros fixes
+à la droite de cet élément est autorisée.
+
+=== Échelles
+
+* Les traits des échelles doivent avoir tous la même épaisseur, constante le
+  long du trait, cette épaisseur ne doit pas excéder le quart de la longueur
+  d'échelon.
+* La distinction des traits correspondant à stem:[1 * 10^n],
+  stem:[2 * 10^n] ou stem:[5 * 10^n] unités autorisées de volume ne
+  doit être obtenue que par une différenciation de leur longueur.
+* La longueur d'échelon réelle ou optiquement agrandie ne doit pas être
+  inférieure à stem:[2~"mm"].
+* La hauteur réelle ou optiquement agrandie des chiffres ne doit pas être
+  inférieure à stem:[4~"mm"].
+* Lorsque le premier élément est à mouvement continu et qu'il comporte une
+  échelle mobile dont une partie seulement est visible à travers une
+  fenêtre : la longueur de cette fenêtre, dans le sens du déplacement de
+  l'échelle, doit être au moins égale à stem:[1,5] fois la distance entre
+  deux traits chiffrés consécutifs.
+
+=== Entraînement du dispositif indicateur
+
+L'entraînement du dispositif indicateur par le dispositif mesureur doit
+être sûr et durable et réalisé au moyen d'une liaison mécanique ou par
+l'intermédiaire d'un dispositif magnétique permanent.
+
+== Dispositifs de réglage
+
+* Les compteurs doivent comporter un dispositif de réglage permettant de
+modifier le rapport entre le volume indiqué et le volume réel de liquide
+qui a traversé le dispositif mesureur.
+* Lorsque ce dispositif de réglage modifie ce rapport d'une manière
+discontinue, les valeurs consécutives de ce rapport ne doivent pas différer
+de plus de stem:[0,002].
+* Le réglage par un canal de dérivation sur le dispositif mesureur est
+interdit.
+
+== Prescriptions spéciales relatives à la livraison minimale
+
+La livraison minimale doit être fixée de telle façon que l'erreur maximale
+tolérée sur cette livraison soit supérieure ou égale à chacune des valeurs
+suivantes :
+
+. (a) si le premier élément est à mouvement continu : le plus grand des
+volumes correspondant à stem:[2~"mm"] de son échelle ou à stem:[1/5]
+de la valeur de l'échelon de cette échelle ;
++
+(b) si le premier élément est à mouvement discontinu : le volume
+correspondant à 2 échelons.
+. deux fois l'écart périodique.
+. le volume qui, en service normal, correspond aux jeux ou glissements dans
+la transmission du mouvement du mesureur au premier élément du dispositif
+indicateur.
+
+Il doit en outre être tenu compte, si cela est nécessaire, de l'influence
+des organes complémentaires de l'ensemble de mesurage, selon des règles
+fixées par la Recommandation relative à ces ensembles.
+
+La valeur de la livraison minimale fixée compte tenu de l'application des
+règles ci-dessus doit être de la forme stem:[1 * 10^n] ou
+stem:[2 * 10^n] ou stem:[5 * 10^n] unités autorisées de volume.
+
+== Débit maximal, débit minimal
+
+* Le débit maximal et le débit minimal autorisés d'un compteur sont fixés
+par la décision d'approbation qui lui est relative, d'après les résultats
+obtenus au cours de l'étude préalable à cette approbation.
+* Le rapport entre le débit maximal et le débit minimal doit être :
+** au moins égal à 10 pour la généralité des compteurs ;
+** au moins égal à 5 pour les compteurs de gaz liquéfiés.
+* Le compteur doit pouvoir fonctionner au voisinage de son débit maximal
+pendant un temps déterminé, fixé par la décision d'approbation de modèle,
+sans que ses qualités métrologiques soient notablement altérées.
+
+== Influence de la nature du liquide, de la température et de la pression
+
+La décision d'approbation d'un compteur indiquera et fixera :
+
+* le ou les liquides au mesurage desquels ce compteur est destiné,
+* les limites de la température du liquide mesuré lorsque ces limites sont
+inférieures à stem:[-10~^circ"C"] ou supérieures à
+stem:[+50~^circ"C"],
+* la pression maximale à laquelle l'instrument peut fonctionner.
+
+Les modèles de compteurs soumis à approbation doivent être tels que les
+variations de leurs erreurs dues :
+
+* aux variations maximales des caractéristiques des liquides pouvant être
+mesurés,
+* aux variations maximales de la température des liquides,
+* aux variations maximales de la pression de fonctionnement,
+
+(ces variations restant dans les limites fixées par la décision d'approbation)
+ne dépassent pas, pour chacun de ces facteurs, la moitié des valeurs des
+erreurs maximales tolérées.
+
+== Erreurs maximales tolérées en vérification primitive sur un ensemble de mesurage
+
+Les erreurs maximales tolérées en vérification primitive sur un ensemble de
+mesurage (dans les conditions usuelles d'emploi et dans les limites
+d'utilisation précisées par la décision d'approbation de l'ensemble) sont
+fixées par le tableau ci-dessous :
+
+[cols="1,1", options="header"]
+|===
+|Quantités mesurées |Erreurs maximales tolérées
+
+|de stem:[0,02] à stem:[0,1] litre |stem:[+- 2~"ml"]
+|de stem:[0,1] à stem:[0,2]        |stem:[+- 2%] de la quantité mesurée
+|de stem:[0,2] à stem:[0,4]        |stem:[+- 4~"ml"]
+|de stem:[0,4] à 1                   |stem:[+- 1%] de la quantité mesurée
+|de 1 à 2                              |stem:[+- 10~"ml"]
+|2 litres ou plus                      |stem:[+- 0,5%] de la quantité mesurée
+|===
+
+Toutefois, l'erreur maximale tolérée sur la livraison minimale est le double
+de la valeur ci-dessus fixée pour la quantité correspondant à cette
+livraison, et par ailleurs, quelle que soit la quantité mesurée, l'erreur
+maximale tolérée n'est jamais inférieure à celle qui est ainsi tolérée sur
+la livraison minimale.
+
+En raison des difficultés particulières de contrôle, les erreurs maximales
+tolérées, lorsqu'elles s'appliquent :
+
+* à des ensembles de mesurage de gaz liquéfiés,
+* à des ensembles de mesurage de liquides mesurés à une température
+inférieure à stem:[10~^circ"C"] ou supérieure à
+stem:[+50~^circ"C"],
+* à des ensembles dont le débit minimal est au plus égal à un litre par
+heure,
+
+sont le double de celles prévues au tableau ci-dessus.
+
+Si, dans l'étendue de la charge de l'ensemble de mesurage, les erreurs dues
+aux variations de débit, lorsqu'on mesure une quantité déterminée, sont
+toutes dans le même sens, l'une de ces erreurs au moins doit être inférieure
+ou au plus égale à la plus grande des deux valeurs suivantes :
+
+* moitié des erreurs maximales tolérées fixées ci-dessus pour la quantité
+mesurée, ou
+* stem:[0,3%] de cette quantité mesurée.
+
+== Erreurs maximales tolérées sur un compteur
+
+Lors de son examen préalable à la vérification primitive de l'ensemble de
+mesurage auquel il est destiné.
+
+Lorsque la vérification primitive d'un ensemble de mesurage est précédée
+d'un examen préalable du compteur destiné à cet ensemble, et si le liquide
+utilisé lors de l'examen est le même que celui au mesurage duquel le compteur
+est destiné :
+
+les erreurs maximales tolérées sur le compteur lors de cet examen préalable
+sont égales à la plus grande des deux valeurs ci-après :
+
+* moitié des erreurs maximales tolérées fixées pour l'ensemble de mesurage,
+  ou
+* stem:[0,3%] de la quantité mesurée.
+
+Toutefois, si des difficultés particulières de contrôle empêchent
+l'application des règles ci-dessus, la décision d'approbation du modèle de
+ce compteur pourra majorer les erreurs maximales tolérées en examen préalable
+fixées ci-dessus jusqu'à celles fixées pour l'ensemble de mesurage.
+
+== Inscriptions
+
+Chaque compteur doit porter les mentions suivantes groupées :
+
+. soit sur le cadran du dispositif indicateur, soit sur une plaque
+signalétique :
++
+** le nom et l'adresse du fabricant ou sa marque de fabrique,
+** éventuellement, une désignation propre au fabricant,
+** un numéro d'identification et l'année de fabrication,
+** l'identification d'approbation,
+** la nature du ou des liquides mesurés et les limites de viscosité
+cinématique ou dynamique, lorsque la seule indication de la nature des
+liquides n'est pas suffisante pour caractériser leur viscosité,
+** le débit maximal et le débit minimal,
+** la pression maximale de fonctionnement,
+** l'intervalle de température dans le cas où le liquide peut être mesuré à
+une température inférieure à stem:[-10~^circ"C"] ou supérieure à
+stem:[+50~^circ"C"],
+** le volume cyclique.

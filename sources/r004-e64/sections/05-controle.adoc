@@ -1,0 +1,19 @@
+== Contrôle
+
+Le contrôle des instruments de pesage à indication discontinue peut être
+effectué, par l'un ou l'autre des deux procédés ci-après, suivant que l'on
+veut chiffrer les erreurs ou que l'on veut seulement s'assurer qu'elles
+sont dans les limites tolérées :
+
+. *À partir des erreurs avant arrondissage* : en déterminant l'erreur avant
+arrondissage sur la moyenne des deux indications différant d'un échelon
+correspondant à la charge la plus voisine de la charge d'essai qui donne
+lieu indifféremment à l'une ou l'autre de ces indications, et en comparant
+cette erreur aux erreurs maximales tolérées sur les instruments à
+indication continue.
+
+. *À partir des indications discontinues* : en s'assurant — sans avoir à
+chiffrer les erreurs avant arrondissage — que l'écart entre la charge
+d'essai et la charge voisine provoquant un changement d'indication d'un
+échelon est dans les limites des erreurs maximales tolérées sur les
+instruments à indication continue.

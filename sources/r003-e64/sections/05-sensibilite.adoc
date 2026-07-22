@@ -1,0 +1,11 @@
+== Sensibilité des instruments
+
+La sensibilité des instruments à équilibre non-automatique doit être telle
+que, à toutes charges, une surcharge égale à l'erreur maximale tolérée
+provoque un déplacement permanent de l'index indicateur d'équilibre au
+moins égal à 1/200 de la distance de cet index à son axe de rotation, sans
+être inférieur à 2 mm.
+
+La sensibilité des instruments gradués à équilibre automatique ou
+semi-automatique est pratiquement égale au quotient de la longueur de
+l'échelon par la valeur de celui-ci.

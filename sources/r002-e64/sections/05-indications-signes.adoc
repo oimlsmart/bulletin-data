@@ -1,0 +1,9 @@
+== Indications et signes distinctifs
+
+Les indications relatives à la valeur nominale du poids ainsi que la marque
+de fabrication figurent en creux ou en relief sur la face supérieure de la
+partie centrale du poids.
+
+La valeur nominale du poids doit être indiquée sous la forme :
+
+stem:[5~"kg", 10~"kg", 20~"kg", 50~"kg"]

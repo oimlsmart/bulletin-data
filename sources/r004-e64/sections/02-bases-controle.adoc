@@ -1,0 +1,94 @@
+== Bases du contrôle
+
+Considérations techniques et terminologiques.
+Détermination des erreurs.
+
+=== Fonctionnement d'un dispositif discontinu
+
+Lorsque, sur un instrument de pesage muni d'un dispositif à indication
+discontinue, la charge croît linéairement de façon continue : les
+indications progressent par paliers en sautant brusquement d'échelon en
+échelon et sont toujours exprimées en nombre entier d'échelons.
+
+Deux indications consécutives différant d'un échelon constituent deux
+valeurs approchées — arrondies, l'une par défaut, l'autre par excès —
+l'erreur d'arrondissage de valeur inconnue pouvant atteindre plus ou moins
+un demi-échelon — de toutes les charges comprises dans l'échelon (en
+supposant l'instrument de pesage et son indicateur parfaits par ailleurs).
+
+==== Fonctionnement aux changements d'indication
+
+Lorsque la charge en progressant arrive à la valeur qui donne lieu à un
+changement brusque d'échelon et si, pour cette charge, on fait alors
+fonctionner plusieurs fois le dispositif indicateur, on obtient,
+indifféremment et en nombres de fois sensiblement égaux, soit l'indication
+d'échelon inférieur, soit l'indication d'échelon supérieur.
+
+La moyenne de ces deux indications différant d'un échelon est, pour ces
+charges, débarrassée des erreurs d'arrondissage, celles-ci étant :
+
+* de zéro sur la moyenne,
+* de moins un demi-échelon sur l'indication la plus faible,
+* de plus un demi-échelon sur l'indication la plus forte.
+
+Cette moyenne est l'indication du dispositif discontinu avant arrondissage.
+
+===== Sur un instrument supposé parfait
+
+Dans l'hypothèse d'un instrument et d'un indicateur parfaits, la moyenne
+précitée est égale à la valeur de la charge qui donne lieu à un changement
+d'échelon.
+
+===== Sur un instrument réel
+
+Si l'instrument de pesage et son indicateur ne sont pas parfaits : la somme
+de leurs défauts propres est égale, à la charge donnant lieu à un changement
+d'indication, à la différence entre la moyenne des deux indications
+différant d'un échelon et la valeur de cette charge.
+
+On convient d'appeler cette quantité :
+
+« *ERREUR AVANT ARRONDISSAGE* » d'un instrument de pesage à indication
+discontinue (erreur due aux défauts de l'instrument, aux défauts du
+dispositif indicateur — mais non comprise l'erreur d'arrondissage).
+
+=== Fonctionnement d'un instrument réel aux charges ne donnant pas lieu à
+un changement d'indication
+
+==== Cas général
+
+Si l'on considère maintenant une charge quelconque, ne donnant pas lieu à
+changement d'indication, elle est toujours encadrée par deux charges
+différant d'un échelon donnant lieu chacune à un changement d'indication en
+remarquant que l'erreur avant arrondissage est pratiquement constante dans
+la zone de pesée d'infime étendue d'un échelon (sauf si cette charge
+nécessite une modification singulière des conditions d'équilibrage de
+l'instrument de pesage : manœuvre de masses additionnelles par exemple) il
+suffit de tenir compte, pour la charge considérée, de l'erreur correspondant
+à l'une des deux charges donnant lieu à un changement d'impression, de
+préférence la plus voisine.
+
+==== Cas particuliers
+
+De même, dans le cas de modification des conditions d'équilibrage de
+l'instrument de pesage, on doit tenir compte de l'erreur correspondant à la
+charge la plus voisine de la charge considérée qui, dans les mêmes
+conditions d'équilibrage, donne lieu à un changement d'indication.
+
+=== Conclusion
+
+==== Rattachement des dispositifs discontinus aux dispositifs continus
+
+Dans ces conditions, il est légitime d'assimiler, pour toutes charges, les
+« Erreurs avant arrondissage » des instruments de pesage à indication
+discontinue aux erreurs des instruments de pesage à indication continue
+ainsi qu'il est prévu à la section <<erreurs-maximales-tolerees>>.
+
+==== Erreur d'indication discontinue
+
+Il est rappelé que l'« erreur d'indication discontinue », différence obtenue
+en service courant entre l'indication discontinue correspondant à une
+certaine charge et cette charge, est égale à l'« erreur avant arrondissage »,
+augmentée ou diminuée d'une « erreur d'arrondissage » de valeur inconnue
+mais qui peut atteindre un demi-échelon (pour les charges donnant lieu à un
+changement d'indication).

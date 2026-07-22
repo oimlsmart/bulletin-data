@@ -1,0 +1,129 @@
+== Tableaux récapitulatifs des erreurs maximales tolérées en vérification primitive sur les instruments de pesage à indication continue de la classe de précision moyenne
+
+Il est donné ci-après, dans le même ordre que l'énoncé des prescriptions de
+la Recommandation, des tableaux récapitulatifs des erreurs maximales
+tolérées, tant dans le cas général que dans les divers cas particuliers.
+
+Pour les cas particuliers, les limites correspondant aux points singuliers
+de la courbe des erreurs maximales tolérées — 20 ou 50 et 500 ou 1000
+échelons — sont exprimées en fonction de la portée maximale des instruments
+considérés à partir du nombre d'« échelons de vérification » fixé par la
+Recommandation pour la graduation conventionnelle de ces instruments.
+
+=== Cas général
+
+Nombre d'échelons considéré = nombre réel d'échelons.
+
+Portée minimale = 50 échelons pour la généralité des instruments ; = 20
+échelons pour les instruments gradués à équilibre automatique ou
+semi-automatique, de portée maximale stem:[<= 30~"kg"].
+
+[cols="1,1,1", options="header"]
+|===
+| Charges croissantes | Charges décroissantes | Erreurs maximales tolérées en vérification primitive
+
+| stem:[20 " ou " 50d <= C <= 500d]
+| stem:[C <= 500d]
+| stem:[+- 0,5d]
+
+| stem:[500d < C <= 2000d]
+| stem:[500d < C <= 2000d]
+| stem:[+- 1d]
+
+| stem:[C > 2000d]
+| stem:[C > 2000d]
+| stem:[+- 1,5d]
+|===
+
+=== Instruments gradués à équilibre automatique ou semi-automatique
+
+==== A — Portée maximale inférieure à 2 kg, nombre d'échelons inférieur ou égal à 200
+
+Nombre d'échelons considéré = 200 échelons de vérification (de valeur
+1/200 de stem:[P_max]).
+Portée minimale = 20 échelons réels.
+
+[cols="1,1,1", options="header"]
+|===
+| Charges croissantes | Charges décroissantes | Erreurs maximales tolérées en vérification primitive
+
+| stem:[20d <= C <= P_max]
+| stem:[C <= P_max]
+| stem:[+- 0,5P_max/200]
+|===
+
+==== B — Portée maximale égale ou supérieure à 2 kg, nombre d'échelons inférieur à 500
+
+Nombre d'échelons considéré = 500 échelons de vérification (de valeur
+1/500 de stem:[P_max]).
+Portée minimale = 50 échelons réels pour les instruments de portée
+maximale > 30 kg ; = 20 échelons réels pour les instruments de portée
+maximale stem:[<= 30~"kg"].
+
+[cols="1,1,1", options="header"]
+|===
+| Charges croissantes | Charges décroissantes | Erreurs maximales tolérées en vérification primitive
+
+| stem:[20 " ou " 50d <= C <= P_max]
+| stem:[C <= P_max]
+| stem:[+- 0,5P_max/500]
+|===
+
+=== Instruments gradués à équilibre non-automatique, nombre d'échelons inférieur à 1 000
+
+Nombre d'échelons considéré = 1 000 échelons de vérification (de valeur
+1/1 000 de stem:[P_max]).
+Portée minimale = 50 échelons réels.
+
+[cols="1,1,1", options="header"]
+|===
+| Charges croissantes | Charges décroissantes | Erreurs maximales tolérées en vérification primitive
+
+| stem:[50d <= C <= 500P_max/1000]
+| stem:[C <= 500P_max/1000]
+| stem:[+- 0,5P_max/1000]
+
+| stem:[500P_max/1000 < C <= P_max]
+| stem:[500P_max/1000 < C <= P_max]
+| stem:[+- 1P_max/1000]
+|===
+
+=== Instruments non gradués
+
+==== A — Portée maximale inférieure à 2 kg
+
+Nombre d'échelons considéré = 1 000 échelons de vérification (de valeur
+1/1 000 de stem:[P_max]).
+Portée minimum = 50 échelons de vérification, soit stem:[50P_max/1000].
+
+[cols="1,1,1", options="header"]
+|===
+| Charges croissantes | Charges décroissantes | Erreurs maximales tolérées en vérification primitive
+
+| stem:[50P_max/1000 <= C <= 500P_max/1000]
+| stem:[C <= 500P_max/1000]
+| stem:[+- 0,5P_max/1000]
+
+| stem:[500P_max/1000 < C <= P_max]
+| stem:[500P_max/1000 < C <= P_max]
+| stem:[+- 1P_max/1000]
+|===
+
+==== B — Portée maximale égale ou supérieure à 2 kg
+
+Nombre d'échelons considéré = 2 000 échelons de vérification (de valeur
+1/2 000 de stem:[P_max]).
+Portée minimum = 50 échelons de vérification, soit stem:[50P_max/2000].
+
+[cols="1,1,1", options="header"]
+|===
+| Charges croissantes | Charges décroissantes | Erreurs maximales tolérées en vérification primitive
+
+| stem:[50P_max/2000 <= C <= 500P_max/2000]
+| stem:[C <= 500P_max/2000]
+| stem:[+- 0,5P_max/2000]
+
+| stem:[500P_max/2000 < C <= P_max]
+| stem:[500P_max/2000 < C <= P_max]
+| stem:[+- 1P_max/2000]
+|===

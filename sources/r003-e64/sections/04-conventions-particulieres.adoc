@@ -1,0 +1,51 @@
+== Conventions particulières
+
+=== Instruments de pesage gradués à équilibre automatique ou semi-automatique
+
+*Instruments de portée maximale inférieure à 2 kg* :
+
+* comportant un nombre d'échelons inférieur ou égal à 200 : pour leur
+  vérification, ces instruments sont considérés comme ayant 200 échelons de
+  vérification de valeur 1/200 de leur portée maximale ;
+* comportant un nombre d'échelons supérieur à 200 : pour leur vérification,
+  ces instruments sont considérés comme ayant leur nombre réel d'échelons.
+
+*Instruments de portée maximale égale ou supérieure à 2 kg* :
+
+* comportant un nombre d'échelons inférieur à 500 : pour leur vérification,
+  ces instruments sont considérés comme ayant 500 échelons de vérification
+  de valeur 1/500 de leur portée maximale ;
+* comportant un nombre d'échelons égal ou supérieur à 500 : pour leur
+  vérification, ces instruments sont considérés comme ayant leur nombre réel
+  d'échelons.
+
+*Portées minimales* :
+
+* pour les instruments de portée maximale inférieure ou égale à 30 kg, à
+  20 échelons réels ;
+* pour les instruments de portée maximale supérieure à 30 kg, à 50 échelons
+  réels.
+
+=== Instruments de pesage gradués à équilibre non-automatique
+
+*Instruments comportant un nombre d'échelons inférieur à 1 000* : pour leur
+vérification, ces instruments sont considérés comme ayant 1 000 échelons de
+vérification, de valeur 1/1 000 de la portée maximale.
+
+*Instruments comportant un nombre d'échelons égal ou supérieur à 1 000* :
+pour leur vérification, ces instruments sont considérés comme ayant leur
+nombre réel d'échelons.
+
+*Portées minimales* : dans les deux cas, à 50 échelons réels.
+
+=== Instruments de pesage non gradués
+
+*Instruments de portée maximale inférieure à 2 kg* : pour leur
+vérification, ces instruments sont considérés comme ayant 1 000 échelons de
+vérification, de valeur 1/1 000 de leur portée maximale. Portée minimale :
+50 échelons de vérification.
+
+*Instruments de portée maximale égale ou supérieure à 2 kg* : pour leur
+vérification, ces instruments sont considérés comme ayant 2 000 échelons de
+vérification, de valeur 1/2 000 de leur portée maximale. Portée minimale :
+50 échelons de vérification.

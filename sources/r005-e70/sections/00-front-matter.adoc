@@ -1,0 +1,20 @@
+[NOTE]
+====
+Cette deuxième édition de OIML R 5 a un *objet différent* de la première
+édition provisoire de 1964 (qui portait sur les manomètres/vacuomètres —
+voir <<r005-e64>>).
+
+La numérotation OIML R 5 a été réaffectée à la 3ᵉ Conférence (1968) : le
+sujet « compteurs de volume de liquides » remplace le sujet « manomètres à
+éléments récepteurs élastiques ».
+
+Secrétariat-rapporteur OIML : *France*.
+
+Adoptée par la *3ᵉ Conférence internationale de Métrologie légale* (octobre 1968).
+
+Numéro : N° 5.
+
+Imprimé : février 1970.
+
+Publié dans le Bulletin de l'OIML, 12ᵉ année, n° 45 (premier trimestre 1971).
+====

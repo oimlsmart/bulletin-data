@@ -1,0 +1,27 @@
+= Vérification et étalonnage des blocs de référence de dureté « Rockwell C »
+:docidentifier: OIML R 12
+:series: R
+:docnumber: 12
+:edition: 1
+:revdate: 1970-02
+:copyright-year: 1970
+:language: fr
+:title-main-fr: Vérification et étalonnage des blocs de référence de dureté « Rockwell C »
+:title-main-en: Verification and calibration of « Rockwell C » hardness reference blocks
+:doctype: international-recommendation
+:docstage: 60
+:docsubstage: 60
+:adopted-conference: 3e Conférence internationale de Métrologie légale, octobre 1968
+:reporting-secretariat: Autriche
+:imprime: 1970-02
+:source-bulletin: 1972/01
+:source-ocr-lines: 799-1030
+:toclevels-pdf: 2
+:mn-document-class: oiml
+:mn-output-extensions: xml,html,pdf,rxl
+:imagesdir: images
+:local-cache-only:
+
+include::sections/00-front-matter.adoc[]
+
+include::sections/01-corps.adoc[]
