@@ -16,3 +16,6 @@ sources/**/sections/*.html
 *.log
 *.abort
 .DS_Store
+_site/
+tmp/
+

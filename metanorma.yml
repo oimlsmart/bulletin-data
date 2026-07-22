@@ -1,0 +1,25 @@
+metanorma:
+  source:
+    files:
+      - sources/r001-e64/document.adoc
+      - sources/r001-e70/document.adoc
+      - sources/r002-e64/document.adoc
+      - sources/r002-e70/document.adoc
+      - sources/r003-e64/document.adoc
+      - sources/r004-e64/document.adoc
+      - sources/r004-e70/document.adoc
+      - sources/r005-e64/document.adoc
+      - sources/r005-e70/document.adoc
+      - sources/r006-e64/document.adoc
+      - sources/r006-e70/document.adoc
+      - sources/r007-e64/document.adoc
+      - sources/r008-e64/document.adoc
+      - sources/r009-e70/document.adoc
+      - sources/r010-e70/document.adoc
+      - sources/r011-e70/document.adoc
+      - sources/r012-e70/document.adoc
+      - sources/r017-e70/document.adoc
+      - sources/INDEX.adoc
+  collection:
+    name: "OIML Bulletin Extracted Publications"
+    organization: "International Organization of Legal Metrology (OIML)"
