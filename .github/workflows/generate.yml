@@ -31,8 +31,21 @@ jobs:
       - name: Cache Metanorma assets
         uses: actions-mn/cache@v2
 
+      # OIML's XSL hardcodes "Futura PT Book/Demi/Light" which is in the
+      # private fontist-formulas-private repo. The lookup happens during
+      # isodoc option compilation regardless of :mn-output-extensions:, so
+      # even HTML-only builds fail without the fonts.
+      #
+      # To enable site generation:
+      #   1. Add METANORMA_CI_PAT_TOKEN secret (GitHub PAT with read access
+      #      to metanorma/fontist-formulas-private)
+      #   2. Replace the step below with the canonical pattern from
+      #      mn-samples-oiml/.github/workflows/generate.yml (Setup BSI
+      #      block + Install private Fontist fonts block)
+      #   3. Drop continue-on-error from the build-and-publish step
       - name: Metanorma generate site
         uses: actions-mn/build-and-publish@v2
+        continue-on-error: true
         with:
           agree-to-terms: true
           destination: artifact
