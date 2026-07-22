@@ -1,0 +1,41 @@
+name: generate
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: metanorma/metanorma:latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Metanorma with oiml flavor
+        uses: actions-mn/setup@v3
+        with:
+          installation-method: gem
+          extra-flavors: oiml
+
+      - name: Cache Metanorma assets
+        uses: actions-mn/cache@v2
+
+      - name: Metanorma generate site
+        uses: actions-mn/build-and-publish@v2
+        with:
+          agree-to-terms: true
+          destination: artifact
+          artifact-name: bulletin-sources
+          continue-without-fonts: true
