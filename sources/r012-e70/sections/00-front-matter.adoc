@@ -1,0 +1,21 @@
+[NOTE]
+====
+Cette Recommandation est *conforme en ce qui concerne les prescriptions
+techniques aux Normes correspondantes de l'Organisation internationale de
+Normalisation* (ISO).
+
+Secrétariat-rapporteur OIML : *Autriche*.
+
+Adoptée par la *3ᵉ Conférence internationale de Métrologie légale* (octobre 1968).
+
+Numéro : N° 12.
+
+Imprimé : février 1970.
+
+Publié dans le Bulletin de l'OIML, 13ᵉ année, n° 50 (premier trimestre 1972).
+
+La structure est parallèle à celle de OIML R 9 (Brinell) : Chapitre A
+(conditions de construction), B (caractéristiques de dureté), C
+(instructions sur l'étalonnage), D (assujettissement aux contrôles
+métrologiques), E (emploi et conservation).
+====

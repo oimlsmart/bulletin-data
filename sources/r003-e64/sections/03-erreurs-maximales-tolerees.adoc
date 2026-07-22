@@ -1,0 +1,27 @@
+== Erreurs maximales tolérées en vérification primitive — Portées minimales
+
+Les erreurs maximales tolérées en vérification primitive sur les instruments
+de pesage à indication continue, de la classe de précision moyenne, sont
+fixées comme suit, en fonction de l'échelon stem:[d], échelon réel ou
+échelon de vérification, de leur graduation réelle ou conventionnelle
+(l'instrument étant réglé à zéro pour une charge nette nulle) :
+
+* pour les charges croissantes comprises entre la portée minimale incluse
+  et stem:[500d] inclus et pour les charges décroissantes comprises entre
+  stem:[500d] inclus et zéro : l'erreur maximale tolérée est de
+  stem:[+- 0,5d] ;
+* pour les charges croissantes ou décroissantes comprises entre stem:[500d]
+  exclu et stem:[2000d] inclus : l'erreur maximale tolérée est de
+  stem:[+- 1d] ;
+* pour les charges croissantes ou décroissantes supérieures à stem:[2000d] :
+  l'erreur maximale tolérée est de stem:[+- 1,5d].
+
+Les portées minimales sont fixées :
+
+* *normalement*, pour la généralité des instruments à stem:[50d] — charge à
+  partir de laquelle l'erreur maximale tolérée de stem:[+- 0,5d] est
+  comprise, en valeur relative, entre stem:[+- 1%] de la charge pesée ;
+* *conventionnellement*, pour certains instruments à stem:[20d] — charge à
+  partir de laquelle l'erreur maximale tolérée de stem:[+- 0,5d] est
+  comprise, en valeur relative, entre stem:[+- 2,5%] de la charge
+  pesée.

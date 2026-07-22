@@ -1,1 +1,18 @@
 # (none currently — all PDFs split into parts under 100MB)
+
+# Metanorma build outputs under sources/
+sources/**/document.html
+sources/**/document.pdf
+sources/**/document.pdf.err
+sources/**/document.xml
+sources/**/document.xml.abort
+sources/**/document.presentation.xml
+sources/**/document.rxl
+sources/**/document.err.html
+sources/**/document.asciidoc.log.txt
+sources/**/document.asciidoc.log*.txt
+sources/**/relaton/
+sources/**/sections/*.html
+*.log
+*.abort
+.DS_Store

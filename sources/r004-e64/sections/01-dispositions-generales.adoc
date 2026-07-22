@@ -1,0 +1,86 @@
+== Dispositions générales
+
+=== Champ d'application de la Recommandation
+
+La présente Recommandation s'applique à tous les instruments de pesage de la
+classe de précision moyenne susceptibles d'être utilisés dans le commerce et
+l'industrie pour la pesée de charges au repos ou, dans quelques cas, en
+mouvement lent, qu'ils soient à équilibre automatique ou non-automatique,
+gradués ou non gradués, et dont les résultats sont donnés par un dispositif
+à indication ou impression discontinue (ces instruments pouvant aussi par
+ailleurs comporter un dispositif à indication continue).
+
+=== Valeur de l'échelon d'indication ou d'impression discontinue
+
+La valeur en unités de masse de l'échelon dépend du système d'unités de
+mesure utilisé.
+
+Lorsque l'instrument comporte, en plus du dispositif à indication
+discontinue, un dispositif à indication continue, l'échelon de celui-ci
+doit être exprimé dans la même forme que l'échelon discontinu et doit lui
+être égal ou supérieur.
+
+=== Tarage à charge nulle
+
+Le tarage à charge nulle de l'instrument de pesage doit, dans tous les cas,
+pouvoir être contrôlé à l'aide d'un dispositif indicateur de zéro montrant,
+de manière sûre, la position d'équilibre à charge nulle du dispositif
+équilibreur.
+
+Le dispositif indicateur de zéro peut être constitué :
+
+* soit par un dispositif à indication discontinue spécial fonctionnant autour
+  du zéro et suffisamment sensible ;
+* soit par un dispositif à indication continue spécial fonctionnant autour
+  du zéro ;
+* soit, lorsque l'instrument de pesage comporte à la fois un dispositif à
+  indication discontinue et un dispositif à indication continue général, par
+  ce dernier dispositif à indication continue.
+
+=== Calage au zéro du dispositif discontinu
+
+Par rapport au dispositif indicateur de zéro ou, s'il y a lieu, par rapport
+au dispositif à indication continue général.
+
+La liaison entre le dispositif discontinu et l'indicateur de zéro et, s'il
+y a lieu, le dispositif continu général, doit être réglée et rendue
+indéréglable, de telle sorte que, à charge nulle, l'indicateur de zéro ou
+l'indicateur continu étant à zéro, le dispositif discontinu donne comme
+résultat, ou bien zéro, ou bien un échelon d'indication ou d'impression
+discontinue lorsque l'on place sur l'instrument de pesage une charge
+équivalant à un demi-échelon d'impression ou d'indication discontinue.
+
+=== Modalités d'indication ou d'impression
+
+==== Principes généraux
+
+Tout dispositif indicateur ou imprimeur discontinu doit respecter le
+principe de lecture par « simple juxtaposition », c'est-à-dire que la
+lecture de la masse pesée devra toujours pouvoir s'effectuer directement
+sans nécessiter d'addition.
+
+Le dispositif d'impression doit imprimer non seulement le résultat mais
+aussi le symbole légal de l'unité de masse utilisée ; ce symbole doit être
+également indiqué sur l'instrument de pesage.
+
+==== Sécurité d'impression
+
+Tout dispositif d'impression doit comporter un dispositif de sécurité
+interdisant l'impression hors de la position réelle d'équilibre.
+
+Dans certains cas, on peut estimer convenable un simple dispositif
+retardateur d'impression, si le retard permet d'assurer une impression
+correcte, même lorsque cette impression est commandée dès le dépôt de la
+charge sur l'instrument.
+
+==== Impossibilité d'exécuter sans manœuvre spéciale deux impressions
+consécutives d'une même charge
+
+L'obtention d'un deuxième résultat imprimé pour une même charge doit
+nécessiter la remise en marche du dispositif imprimeur lié au dispositif
+équilibreur.
+
+==== Non impression entre zéro et la portée minimale
+
+Dans certains cas, l'impression ne doit pas être possible entre zéro et la
+portée minimale.

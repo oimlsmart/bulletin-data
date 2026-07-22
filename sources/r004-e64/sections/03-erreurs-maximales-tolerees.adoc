@@ -1,0 +1,9 @@
+[[erreurs-maximales-tolerees]]
+== Erreurs maximales tolérées
+
+=== Valeurs limites
+
+Les « erreurs avant arrondissage » d'un instrument de pesage à indication
+discontinue doivent être au plus égales aux erreurs maximales tolérées, aux
+charges correspondantes, sur un instrument de pesage à indication continue
+de même échelon (voir OIML R 3, édition 1964).

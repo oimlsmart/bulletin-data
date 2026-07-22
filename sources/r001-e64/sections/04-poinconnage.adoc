@@ -1,0 +1,7 @@
+== Poinçonnage
+
+La marque légale de poinçonnage (ou poinçon) est frappée sur la pastille de
+plomb scellant le bouchon de fermeture de la cavité d'ajustage.
+
+Les poids ne comportant pas de cavité d'ajustage sont poinçonnés sur la base
+du poids.

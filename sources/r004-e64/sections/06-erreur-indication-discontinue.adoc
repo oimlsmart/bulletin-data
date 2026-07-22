@@ -1,0 +1,15 @@
+== Erreur d'indication discontinue
+
+Différence entre l'indication obtenue pour une certaine charge et la valeur
+réelle de cette charge.
+
+Les erreurs avant arrondissage d'un instrument de pesage à indication
+discontinue doivent respecter les règles relatives aux erreurs maximales
+tolérées sur les instruments de pesage à indication continue.
+
+En conséquence, et du fait de l'erreur supplémentaire d'arrondissage, les
+instruments de pesage à indication discontinue peuvent être entachés
+d'erreurs supérieures à celles des instruments de pesage à indication
+continue de même échelon. Ces erreurs supplémentaires d'arrondissage sont
+variables et peuvent atteindre (pour les charges donnant lieu à un
+changement d'impression) plus ou moins un demi-échelon.

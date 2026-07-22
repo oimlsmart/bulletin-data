@@ -1,0 +1,34 @@
+== Bases de la réglementation
+
+L'erreur maximale tolérée, sur une charge donnée, est fixée indépendamment
+du principe de fonctionnement de l'instrument utilisé, que l'instrument
+soit à équilibre automatique ou non-automatique, gradué ou non-gradué.
+
+L'échelon stem:[d] de la graduation réelle ou conventionnelle des
+instruments de pesage doit être indicatif de la précision. Il s'ensuit que
+les erreurs maximales tolérées doivent être de l'ordre de grandeur de
+l'échelon afin d'interdire l'emploi d'échelons fallacieux, sans aucun
+rapport avec la précision réelle des instruments.
+
+La valeur de l'échelon devenant ainsi indicative de la précision des
+instruments, la pesée d'une même charge sur des instruments ayant le même
+échelon doit avoir la même précision. Ceci conduit à définir les erreurs en
+nombre d'échelons et en fonction des charges, elles-mêmes exprimées aussi
+en nombre d'échelons.
+
+La valeur en unités de masse de l'échelon dépend du système d'unités de
+mesure utilisé.
+
+Les erreurs maximales tolérées s'entendent en plus et en moins, les
+instruments étant dans tous les cas réglés à zéro pour une charge nette
+nulle.
+
+Afin que l'erreur relative ne soit pas exagérée aux faibles charges, il est
+fixé une « portée minimale » au-dessus de laquelle les résultats des pesées
+ne sont pas entachés — en restant dans les limites des erreurs maximales
+tolérées — d'une erreur relative supérieure à un pourcentage déterminé des
+charges pesées.
+
+Ces règles doivent s'appliquer, non seulement à la pesée courante des
+charges brutes mais aussi à la pesée de ces charges effectuées en variant
+leur disposition sur le récepteur de charge ou leur mode d'équilibrage.

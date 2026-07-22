@@ -1,0 +1,365 @@
+== Domaine d'application
+
+La présente Recommandation prescrit les caractéristiques métrologiques
+principales auxquelles doivent satisfaire les manomètres, les vacuomètres,
+les manovacuomètres à éléments récepteurs élastiques et à indications
+directes — destinés à la mesure des surpressions, des pressions
+vacuométriques ou bien à la fois des surpressions et des pressions
+vacuométriques des liquides, des vapeurs et des gaz.
+
+Elle s'applique, parmi les appareils de la « catégorie de travail », à ceux
+qui :
+
+* d'une part, sont basés sur l'utilisation, sans dispositif auxiliaire, des
+  déplacements des parties mobiles de leur mécanisme de mesure sous l'effet
+  de la pression pour donner des indications lues directement ;
+* d'autre part, ont des limites supérieures de mesure comprises entre
+  stem:[0,06] et stem:[1000] méganewtons par mètre carré.
+
+== Termes spéciaux employés dans le document
+
+=== Élément récepteur élastique
+
+Élément de l'appareil (par exemple tube manométrique, membrane, soufflet)
+qui, sous l'influence de la pression mesurée, subit une déformation
+élastique se transformant à l'aide d'un équipage mobile en un déplacement
+d'une aiguille devant une graduation.
+
+=== Surpression
+
+Pression égale à la différence entre la pression absolue et une certaine
+pression de référence.
+
+=== Pression vacuométrique
+
+Pression égale à la différence entre une certaine pression de référence et
+la pression absolue.
+
+=== Pression barométrique
+
+Pression absolue de l'atmosphère.
+
+[NOTE]
+Pour les appareils auxquels s'applique la présente Recommandation, la
+surpression et la pression vacuométrique ont des valeurs positives et la
+pression de référence est la pression barométrique au lieu où s'effectue la
+mesure.
+
+=== Pression stable
+
+Pression qui ne varie pas ou qui varie lentement de façon continue avec des
+vitesses instantanées ne dépassant pas stem:[1%] par seconde de la somme
+des limites de mesure de l'appareil, la variation totale de pression en une
+minute ne dépassant toutefois pas stem:[5%] de cette somme des limites de
+mesure.
+
+=== Pression variable
+
+Pression qui augmente et diminue de façon continue ou discontinue suivant
+n'importe quelle loi périodique ou non à une vitesse comprise entre
+stem:[1%] et stem:[10%] par seconde de la somme des limites de mesure
+de l'appareil.
+
+=== Conditions normales
+
+Ensemble des conditions suivantes :
+
+. Position de travail de l'appareil dans laquelle le cadran se trouve
+vertical.
+. Changement lent et continu de la pression excluant l'influence des forces
+d'inertie.
+. Température de l'appareil et de l'air ambiant égale à stem:[+20~^circ"C"]
+avec une approximation telle que l'écart de température par rapport à
+stem:[+20~^circ"C"] n'entraîne pas un changement des indications
+dépassant 1/4 de l'erreur maximale tolérée.
+. Absence de vibrations ou de secousses, ou s'il existe de légères vibrations
+ou secousses, celles-ci ne doivent pas entraîner une amplitude d'oscillations
+de l'aiguille dépassant 1/10 de la longueur de l'échelon.
+. Suppression de l'influence de la pression statique de la colonne de liquide
+(si la pression est transmise par un liquide).
+. Dans les appareils dont les limites supérieures de mesure ne dépassent pas
+stem:[0,25~"MN/m"^2] ou stem:[2,5~"kgf/cm"^2], le milieu qui
+transmet la pression doit être un gaz neutre (ou non agressif).
+. Dans les appareils dont les limites supérieures dépassent stem:[0,25~"MN/m"^2]
+ou stem:[2,5~"kgf/cm"^2], le milieu qui transmet la pression doit être
+un liquide.
+
+=== Conditions nominales
+
+Ensemble des conditions normales et de certaines dispositions pouvant être
+marquées sur l'appareil, ces dispositions pouvant compléter les conditions
+normales ou remplacer certaines d'entre elles, en fixant notamment :
+
+. une position de travail de l'appareil pour laquelle le cadran n'est pas
+vertical ;
+. des températures de l'appareil et de l'air ambiant différentes de
+stem:[+20~^circ"C"] ;
+. la pression statique de la colonne du liquide qui est prise en
+considération lors de l'étalonnage de l'appareil ;
+. le milieu qui transmet la pression s'il diffère de celui prescrit.
+
+=== Erreur maximale tolérée en service
+
+La plus grande des erreurs tolérées sur les indications des appareils en
+service dans les conditions nominales.
+
+=== Erreur maximale tolérée à la mise en fonctionnement ou après réparation
+
+La plus grande des erreurs tolérées dans les conditions nominales prévues
+pour la vérification des appareils neufs ou rajustés.
+
+=== Désignation de la classe de précision des appareils
+
+Nombre exprimant en stem:[%] de la somme des limites de mesure la valeur
+absolue de l'erreur maximale tolérée en service.
+
+== Unités de mesure de la pression
+
+Conformément au Système International d'Unités (SI), l'unité de mesure de la
+pression est le newton par mètre carré dont le symbole est stem:["N/m"^2].
+
+Pour la graduation des échelles des manomètres, vacuomètres et
+manovacuomètres, on peut employer les multiples de cette unité, par
+exemple :
+
+* le méganewton par mètre carré stem:[("MN/m"^2)] ;
+* le bar stem:[("bar")] ; stem:[1~"bar" = 10^5~"N/m"^2] ;
+* le millibar stem:[("mbar")] ; stem:[1~"mbar" = 10^2~"N/m"^2].
+
+À titre transitoire, il est aussi permis d'employer comme unités de
+pression :
+
+* le kilogramme-force par centimètre carré stem:[("kgf/cm"^2)] ;
+* ou le kilopond par centimètre carré stem:[("kp/cm"^2)] ;
+
+stem:[1~"kgf/cm"^2 = 1~"kp/cm"^2 = 98066,5~"N/m"^2 = 0,980665~"bar"].
+
+Dans des cas spéciaux, il est permis d'employer pour les vacuomètres :
+
+* le Torr ou le mmHg
+  (stem:[1~"mmHg" = "pratiquement"~1~"Torr" = 133,322~4~"N/m"^2]).
+
+== Limites de mesure
+
+Les limites de mesure adoptées pour les manomètres, vacuomètres et
+manovacuomètres sont indiquées en annexe en fin de la présente Recommandation.
+
+En fonctionnement normal, les appareils ne doivent pas travailler de façon
+courante au-delà des limites de travail égales :
+
+. pour la surpression :
++
+--
+* aux stem:[3/4] de la limite supérieure de mesure, lorsque la pression est
+stable ;
+* aux stem:[2/3] de la limite supérieure de mesure, lorsque la pression est
+variable.
+--
+. pour la pression vacuométrique : à la limite supérieure de mesure.
+
+== Dispositif de lecture
+
+=== Aiguille
+
+* La pointe de l'aiguille doit recouvrir les traits les plus courts de la
+  graduation sur stem:[1/3] à stem:[2/3] de leur longueur.
+* La pointe de l'aiguille à l'endroit de la lecture doit avoir la forme d'un
+  triangle isocèle dont la base ne dépasse pas l'épaisseur du trait le plus
+  épais de la graduation et dont l'angle au sommet est inférieur à
+  stem:[60^circ].
++
+Cependant pour les appareils de la classe 0,6, cette extrémité d'aiguille
+doit avoir la forme d'un couteau perpendiculaire au plan de la graduation et
+dont l'épaisseur ne dépasse pas celle du trait le plus fin de la graduation.
+* La distance de l'aiguille au cadran ne doit pas dépasser la valeur
+  stem:[0,01l + 1~"mm"] (stem:[l] étant la distance en mm entre l'axe
+  de rotation de l'aiguille et sa pointe).
+
+=== Graduation
+
+* La valeur de l'échelon de graduation est choisie dans la série
+  stem:[1 xx 10^n - 2 xx 10^n - 5 xx 10^n] fois l'unité de mesure,
+  et doit être la plus proche possible de la valeur de l'erreur maximale
+  tolérée en service (stem:[n] étant un nombre entier positif, négatif ou égal
+  à zéro).
+* La longueur de l'échelon de graduation ne doit pas être inférieure à
+  stem:[1,5~"mm"].
+* Les longueurs des différents échelons d'une graduation linéaire ne doivent
+  pas différer entre elles de plus des stem:[2/10] de la plus grande de ces
+  longueurs.
+* L'épaisseur des traits de la graduation ne doit pas être supérieure à
+  stem:[1/5] de la longueur de l'échelon de graduation.
+* Les cadrans des appareils dans lesquels la pression est transmise par un
+  liquide et destinés à fonctionner dans des conditions exigeant que l'on
+  tienne compte de la pression supplémentaire due à la colonne de ce liquide
+  peuvent avoir 2 traits zéro.
+* Parmi l'ensemble des traits de la graduation, 4 au moins doivent être
+  chiffrés compte tenu que chaque dixième au moins doit l'être.
+* Les lectures doivent exprimer directement la valeur de la pression mesurée
+  sans qu'il y ait à appliquer de facteur de multiplication.
+
+== Précision
+
+Les classes de précision suivantes sont prévues pour les appareils :
+
+stem:[0,6 - 1 - 1,6 - 2,5 - 4]
+
+[NOTE]
+La classe 4 n'est autorisée que pour les appareils de petites dimensions.
+
+Les erreurs maximales tolérées sont indiquées dans le tableau ci-après :
+
+.TABLEAU 1 — Erreurs maximales tolérées en %
+[cols="1,1,1", options="header"]
+|===
+|Classe |Appareils en service |Appareils neufs ou rajustés
+
+|0,6  |± 0,6 |± 0,5
+|1    |± 1   |± 0,8
+|1,6  |± 1,6 |± 1,3
+|2,5  |± 2,5 |± 2,0
+|4    |± 4,0 |± 3,0
+|===
+
+Les erreurs s'expriment :
+
+* dans les appareils à graduation unilatérale : en stem:[%] de la limite
+  supérieure de mesure ;
+* dans les appareils à graduation bilatérale : en stem:[%] de la somme des
+  limites supérieures de mesure.
+
+La variation — (différence, pour une même pression mesurée, entre l'indication
+de l'appareil fonctionnant en marche arrière et l'indication de l'appareil
+fonctionnant en marche avant) — ne doit pas être négative et ne doit pas
+dépasser les valeurs absolues des erreurs maximales tolérées fixées au
+tableau 1.
+
+Dans le cas où une série de mesures est effectuée lors de la vérification,
+les appareils doivent satisfaire aux prescriptions pour chacune des mesures.
+
+À la pression atmosphérique, l'aiguille doit s'arrêter en face du trait zéro
+de la graduation dans des limites correspondant à l'erreur maximale tolérée.
+
+[NOTE]
+Lors des vérifications périodiques, les appareils en fonctionnement doivent
+satisfaire aux conditions fixées concernant l'erreur maximale tolérée en
+service et la variation. Pour certains appareils, les exigences concernant
+l'erreur maximale tolérée et la variation lors des vérifications périodiques
+peuvent être les mêmes qu'à la construction ou la réparation.
+
+== Stabilité des indications des appareils
+
+La stabilité des qualités métrologiques et techniques des appareils en
+fonctionnement pendant la période comprise entre deux vérifications est
+assurée par la solidité de leur fabrication, par l'emploi de matériaux
+appropriés, par une technique de production convenable ainsi que par un
+vieillissement suffisant des appareils avant leur mise en fonctionnement.
+
+Les éléments récepteurs élastiques doivent pouvoir supporter une pression
+dépassant la limite supérieure de mesure des appareils qu'ils équipent et
+doivent avoir une résistance suffisante à la fatigue.
+
+Les qualités métrologiques des appareils ne doivent pas être altérées par les
+transports et, pour assurer cette sécurité de transport, les modèles des
+appareils doivent, dans un emballage normal, résister aux effets des facteurs
+suivants :
+
+* une température de l'air ambiant de stem:[-20~^circ"C"] (et dans des cas
+  particuliers, de stem:[-50~^circ"C"]) et de stem:[+50~^circ"C"]
+  pendant 6 heures à chacune de ces températures ;
+* des secousses de transport ayant une accélération de stem:[30~"m/s"^2]
+  et une fréquence de 80-120 chocs par minute pendant 2 heures.
+
+Les appareils d'usage général doivent garder leurs qualités métrologiques et
+techniques dans leurs conditions normales de fonctionnement.
+
+Les boîtiers des appareils à usage général doivent protéger le mécanisme et
+l'échelle contre la pénétration de la poussière et des gouttelettes d'eau et
+contre les chocs ou dommages dans les conditions ordinaires de fonctionnement.
+
+Les appareils à usage spécial doivent garder leurs qualités métrologiques et
+techniques dans leurs conditions particulières de fonctionnement.
+
+== Méthodes de vérification
+
+Les erreurs et les variations sont déterminées les appareils étant placés en
+fonctionnement dans les conditions nominales. En l'absence d'indications
+marquées sur l'appareil à ce sujet, on observe alors les conditions normales.
+
+Pour la vérification, on doit employer des appareils de contrôle dont
+l'erreur ne dépasse pas stem:[1/4] de l'erreur tolérée pour l'appareil qui
+subit la vérification.
+
+Le contrôle des indications des appareils de la classe 0,6 s'effectue pour au
+moins 10 traits de la graduation uniformément répartis ; pour les appareils
+de classe 1 — 1,6 — 2,5 pour au moins 5 traits ; pour les appareils de
+classe 4 pour au moins 3 traits.
+
+Les appareils dont la vérification a donné de bons résultats sont plombés ou
+poinçonnés conformément aux prescriptions nationales des Services de
+métrologie.
+
+== Inscriptions
+
+=== Le cadran doit porter les indications suivantes
+
+. le symbole de l'unité de mesure ;
+. la désignation de la classe ;
+. le symbole des pressions vacuométriques : signe « — » (moins) sur les
+vacuomètres et sur la partie vacuométrique de l'échelle des manovacuomètres.
+
+=== Le cadran ou le boîtier doit porter les indications suivantes
+
+. la marque du constructeur ;
+. le numéro de fabrication ;
+. la date de fabrication.
+
+Sur le cadran doivent aussi être indiquées les conditions nominales
+d'utilisation si elles diffèrent des conditions normales.
+
+Pour les appareils destinés à mesurer la pression d'un liquide, d'une vapeur
+ou d'un gaz dont les propriétés exigent un emploi spécial de l'appareil, il
+est nécessaire d'indiquer sur le cadran le milieu mesuré.
+
+Le cadran des appareils destinés à la mesure de la pression du gaz oxygène
+doit porter une inscription supplémentaire d'avertissement, par exemple :
+« graissage interdit » ou un symbole spécial prévu par les normes nationales.
+
+== Annexe 1 — Limites de mesure
+
+Les limites supérieures de mesure :
+
+* des manomètres en stem:["MN/m"^2] :
+  stem:[0,06 - 0,1 - 0,16 - 0,25 - 0,4 - 0,6 - 1,0 - 1,6;]
+  stem:[2,5 - 4 - 6 - 10 - 16 - 25 - 40 - 60;]
+  stem:[100 - 160 - 250 - 400 - 600 - 1000].
+* des manomètres en stem:["kgf/cm"^2], en stem:["kp/cm"^2], en
+  bars : stem:[0,6 - 1 - 1,6 - 2,5 - 4 - 6 - 10 - 16 - 25;]
+  stem:[40 - 60 - 100 - 160 - 250 - 400 - 600;]
+  stem:[1000 - 1600 - 2500 - 4000 - 6000 - 10000].
+* des vacuomètres en stem:["MN/m"^2] : stem:[0,06 - 0,1].
+* des vacuomètres en stem:["kgf/cm"^2], stem:["kp/cm"^2], bar :
+  stem:[0,6 - 1].
+* des manovacuomètres en stem:["MN/m"^2] :
+** de la surpression : stem:[0,06 - 0,15 - 0,3 - 0,5 - 0,9 - 1,5 - 2,4] ;
+** de la pression vacuométrique : stem:[0,1].
+
+== Annexe 2 — Dispositifs de protection des appareils d'usage général
+
+* La protection des appareils mesurant la pression de milieux à température
+  élevée est assurée par un dispositif séparateur rempli d'un thermo-isolant.
+* La protection des appareils contre les secousses et les vibrations est
+  assurée en les raccordant à la source de pression à l'aide d'un tuyau
+  d'amenée flexible et en les plaçant sur amortisseurs.
+* La protection des appareils contre les effets de pressions qui varient avec
+  des vitesses supérieure à celle indiquée et contre des impulsions brusques
+  de pression est assurée en utilisant des dispositifs d'amortissement de
+  pression.
+* La protection des appareils contre les attaques des milieux visqueux,
+  cristallisants ou agressifs est assurée par l'emploi de dispositifs
+  séparateurs.
+* La protection des parties en verre contre l'éclatement, dans le cas de la
+  rupture des organes élastiques des appareils destinés à la mesure de la
+  pression des gaz ou des vapeurs, est assurée par un dispositif de sécurité
+  placé dans le boîtier ou par une soupape qui automatiquement déconnecte
+  l'appareil de la source de pression.

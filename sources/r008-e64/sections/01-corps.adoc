@@ -1,0 +1,39 @@
+== Symbole de correspondance
+
+Indiquant que deux quantités correspondent l'une à l'autre, mais qu'il n'y a
+pas entre elles d'égalité physique.
+
+L'Organisation internationale de Normalisation (ISO) a compris dans ses
+Recommandations un *Symbole de Correspondance* destiné à remplacer le signe
+stem:[=] (égal) pour indiquer que deux quantités correspondent l'une à
+l'autre, mais qu'il n'y a pas entre elles d'égalité physique.
+
+*Exemples* :
+
+* pour les échelles des dessins ou cartes : stem:[1~"cm" ~ 1~"m"] ;
+* pour les graduations d'appareils : stem:[1~"échelon" ~ 1~"gramme"].
+
+Ce symbole de correspondance pourrait avantageusement être employé en
+métrologie légale, en particulier pour indiquer la valeur des divisions des
+échelles, cadrans, graduations des instruments de mesure.
+
+Aussi la Conférence Internationale de Métrologie Légale de Vienne 1962 (en
+accord avec l'Organisation Internationale de Normalisation) recommande
+l'adoption internationale en métrologie légale de ce symbole pour toutes
+utilisations impliquant une correspondance entre deux quantités.
+
+L'emploi exclusif de ce symbole n'est obligatoire que sur les appareils ou
+instruments neufs (ou réparés au point de vue échelle) et un délai de mise en
+application de trois ans est prévu.
+
+== Recommandation
+
+Dans un délai de trois ans à dater du 1{sup}er[/sup] janvier 1965, la valeur
+des divisions ou échelons des échelles, cadrans, graduations... des appareils
+et instruments de mesure sera indiquée par le symbole de correspondance dont
+le signe est stem:[~].
+
+Pendant ce délai l'emploi de ce symbole est facultatif.
+
+Cette décision n'est applicable qu'aux appareils et instruments neufs ou
+réparés au point de vue échelle.

@@ -1,0 +1,63 @@
+== Dispositions générales
+
+=== Champ d'application de la Recommandation
+
+La présente Recommandation s'applique à tous les instruments de pesage de la
+classe de précision moyenne susceptibles d'être utilisés dans le commerce et
+l'industrie pour la pesée de charges au repos et dans quelques cas en
+mouvement lent, qu'ils soient à équilibre automatique ou non-automatique,
+gradués ou non gradués, et dont les résultats sont donnés par un dispositif
+à indication continue.
+
+Les instruments de pesage de la classe de précision moyenne sont, en
+principe, ceux pour lesquels l'erreur maximale tolérée, à la portée maximale,
+est comprise entre le stem:[2/1000] et le stem:[2/10000] de cette portée.
+
+Le nombre d'échelons de la plupart d'entre eux est compris entre 500 et
+7 500.
+
+=== Terminologie
+
+La terminologie utilisée est donnée ci-après :
+
+. Portée maximale (stem:[P_max]) d'un instrument de pesage :: valeur de
+la masse nette au-dessus de laquelle les indications de l'instrument de
+pesage obtenues dans les conditions usuelles d'emploi, en une seule
+opération, sont susceptibles d'être entachées d'une erreur supérieure à
+l'erreur maximale tolérée.
+. Portée minimale (stem:[P_min]) d'un instrument de pesage :: valeur de
+la masse nette au-dessous de laquelle les indications de l'instrument de
+pesage obtenues dans les conditions usuelles d'emploi sont susceptibles
+d'être entachées d'une erreur relative supérieure à un pourcentage fixé de
+la masse pesée.
+. Etendue de mesure :: zone de mesure comprise entre la portée minimale et
+la portée maximale. Dans cet intervalle, les indications de l'instrument de
+pesage obtenues dans les conditions usuelles d'emploi ne doivent pas être
+entachées d'une erreur supérieure à l'erreur maximale tolérée.
+. Echelon :: plus petite division de l'échelle ou de la graduation.
+. Valeur de l'échelon (stem:[d]) — ou simplement « échelon », lorsqu'il ne
+saurait y avoir d'ambiguïté :: masse correspondant à un échelon.
+. Base de l'échelle ou de la graduation :: ligne (matérialisée ou non) sur
+laquelle doit être effectuée la lecture. Si cette ligne n'est pas
+matérialisée, on admet par convention qu'elle passe par les milieux des
+repères les plus courts.
+. Longueur de l'échelon (stem:[i]) :: longueur rectiligne ou curviligne
+mesurée sur la base de l'échelle et comprise entre les axes de deux repères
+consécutifs.
+. Nombre d'échelons (stem:[n]) :: quotient de la portée maximale par la
+valeur de l'échelon : stem:[n = P_max/d].
+. Sensibilité stem:[S] d'un instrument de pesage ::
++
+--
+*Instrument à équilibre non automatique à une seule position d'équilibre* :
+rapport du déplacement stem:[Delta l] de l'index indicateur de la position
+d'équilibre à l'accroissement stem:[Delta m] de la masse à peser qui l'a
+produit : stem:[S = Delta l / Delta m].
+
+En vérification, il est commode de prendre stem:[Delta m] égal à l'erreur
+maximale tolérée.
+
+*Instrument gradué à équilibre semi-automatique ou automatique* : on peut,
+en principe, prendre comme valeur de la sensibilité le quotient de la
+longueur stem:[i] de l'échelon par la valeur stem:[d] de celui-ci.
+--

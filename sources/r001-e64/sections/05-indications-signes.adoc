@@ -1,0 +1,14 @@
+== Indications et signes distinctifs
+
+Les indications relatives à la valeur nominale du poids ainsi que la marque
+de fabrication figurent en creux ou en relief sur la face supérieure de la
+tête.
+
+L'indication de la valeur nominale peut facultativement être reproduite sur
+le corps des poids de 500 g à 10 kg.
+
+La valeur nominale du poids doit être indiquée sous la forme :
+
+stem:[1~"g", 2~"g", 5~"g", 10~"g", 20~"g", 50~"g",
+100~"g", 200~"g", 500~"g", 1~"kg", 2~"kg",
+5~"kg", 10~"kg"]

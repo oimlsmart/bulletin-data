@@ -1,0 +1,137 @@
+== Valeurs nominales
+
+Les valeurs nominales autorisées pour les « poids parallélépipédiques » de
+précision moyenne sont les suivantes :
+
+stem:[5, 10, 20, 50] kilogrammes.
+
+== Forme — Matière — Mode d'exécution
+
+=== Forme
+
+Les poids doivent être en une seule pièce en forme de parallélépipède
+rectangle à arêtes arrondies avec poignée rigide de préhension.
+
+=== Matière
+
+Corps :: fonte grise de fer.
+
+Poignée ::
+
+* *Modèle 1* : en tube d'acier sans soudure.
+* *Modèle 2* : en fonte venue de fonderie avec le corps.
+
+=== Mode d'exécution
+
+Tout procédé de moulage et de fonderie adéquat.
+
+== Cavité d'ajustage
+
+Les poids doivent comporter une cavité d'ajustage.
+
+[NOTE]
+====
+L'ajustage doit être effectué avec des matières pondéreuses métalliques
+(plombs de chasse par exemple). Après ajustage des poids neufs, les
+deux-tiers du volume total de la cavité doivent rester vides.
+====
+
+=== Modèle 1
+
+La cavité d'ajustage est constituée par l'intérieur du tube formant poignée
+de préhension.
+
+Cette cavité doit être fermée :
+
+* soit par un bouchon vissé en laiton,
+* soit par un disque en laiton ;
+
+le bouchon doit porter une rainure de tournevis, le disque un trou de
+préhension central.
+
+Le bouchon ou le disque doivent être scellés par une pastille de plomb
+repoussée dans une rainure circulaire interne ou dans le filetage du tube.
+
+=== Modèle 2
+
+La cavité d'ajustage est venue de fonderie dans un des montants du poids et
+débouche sur la face supérieure de ce montant.
+
+Cette cavité doit être fermée par une plaquette découpée en acier doux.
+
+La plaquette doit être scellée par une pastille de plomb repoussée dans un
+logement de coupe conique.
+
+== Indications et signes distinctifs
+
+L'indication de la valeur nominale du poids ainsi que la marque de
+fabrication doivent figurer en creux ou en relief sur la face supérieure de
+la partie centrale du poids.
+
+La valeur nominale du poids doit être indiquée sous la forme :
+
+stem:[5~"kg", 10~"kg", 20~"kg", 50~"kg"]
+
+== Dimensions
+
+Les dimensions d'exécution figurent au tableau synoptique ci-après annexe.
+
+[NOTE]
+Les cotes A et A' ainsi que B et B' peuvent être inversées.
+
+=== Modèle 1 — Tableau des cotes (mm)
+
+[cols="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1", options="header"]
+|===
+|Valeur nominale |A |A' |B |B' |H |a |b |c |h |d/d' |l |r |o |t |f |e |stem:[epsilon] |stem:[phi'] |stem:[phi''] |g
+
+|5 kg  |150 |152 |75 |77 |84  |36 |30 |6  |66  |12/20 |145 |5  |12 |M16×1,5 |14 |1 |2 |16,5 |18 |5
+|10 kg |190 |193 |95 |97 |109 |46 |38 |8  |84  |12/20 |185 |6  |16 |M16×1,5 |14 |1 |2 |16,5 |18 |5
+|20 kg |230 |234 |115|117|139 |61 |52 |12 |109 |24/32 |220 |8  |20 |M27×1,5 |21 |2 |3 |27,5 |30 |8
+|50 kg |310 |314 |155|157|192 |83 |74 |16 |152 |24/32 |300 |10 |25 |M27×1,5 |21 |2 |3 |27,5 |30 |8
+|===
+
+=== Modèle 2 — Tableau des cotes (mm)
+
+[cols="1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1", options="header"]
+|===
+|Valeur nominale |A |A' |B |B' |H |a |b |c |h |d |r |o |m |n |p
+
+|5 kg  |150 |152 |75 |77 |84  |36 |30 |6  |66  |19 |5  |12 |16 |13 |55
+|10 kg |190 |193 |95 |97 |109 |46 |38 |8  |84  |25 |6  |16 |35 |25 |70
+|20 kg |230 |234 |115|117|139 |61 |52 |12 |109 |29 |8  |20 |50 |30 |95
+|50 kg |310 |314 |155|157|192 |83 |74 |16 |152 |40 |10 |25 |70 |40 |148
+|===
+
+== Tolérances dimensionnelles
+
+Les tolérances autorisées sur les différentes cotes sont celles qui
+résultent normalement du procédé de moulage et de fonderie choisis.
+
+== Finition
+
+Si nécessaire, les poids doivent être protégés contre la corrosion par un
+revêtement approprié résistant à l'usure et aux chocs.
+
+== Marque de contrôle métrologique
+
+La marque légale de contrôle est apposée sur la pastille de plomb scellant
+la fermeture de la cavité d'ajustage.
+
+== Erreurs maximales tolérées sur la masse
+
+Les erreurs maximales tolérées sur la masse des poids sont les suivantes :
+
+[cols="1,1,1", options="header"]
+|===
+|Valeur nominale |en vérification primitive (mg) |en vérification périodique (mg)
+
+|5 kg   |+ 800 / − 0   |± 800
+|10 kg  |+ 1600 / − 0  |± 1600
+|20 kg  |+ 3200 / − 0  |± 3200
+|50 kg  |+ 8000 / − 0  |± 8000
+|===
+
+[NOTE]
+Les plans d'exécution complets (Modèle 1 et Modèle 2) sont publiés dans le
+Bulletin de l'OIML, 11ᵉ année, n° 41 (premier trimestre 1970).

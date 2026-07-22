@@ -1,0 +1,273 @@
+Les seringues médicales avec corps en verre assujetties à la vérification
+obligatoire doivent correspondre aux prescriptions suivantes :
+
+== Catégories et valeurs de capacité nominale totale
+
+Les seringues doivent être graduées avec ou sans échelle (elles sont
+considérées comme graduées même si leur capacité nominale totale seule est
+indiquée par un ou des traits repères).
+
+La capacité nominale totale doit être de :
+
+stem:[0,5 - 1 - 2 - 5 - 10 - 20 - 50 - 100 - 200] centimètres cubes ou
+millilitres.
+
+== Ajustage
+
+Les seringues doivent être ajustées à la température de stem:[+20~^circ"C"].
+
+La capacité nominale totale et la capacité délimitée par deux traits
+quelconques de la graduation sont définies par le volume d'eau à
+stem:[+20~^circ"C"] délivré par la seringue lorsque la face de référence
+du piston parcourt la totalité ou la partie considérée de la graduation.
+
+== Matériaux
+
+En ce qui concerne leurs qualités physiques et chimiques, les matériaux des
+seringues médicales doivent être adaptés à leur emploi.
+
+Les matériaux utilisés et leur traitement doivent permettre le nettoyage et
+la stérilisation des seringues.
+
+Dans les conditions normales d'emploi, l'étanchéité, l'invariabilité de la
+capacité nominale totale et des capacités partielles, l'inaltérabilité de la
+graduation et des inscriptions des seringues doivent être suffisamment
+garanties.
+
+Le corps des seringues doit être en verre.
+
+Le verre utilisé doit être pratiquement sans tensions internes ; il doit
+posséder une résistance à l'eau correspondant au moins à la troisième classe
+hydrolytique (d'après Mylius).
+
+Les matériaux utilisés pour le piston et les montures du corps (métal,
+verre, matières céramiques) doivent avoir une dilatation thermique
+s'approchant de celle du verre du corps, de façon à ce que les seringues
+satisfassent aux conditions posées même à la température de
+stem:[+40~^circ"C"].
+
+Les matériaux autres que le verre doivent être au moins aussi résistants que
+le nickel à l'air et aux liquides normalement utilisés.
+
+Les seringues dont les pistons et les montures du corps sont constitués par
+des matériaux autres que le verre, les métaux ou les matières céramiques,
+nécessitent une admission spéciale.
+
+Pour la jonction des parties inamovibles, seuls des lutis irréversibles ou
+des soudures métalliques doivent être utilisés.
+
+Si, en vue d'assurer l'étanchéité, des garnitures compressibles sont
+employées, leur compressibilité ne doit avoir aucune influence sur la
+capacité nominale totale.
+
+Les seringues, sans subir aucun dommage dans leur ensemble et en particulier
+sans que les soudures ou les lutis perdent leur étanchéité et présentent
+d'altération visible, doivent résister :
+
+(a) toutes les seringues : à une variation brusque de température de
+stem:[80~"deg"] à partir d'une température initiale de
+stem:[+20~^circ"C"] (par immersion dans l'eau bouillante) ;
+
+(b) les seringues ordinaires : à une élévation progressive de température
+dans la vapeur d'eau allant de stem:[+20~^circ"C"] à
+stem:[+120~^circ"C"] (la durée de cette élévation de température étant
+de une heure) ;
+
+(c) les seringues désignées comme appropriées à la stérilisation à sec : à
+une élévation progressive de température dans l'air sec allant de
+stem:[+20~^circ"C"] à stem:[+200~^circ"C"] (la durée de cette
+élévation de température étant de une heure).
+
+== Exécution
+
+Les seringues se composent :
+
+* du corps,
+* du piston,
+* de l'embout de l'aiguille ;
+
+en cas de besoin, elles peuvent être équipées de montures spéciales
+supplémentaires (en particulier pour la jonction de l'embout sur le corps).
+
+L'étanchéité de l'ajustage du piston dans le corps doit être telle que la
+quantité d'eau distillée suintant pendant une demi-minute entre le corps et
+le piston ne dépasse pas une valeur correspondant à l'erreur maximale tolérée
+à la vérification si la pression hydrostatique s'élève à stem:[3~"bar"]
+dans les seringues ayant une capacité nominale totale allant jusqu'à
+stem:[10~"cm"^3] et à stem:[2~"bar"] dans les seringues ayant une
+capacité nominale totale de stem:[20~"cm"^3] ou plus.
+
+L'étanchéité des jonctions des montures et de l'embout sur le corps doit
+être telle que, lors de l'épreuve sous pression décrite, il n'apparaisse tout
+au plus que des traces d'humidité.
+
+Le repérage, par rapport aux traits de la graduation, de l'enfoncement du
+piston dans le corps, s'effectue, suivant les cas, par tout index de mise au
+point qui permette un repérage facile, par exemple :
+
+* l'arête circulaire, très aiguë et bien visible, de la jonction du fond du
+  piston et du cylindre qui le constitue ;
+* l'arête circulaire, en contact avec le corps, du biseau d'extrémité du
+  piston (dans le cas de piston à extrémité biseautée) ;
+* le plan du fond du piston (dans le cas de piston en verre) ;
+* la tranche d'une plaquette ou marque en verre coloré collée par fusion sur
+  le fond du piston.
+
+L'épaisseur de la plaquette ou de l'index servant au repérage ne doit pas
+être supérieure à la longueur correspondant sur le corps à la moitié de
+l'erreur maximale tolérée à la vérification.
+
+L'arête du fond, l'arête du biseau, le fond, la tranche de la plaquette ou
+tout autre index servant à la mise au point du piston doit coïncider avec le
+trait du zéro lorsque le piston est à fond de course. Les écarts ne doivent
+pas être supérieurs ni à un quart de la longueur de l'échelon (plus petite
+division) ni à une longueur correspondant sur le corps à la moitié de
+l'erreur maximale tolérée à la vérification.
+
+Pour les seringues avec pistons à tige et couvercle, le corps doit, si le
+piston est tiré au maximum, contenir encore, au-dessus du trait repère de la
+capacité nominale totale, un espace libre qui, pour les seringues de
+capacité nominale totale jusqu'à stem:[5~"cm"^3] — excepté celles
+pourvues d'une échelle en stem:[0,01] ou stem:[0,02~"cm"^3] — doit
+être de 2 dixièmes au moins et pour les autres seringues, de 1 dixième au
+moins de la capacité nominale totale.
+
+Dans le cas d'autres types de seringues (par ex. seringues avec piston en
+verre) le corps doit, si le piston est retiré, avoir au-dessus du repère de
+la capacité nominale totale un espace libre d'au moins un tiers de la
+longueur du corps entier.
+
+== Graduation — Chiffraison
+
+Ne sont admissibles que des graduations linéaires dont l'échelon a pour
+valeur l'une des valeurs du tableau ci-après, en fonction de la capacité
+nominale totale :
+
+[cols="1,1,1,1,1,1,1,1,1,1,1,1,1,1", options="header"]
+|===
+|Capacité stem:["cm"^3] / échelon |0,01 |0,02 |0,05 |0,1 |0,2 |0,5 |1 |2 |5 |10 |20 |50 |100
+
+|0,5  |✓ |✓ |✓ |✓ | | | | | | | | |
+|1    |✓ |✓ |✓ |✓ |✓ |✓ | | | | | | |
+|2    |  |✓ |✓ |✓ |✓ |✓ |✓ | | | | | |
+|5    |  |  |  |✓ |✓ |✓ |✓ | | | | | |
+|10   |  |  |  |  |✓ |✓ |✓ |✓ |✓ | | | |
+|20   |  |  |  |  |  |✓ |✓ |✓ |✓ |✓ | | |
+|50   |  |  |  |  |  |  |✓ |✓ |✓ |✓ | | |
+|100  |  |  |  |  |  |  |  |✓ |✓ |✓ |✓ |✓ |
+|200  |  |  |  |  |  |  |  |  |✓ |✓ |✓ |✓ |✓
+|===
+
+La longueur de l'échelon (distance séparant sur le corps deux traits
+consécutifs de la graduation) ainsi que la distance correspondant à l'erreur
+maximale tolérée à la vérification doivent être d'au moins :
+
+* stem:[0,8~"mm"] dans le cas des seringues graduées en stem:[0,01]
+  ou stem:[0,02~"cm"^3] ;
+* stem:[1,0~"mm"] dans le cas des autres seringues.
+
+La graduation doit être régulière et uniforme.
+
+Les traits repères limitant la capacité nominale totale et les traits de la
+graduation doivent être tracés sur le corps.
+
+Lorsque l'embout est rapporté, le trait zéro doit être visible, tout au plus
+son épaisseur peut-elle être partiellement recouverte par l'embout ou sa
+monture.
+
+Dans les cas des graduations en :
+
+* stem:[0,01 - 0,1 - 1 - 10~"cm"^3] : chaque cinquième trait doit
+  être plus long que les autres traits non chiffrés ;
+* stem:[0,02 - 0,2 - 2 - 20~"cm"^3] : chaque cinquième trait doit
+  être plus long que les autres traits non chiffrés ;
+* stem:[0,05 - 0,5 - 5 - 50~"cm"^3] : chaque deuxième trait doit
+  être plus long que les autres traits non chiffrés.
+
+Les traits chiffrés doivent être de longueur au moins égale aux 4 dixièmes du
+diamètre du corps — les autres traits de longueur au moins égale aux 2
+dixièmes de ce diamètre mais sans toutefois être inférieurs à stem:[2~"mm"].
+
+Les traits doivent être tracés dans des plans perpendiculaires à l'axe du
+corps.
+
+L'épaisseur des traits peut atteindre deux dixièmes de la longueur de
+l'échelon sans toutefois dépasser stem:[0,4~"mm"] ou être inférieure à
+stem:[0,25~"mm"]. Cette épaisseur doit être la même pour tous les traits
+et rester constante le long du trait.
+
+La nature et l'exécution des traits ne doivent pas être susceptibles de
+provoquer des erreurs sensibles par rapport à l'erreur maximale tolérée à la
+vérification.
+
+Les chiffres doivent être exempts d'ambiguïté et bien lisibles.
+
+La chiffraison, dans les cas des graduations en :
+
+* stem:[0,01 - 0,1 - 1 - 10~"cm"^3] : doit marquer chaque cinquième
+  ou dixième trait ;
+* stem:[0,02 - 0,2 - 2 - 20~"cm"^3] : doit marquer chaque cinquième
+  ou dixième trait ;
+* stem:[0,05 - 0,5 - 5 - 50~"cm"^3] : doit marquer chaque deuxième,
+  quatrième ou dixième trait.
+
+Les traits de graduation et les chiffres, inscriptions ou signes doivent
+être indélébiles.
+
+Les traits de graduation et les chiffres, inscriptions ou signes gravés ou
+appliqués à chaud doivent être remplis d'une couleur indélébile, insoluble
+dans l'eau bouillante pure ou contenant de la soude, inaltérable lorsque la
+seringue est exposée à la vapeur d'eau à stem:[+120~^circ"C"] pendant
+une heure, résistante à l'alcool pur ou dénaturé.
+
+Dans le cas des seringues qui sont appropriées à la stérilisation à sec,
+cette couleur doit rester inaltérée à stem:[+200~^circ"C"].
+
+== Inscriptions
+
+La capacité nominale totale doit être indiquée en centimètres cubes par le
+symbole stem:["cm"^3] ou en millilitres par le symbole stem:["ml"].
+
+Les seringues appropriées à la stérilisation à sec doivent porter une
+inscription rappelant cette propriété.
+
+Les corps des seringues dont les montures et embouts sont facilement
+démontables (raccordement à vis par ex.) doivent porter une désignation de
+type ou une marque de fabrication.
+
+== Erreurs maximales tolérées
+
+Les erreurs maximales tolérées à la vérification primitive sont :
+
+* pour les seringues jusqu'à stem:[2~"cm"^3] inclus : stem:[+- 4%] ;
+* pour les seringues de plus de stem:[2~"cm"^3] : stem:[+- 3%] de la
+capacité totale.
+
+Elles ne doivent pas être supérieures au volume correspondant à un échelon de
+la graduation.
+
+Les erreurs maximales tolérées en service sont identiques aux erreurs
+maximales tolérées à la vérification primitive.
+
+== Poinçonnage
+
+Une marque de vérification doit être apposée sur les seringues médicales.
+
+La marque de vérification doit être apposée sur le corps le long de la
+génératrice opposée à la graduation.
+
+Dans le cas de seringues à embout rapporté cette marque doit être
+directement à côté de l'embout.
+
+== Dispositions spéciales
+
+Il est laissé à la décision des différents États d'admettre en outre à la
+vérification :
+
+. des seringues d'une capacité nominale totale non prévue, par exemple :
+   stem:[3 - 30 - 150~"cm"^3] ;
+. des seringues d'une capacité nominale totale de stem:[0,5 - 1 - 2~"cm"^3]
+   comportant une graduation ou un chiffrage additionnels (par ex. : seringues
+   appropriées pour injections d'insuline ou de tuberculine) pourvu que ces
+   seringues, pour leurs autres propriétés, soient conformes aux dispositions
+   des points 1 à 6.

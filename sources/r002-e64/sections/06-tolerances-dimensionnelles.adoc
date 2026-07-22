@@ -1,0 +1,4 @@
+== Tolérances dimensionnelles
+
+Les tolérances à appliquer aux différentes cotes sont celles qui résultent
+normalement de la fabrication.

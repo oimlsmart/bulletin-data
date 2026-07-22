@@ -1,0 +1,35 @@
+== Plans
+
+Les plans annexés au présent projet sont des plans d'exécution permettant
+sans autre étude la fabrication des poids (cotes en millimètres).
+
+[NOTE]
+====
+Les plans d'exécution originaux (13 planches) sont publiés dans le
+Bulletin de l'OIML, 5ᵉ année, n° 16 (juin 1964), aux pages indiquées
+ci-dessous. Les fichiers images correspondants ne sont pas inclus
+dans cette extraction ; se reporter au PDF source.
+
+* Poids de 1 gramme — page 12
+* Poids de 2 grammes — page 13
+* Poids de 5 grammes — page 15
+* Poids de 10 grammes — page 16
+* Poids de 20 grammes, sans cavité d'ajustage — page 17
+* Poids de 20 grammes, Variante 1 — page 18
+* Poids de 20 grammes, Variante 2 — page 19
+* Poids de 50 grammes, Variante 1 — page 21
+* Poids de 50 grammes, Variante 2 — page 22
+* Poids de 100 grammes, Variante 1 — page 23
+* Poids de 100 grammes, Variante 2 — page 24
+* Poids de 200 grammes, Variante 1 — page 25
+* Poids de 200 grammes, Variante 2 — page 26
+* Poids de 500 grammes, Variante 1 — page 27
+* Poids de 500 grammes, Variante 2 — page 28
+* Poids de 1 kilogramme, Variante 1 — page 29
+* Poids de 2 kilogrammes, Variante 1 — page 0
+* Poids de 2 kilogrammes, Variante 2 — page 1
+* Poids de 5 kilogrammes, Variante 1 — page 3
+* Poids de 5 kilogrammes, Variante 2 — page 4
+* Poids de 10 kilogrammes, Variante 1 — page 5
+* Poids de 10 kilogrammes, Variante 2 — page 5
+====
