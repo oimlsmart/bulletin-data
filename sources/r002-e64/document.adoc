@@ -19,7 +19,7 @@
 :source-ocr-lines: 493-699
 :toclevels-pdf: 1
 :mn-document-class: oiml
-:mn-output-extensions: xml,html,pdf,rxl
+:mn-output-extensions: xml,html,rxl
 :imagesdir: images
 :local-cache-only:
 
