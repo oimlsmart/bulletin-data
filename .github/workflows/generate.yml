@@ -51,3 +51,38 @@ jobs:
           destination: artifact
           artifact-name: bulletin-sources
           continue-without-fonts: true
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    permissions:
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: bulletin-sources
+          path: site
+
+      - name: Locate the site root
+        id: root
+        run: |
+          set -euo pipefail
+          if [ -f site/index.html ]; then
+            echo "path=site" >> "$GITHUB_OUTPUT"
+          else
+            d=$(find site -maxdepth 3 -name index.html | head -1)
+            test -n "$d"
+            echo "path=$(dirname "$d")" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ steps.root.outputs.path }}
+      - uses: actions/deploy-pages@v4
+        id: deployment
